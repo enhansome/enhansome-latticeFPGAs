@@ -18,7 +18,7 @@
 
 ## HX4K
 
-* [Glasgow revC](https://github.com/GlasgowEmbedded/glasgow) ⭐ 2,191 | 🐛 79 | 🌐 Python | 📅 2026-08-12
+* [Glasgow revC](https://github.com/GlasgowEmbedded/glasgow) ⭐ 2,191 | 🐛 79 | 🌐 Python | 📅 2026-08-14
 * [Graphics Gremlin](https://github.com/schlae/graphics-gremlin) ⭐ 578 | 🐛 10 | 🌐 Verilog | 📅 2024-10-24. The Graphics Gremlin is an FPGA-based ISA video card specifically designed to emulate certain old video standards. This initial release emulates the original IBM PC monochrome graphics adapter (MDA) as well as the original IBM color graphics adapter (CGA). Since the logic is defined by the bitstream loaded into the FPGA, new emulations may be available in the future to support other video standards.
 * [Alhambra II](https://github.com/FPGAwars/Alhambra-II-FPGA) ⭐ 97 | 🐛 6 | 📅 2024-10-29 (FTDI)
 * [Azukar FPGA](https://github.com/maxisimonazzi/Azukar-FPGA) ⭐ 85 | 🐛 0 | 📅 2026-06-03 (FTDI, GPIO, 8 leds, 8 push buttons, 12 and 100 MHz oscillators, USB-C, usable as an 8k device in yosys) Azukar is an Open-source FPGA development board for education and digital design learning. Designed for accessibility, reproducibility and seamless integration with open FPGA toolchains for students, makers and academic environments.
@@ -57,7 +57,7 @@
 
 ## LP1K
 
-* [CaribouLite](https://github.com/cariboulabs/cariboulite) ⭐ 1,322 | 🐛 116 | 🌐 C | 📅 2025-07-24 - open-source SDR platform ( CaribouLite utilizes the SMI (Secondary Memory Interface)  ).
+* [CaribouLite](https://github.com/cariboulabs/cariboulite) ⭐ 1,324 | 🐛 116 | 🌐 C | 📅 2025-07-24 - open-source SDR platform ( CaribouLite utilizes the SMI (Secondary Memory Interface)  ).
 * [iCESugar-nano](https://github.com/wuxx/icesugar-nano) ⭐ 150 | 🐛 8 | 🌐 Verilog | 📅 2025-09-16 - iCESugar FPGA Board base on iCE40LP1K-CM36
 
 ## LP4K
@@ -190,7 +190,7 @@ HX8K and ECP5 so far. (and now up5k!)
 
 ### ECP5
 
-* [Colorlight I5\_V6](https://github.com/wuxx/Colorlight-FPGA-Projects) ⭐ 353 | 🐛 7 | 🌐 Verilog | 📅 2026-06-10 - with pins breakdowns by JohnnyW11773607. And a [testbed](https://twitter.com/JohnnyW11773607/status/1306807958165020672/photo/1)
+* [Colorlight I5\_V6](https://github.com/wuxx/Colorlight-FPGA-Projects) ⭐ 354 | 🐛 7 | 🌐 Verilog | 📅 2026-06-10 - with pins breakdowns by JohnnyW11773607. And a [testbed](https://twitter.com/JohnnyW11773607/status/1306807958165020672/photo/1)
 * [Colorlight 5A-75B](https://www.aliexpress.com/item/32281130824.html) - 13,37eur (^^) More [here](http://www.fabienm.eu/flf/15-ecp5-board-kit/).
 * \[Colorlight S2] -> See [image](https://images-na.ssl-images-amazon.com/images/I/71LIIdGKd2L._SL1200_.jpg)
 * [Colorlight I5A-F](https://www.aliexpress.com/item/32965503071.html?spm=a2g0o.productlist.0.0.264c5846mvNu3I\&algo_pvid=298ad15b-e19a-4653-8bac-51ac2682746a\&algo_expid=298ad15b-e19a-4653-8bac-51ac2682746a-0\&btsid=773bcf40-222b-450f-805c-af72623f12e1\&ws_ab_test=searchweb0_0,searchweb201602_10,searchweb201603_55)
@@ -235,4 +235,4 @@ To the extent possible under law, [Kelu124](https://github.com/kelu124) has waiv
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._

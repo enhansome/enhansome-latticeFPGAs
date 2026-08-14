@@ -11,7 +11,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-12T03:45:13Z",
+            "last_commit": "2026-08-14T07:47:42Z",
             "owner": "GlasgowEmbedded",
             "repo": "glasgow",
             "stars": 2191
@@ -270,7 +270,7 @@
             "last_commit": "2025-07-24T17:35:47Z",
             "owner": "cariboulabs",
             "repo": "cariboulite",
-            "stars": 1322
+            "stars": 1324
           }
         },
         {
@@ -783,7 +783,7 @@
             "last_commit": "2026-06-10T00:08:50Z",
             "owner": "wuxx",
             "repo": "Colorlight-FPGA-Projects",
-            "stars": 353
+            "stars": 354
           }
         },
         {
@@ -807,7 +807,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T10:54:48.097Z",
+    "last_updated": "2026-08-14T10:51:08.937Z",
     "original_repository": "kelu124/awesome-latticeFPGAs",
     "original_repository_sha": "8f1c1ba4e74fdc980cca11eadaaeec425f4ebe33",
     "enhanced_repository": "enhansome/enhansome-latticeFPGAs",
