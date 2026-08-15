@@ -11,7 +11,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T07:47:42Z",
+            "last_commit": "2026-08-15T07:15:23Z",
             "owner": "GlasgowEmbedded",
             "repo": "glasgow",
             "stars": 2191
@@ -807,7 +807,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T10:51:08.937Z",
+    "last_updated": "2026-08-15T10:14:35.034Z",
     "original_repository": "kelu124/awesome-latticeFPGAs",
     "original_repository_sha": "8f1c1ba4e74fdc980cca11eadaaeec425f4ebe33",
     "enhanced_repository": "enhansome/enhansome-latticeFPGAs",
