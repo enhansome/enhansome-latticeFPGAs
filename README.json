@@ -11,7 +11,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-15T07:15:23Z",
+            "last_commit": "2026-08-15T16:17:47Z",
             "owner": "GlasgowEmbedded",
             "repo": "glasgow",
             "stars": 2191
@@ -304,7 +304,7 @@
             "last_commit": "2026-07-31T02:22:52Z",
             "owner": "wuxx",
             "repo": "icesugar",
-            "stars": 456
+            "stars": 458
           }
         },
         {
@@ -318,7 +318,7 @@
             "last_commit": "2026-07-21T23:13:54Z",
             "owner": "tinyvision-ai-inc",
             "repo": "UPduino-v3.0",
-            "stars": 362
+            "stars": 363
           }
         },
         {
@@ -807,7 +807,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T10:14:35.034Z",
+    "last_updated": "2026-08-16T10:14:31.383Z",
     "original_repository": "kelu124/awesome-latticeFPGAs",
     "original_repository_sha": "8f1c1ba4e74fdc980cca11eadaaeec425f4ebe33",
     "enhanced_repository": "enhansome/enhansome-latticeFPGAs",
