@@ -18,7 +18,7 @@
 
 ## HX4K
 
-* [Glasgow revC](https://github.com/GlasgowEmbedded/glasgow) ⭐ 2,191 | 🐛 78 | 🌐 Python | 📅 2026-08-15
+* [Glasgow revC](https://github.com/GlasgowEmbedded/glasgow) ⭐ 2,191 | 🐛 79 | 🌐 Python | 📅 2026-08-17
 * [Graphics Gremlin](https://github.com/schlae/graphics-gremlin) ⭐ 578 | 🐛 10 | 🌐 Verilog | 📅 2024-10-24. The Graphics Gremlin is an FPGA-based ISA video card specifically designed to emulate certain old video standards. This initial release emulates the original IBM PC monochrome graphics adapter (MDA) as well as the original IBM color graphics adapter (CGA). Since the logic is defined by the bitstream loaded into the FPGA, new emulations may be available in the future to support other video standards.
 * [Alhambra II](https://github.com/FPGAwars/Alhambra-II-FPGA) ⭐ 97 | 🐛 6 | 📅 2024-10-29 (FTDI)
 * [Azukar FPGA](https://github.com/maxisimonazzi/Azukar-FPGA) ⭐ 85 | 🐛 0 | 📅 2026-06-03 (FTDI, GPIO, 8 leds, 8 push buttons, 12 and 100 MHz oscillators, USB-C, usable as an 8k device in yosys) Azukar is an Open-source FPGA development board for education and digital design learning. Designed for accessibility, reproducibility and seamless integration with open FPGA toolchains for students, makers and academic environments.
@@ -148,15 +148,15 @@ Sidenote: [iCE40-UP5K/pinout.json](https://raw.githubusercontent.com/FPGAwars/ic
 
 ## ECP5
 
-* [LUNA](https://github.com/greatscottgadgets/luna) ⭐ 1,132 | 🐛 33 | 🌐 Python | 📅 2026-06-04. A USB multitool for monitoring, hacking, and developing USB devices (work in progress). [crowdsupply](https://www.crowdsupply.com/great-scott-gadgets/luna).
-* [Icepi Zero](https://github.com/cheyao/icepi-zero) ⭐ 812 | 🐛 4 | 🌐 HTML | 📅 2026-07-26 - ECP5 development board in a raspberry pi zero form . Includes an HDMI and uSD interface
+* [LUNA](https://github.com/greatscottgadgets/luna) ⭐ 1,131 | 🐛 33 | 🌐 Python | 📅 2026-06-04. A USB multitool for monitoring, hacking, and developing USB devices (work in progress). [crowdsupply](https://www.crowdsupply.com/great-scott-gadgets/luna).
+* [Icepi Zero](https://github.com/cheyao/icepi-zero) ⭐ 813 | 🐛 4 | 🌐 HTML | 📅 2026-07-26 - ECP5 development board in a raspberry pi zero form . Includes an HDMI and uSD interface
 * [OrangeCrab](https://github.com/gregdavill/OrangeCrab) ⭐ 540 | 🐛 18 | 🌐 HTML | 📅 2024-11-06. ECP5 breakout board in a feather physical format.
 * [ButterStick](https://groupgets.com/products/butterstick-fpga-development-board) [Github](https://github.com/gregdavill/ButterStick) ⭐ 217 | 🐛 3 | 🌐 HTML | 📅 2023-09-18. SYZYGY + Eth.
-* [basic-ecp5-pcb](https://github.com/mattvenn/basic-ecp5-pcb) ⭐ 137 | 🐛 4 | 🌐 Verilog | 📅 2021-07-17. 6 PMODs + Raspberry Pi breakout.
+* [basic-ecp5-pcb](https://github.com/mattvenn/basic-ecp5-pcb) ⭐ 138 | 🐛 4 | 🌐 Verilog | 📅 2021-07-17. 6 PMODs + Raspberry Pi breakout.
 * [LogicBone](https://github.com/oskirby/logicbone) ⭐ 123 | 🐛 9 | 🌐 KiCad Layout | 📅 2020-06-27. LFE5UM5G-45F-8BG381C + 8Gb DDR3L.
 * [TrellisBoard](https://github.com/gatecat/TrellisBoard) ⭐ 118 | 🐛 7 | 🌐 ANTLR | 📅 2019-07-04. Largest ECP5: LFE5UM5G-85F, 2 x PCIe 2.0, M.2, 1GByte DDR3L, HDMI, 1000BASE-T GbE, microSD, Dual PMOD.
 * [ECP5-mini](https://github.com/joshajohnson/ecp5-mini) ⭐ 91 | 🐛 1 | 🌐 HTML | 📅 2021-08-13. Interesting [writeup](https://www.hackster.io/news/josh-johnson-takes-us-back-to-black-mesa-labs-with-his-ecp5-fpga-development-board-4e2b22665841).
-* [Pergola](https://github.com/pergola-fpga/pergola) ⭐ 80 | 🐛 1 | 🌐 Python | 📅 2020-09-01. Lattice ECP5 and an iMX RT MCU.
+* [Pergola](https://github.com/pergola-fpga/pergola) ⭐ 81 | 🐛 1 | 🌐 Python | 📅 2020-09-01. Lattice ECP5 and an iMX RT MCU.
 * [OVIO Core](https://github.com/korken89/ovio_core) ⭐ 30 | 🐛 1 | 🌐 Python | 📅 2020-12-22 A project to try out different vision processing pipelines, for Visual Inertial Odometry (VIO), on the ECP5 FPGA.
 * [ecp5-dev-board](https://github.com/medhyal/ecp5-dev-board) ⭐ 10 | 🐛 0 | 🌐 HTML | 📅 2021-04-19 by medhyal - simple breakout board
 * [ULX4M](https://github.com/intergalaktik/ULX4M_documents/tree/main/campaign) ⭐ 7 | 🐛 1 | 🌐 HTML | 📅 2024-06-14. ULX4M is a modular version of the popular open hardware project ULX3S.
@@ -235,4 +235,4 @@ To the extent possible under law, [Kelu124](https://github.com/kelu124) has waiv
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._
