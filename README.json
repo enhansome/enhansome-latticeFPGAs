@@ -11,10 +11,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-17T09:04:50Z",
+            "last_commit": "2026-08-18T05:55:52Z",
             "owner": "GlasgowEmbedded",
             "repo": "glasgow",
-            "stars": 2191
+            "stars": 2192
           }
         },
         {
@@ -402,7 +402,7 @@
             "last_commit": "2023-12-22T14:29:26Z",
             "owner": "betrusted-io",
             "repo": "betrusted-ec",
-            "stars": 49
+            "stars": 50
           }
         },
         {
@@ -632,7 +632,7 @@
             "last_commit": "2024-11-06T06:08:53Z",
             "owner": "orangecrab-fpga",
             "repo": "orangecrab-hardware",
-            "stars": 540
+            "stars": 541
           }
         },
         {
@@ -807,7 +807,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T10:23:38.237Z",
+    "last_updated": "2026-08-18T10:19:06.980Z",
     "original_repository": "kelu124/awesome-latticeFPGAs",
     "original_repository_sha": "8f1c1ba4e74fdc980cca11eadaaeec425f4ebe33",
     "enhanced_repository": "enhansome/enhansome-latticeFPGAs",

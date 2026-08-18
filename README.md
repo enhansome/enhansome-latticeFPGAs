@@ -18,7 +18,7 @@
 
 ## HX4K
 
-* [Glasgow revC](https://github.com/GlasgowEmbedded/glasgow) ⭐ 2,191 | 🐛 79 | 🌐 Python | 📅 2026-08-17
+* [Glasgow revC](https://github.com/GlasgowEmbedded/glasgow) ⭐ 2,192 | 🐛 80 | 🌐 Python | 📅 2026-08-18
 * [Graphics Gremlin](https://github.com/schlae/graphics-gremlin) ⭐ 578 | 🐛 10 | 🌐 Verilog | 📅 2024-10-24. The Graphics Gremlin is an FPGA-based ISA video card specifically designed to emulate certain old video standards. This initial release emulates the original IBM PC monochrome graphics adapter (MDA) as well as the original IBM color graphics adapter (CGA). Since the logic is defined by the bitstream loaded into the FPGA, new emulations may be available in the future to support other video standards.
 * [Alhambra II](https://github.com/FPGAwars/Alhambra-II-FPGA) ⭐ 97 | 🐛 6 | 📅 2024-10-29 (FTDI)
 * [Azukar FPGA](https://github.com/maxisimonazzi/Azukar-FPGA) ⭐ 85 | 🐛 0 | 📅 2026-06-03 (FTDI, GPIO, 8 leds, 8 push buttons, 12 and 100 MHz oscillators, USB-C, usable as an 8k device in yosys) Azukar is an Open-source FPGA development board for education and digital design learning. Designed for accessibility, reproducibility and seamless integration with open FPGA toolchains for students, makers and academic environments.
@@ -91,7 +91,7 @@
 
 * [SingularitySurfer](https://github.com/SingularitySurfer/SingularitySurfer-FPGA-Lock-In-Amplifier) ⭐ 78 | 🐛 0 | 🌐 AGS Script | 📅 2023-05-11: An FPGA Lock-In Amplifier
 
-* [betrusted-ec](https://github.com/betrusted-io/betrusted-ec) ⭐ 49 | 🐛 2 | 🌐 Rust | 📅 2023-12-22 -  The embedded controller (EC) is a UP5K FPGA responsible for secondary power management functions, and for intermediating between the trusted comms port on the SoC and the untrusted wifi stack.
+* [betrusted-ec](https://github.com/betrusted-io/betrusted-ec) ⭐ 50 | 🐛 2 | 🌐 Rust | 📅 2023-12-22 -  The embedded controller (EC) is a UP5K FPGA responsible for secondary power management functions, and for intermediating between the trusted comms port on the SoC and the untrusted wifi stack.
 
 * [PicoStation3D](https://github.com/Wren6991/PicoStation3D) ⭐ 49 | 🐛 1 | 🌐 C | 📅 2021-02-14. 3D games console based on RP2040 and iCE40 UP5k
 
@@ -150,7 +150,7 @@ Sidenote: [iCE40-UP5K/pinout.json](https://raw.githubusercontent.com/FPGAwars/ic
 
 * [LUNA](https://github.com/greatscottgadgets/luna) ⭐ 1,131 | 🐛 33 | 🌐 Python | 📅 2026-06-04. A USB multitool for monitoring, hacking, and developing USB devices (work in progress). [crowdsupply](https://www.crowdsupply.com/great-scott-gadgets/luna).
 * [Icepi Zero](https://github.com/cheyao/icepi-zero) ⭐ 813 | 🐛 4 | 🌐 HTML | 📅 2026-07-26 - ECP5 development board in a raspberry pi zero form . Includes an HDMI and uSD interface
-* [OrangeCrab](https://github.com/gregdavill/OrangeCrab) ⭐ 540 | 🐛 18 | 🌐 HTML | 📅 2024-11-06. ECP5 breakout board in a feather physical format.
+* [OrangeCrab](https://github.com/gregdavill/OrangeCrab) ⭐ 541 | 🐛 18 | 🌐 HTML | 📅 2024-11-06. ECP5 breakout board in a feather physical format.
 * [ButterStick](https://groupgets.com/products/butterstick-fpga-development-board) [Github](https://github.com/gregdavill/ButterStick) ⭐ 217 | 🐛 3 | 🌐 HTML | 📅 2023-09-18. SYZYGY + Eth.
 * [basic-ecp5-pcb](https://github.com/mattvenn/basic-ecp5-pcb) ⭐ 138 | 🐛 4 | 🌐 Verilog | 📅 2021-07-17. 6 PMODs + Raspberry Pi breakout.
 * [LogicBone](https://github.com/oskirby/logicbone) ⭐ 123 | 🐛 9 | 🌐 KiCad Layout | 📅 2020-06-27. LFE5UM5G-45F-8BG381C + 8Gb DDR3L.
@@ -235,4 +235,4 @@ To the extent possible under law, [Kelu124](https://github.com/kelu124) has waiv
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
