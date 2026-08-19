@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 118316091,
             "language": "Python",
-            "last_commit": "2026-08-18T05:55:52Z",
+            "last_commit": "2026-08-19T00:18:05Z",
             "owner": "GlasgowEmbedded",
             "repo": "glasgow",
-            "stars": 2192
+            "stars": 2200
           }
         },
         {
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 367424771,
             "language": "Verilog",
             "last_commit": "2024-10-24T19:04:53Z",
             "owner": "schlae",
@@ -38,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 130344762,
             "language": null,
             "last_commit": "2024-10-29T09:21:17Z",
             "owner": "FPGAwars",
@@ -52,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 901598700,
             "language": null,
             "last_commit": "2026-06-03T01:35:25Z",
             "owner": "maxisimonazzi",
@@ -66,6 +70,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 230930671,
             "language": "Verilog",
             "last_commit": "2020-08-03T13:50:15Z",
             "owner": "mattvenn",
@@ -80,6 +85,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 114542416,
             "language": "C",
             "last_commit": "2020-12-29T18:21:52Z",
             "owner": "mystorm-org",
@@ -94,6 +100,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 187367707,
             "language": "C",
             "last_commit": "2021-01-23T15:31:58Z",
             "owner": "folknology",
@@ -108,6 +115,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 204487297,
             "language": null,
             "last_commit": "2021-04-14T17:39:22Z",
             "owner": "DangerousPrototypes",
@@ -122,6 +130,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 355459915,
             "language": "C",
             "last_commit": "2024-05-08T11:32:20Z",
             "owner": "dan-rodrigues",
@@ -136,6 +145,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 469683830,
             "language": "OpenSCAD",
             "last_commit": "2023-06-30T07:20:04Z",
             "owner": "machdyne",
@@ -150,6 +160,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 251072238,
             "language": "C++",
             "last_commit": "2020-09-08T23:59:58Z",
             "owner": "rschlaikjer",
@@ -164,6 +175,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 215894464,
             "language": "SystemVerilog",
             "last_commit": "2021-03-02T23:18:52Z",
             "owner": "joshtyler",
@@ -178,6 +190,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 461221366,
             "language": "Verilog",
             "last_commit": "2022-02-20T13:24:35Z",
             "owner": "machdyne",
@@ -189,7 +202,7 @@
       "title": "HX4K"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -198,6 +211,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 43797106,
             "language": "Jupyter Notebook",
             "last_commit": "2024-02-27T20:25:49Z",
             "owner": "devbisme",
@@ -212,6 +226,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 97901599,
             "language": "C",
             "last_commit": "2017-10-04T01:51:57Z",
             "owner": "tvelliott",
@@ -223,7 +238,7 @@
       "title": "HX8K"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -232,6 +247,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 95560720,
             "language": "C",
             "last_commit": "2019-09-04T15:38:45Z",
             "owner": "Agilack",
@@ -246,6 +262,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 148674408,
             "language": "C++",
             "last_commit": "2018-09-27T12:36:54Z",
             "owner": "siliconfrog",
@@ -257,7 +274,7 @@
       "title": "LP384"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -266,11 +283,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 376525310,
             "language": "C",
             "last_commit": "2025-07-24T17:35:47Z",
             "owner": "cariboulabs",
             "repo": "cariboulite",
-            "stars": 1324
+            "stars": 1325
           }
         },
         {
@@ -280,6 +298,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 326677109,
             "language": "Verilog",
             "last_commit": "2025-09-16T01:09:27Z",
             "owner": "wuxx",
@@ -291,7 +310,7 @@
       "title": "LP1K"
     },
     {
-      "description": "",
+      "description": "Sidenote: iCE40-UP5K/pinout.json",
       "items": [
         {
           "node_type": "item",
@@ -300,6 +319,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 236272177,
             "language": "Verilog",
             "last_commit": "2026-07-31T02:22:52Z",
             "owner": "wuxx",
@@ -314,6 +334,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 221559623,
             "language": "HTML",
             "last_commit": "2026-07-21T23:13:54Z",
             "owner": "tinyvision-ai-inc",
@@ -328,6 +349,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 336704109,
             "language": "HTML",
             "last_commit": "2025-07-04T22:53:20Z",
             "owner": "tinyvision-ai-inc",
@@ -342,6 +364,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 328488852,
             "language": "SystemVerilog",
             "last_commit": "2024-09-23T21:10:53Z",
             "owner": "daglem",
@@ -356,6 +379,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 139717692,
             "language": null,
             "last_commit": "2019-03-22T09:00:21Z",
             "owner": "dadamachines",
@@ -370,6 +394,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 132482546,
             "language": "C",
             "last_commit": "2019-03-17T10:16:01Z",
             "owner": "mmicko",
@@ -384,6 +409,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 205114337,
             "language": "AGS Script",
             "last_commit": "2023-05-11T08:28:44Z",
             "owner": "nkrackow",
@@ -398,6 +424,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 210192052,
             "language": "Rust",
             "last_commit": "2023-12-22T14:29:26Z",
             "owner": "betrusted-io",
@@ -412,6 +439,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 334993730,
             "language": "C",
             "last_commit": "2021-02-14T22:00:33Z",
             "owner": "Wren6991",
@@ -426,6 +454,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 204736068,
             "language": "Verilog",
             "last_commit": "2021-06-23T21:17:28Z",
             "owner": "tinyvision-ai-inc",
@@ -440,6 +469,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 202138640,
             "language": "Verilog",
             "last_commit": "2024-07-16T09:50:37Z",
             "owner": "kelu124",
@@ -454,6 +484,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 70637113,
             "language": "KiCad",
             "last_commit": "2017-01-27T00:47:43Z",
             "owner": "emeb",
@@ -468,6 +499,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 328114377,
             "language": "HTML",
             "last_commit": "2022-08-11T10:59:57Z",
             "owner": "joshajohnson",
@@ -482,6 +514,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 310119906,
             "language": "Python",
             "last_commit": "2020-11-11T19:11:46Z",
             "owner": "braingram",
@@ -496,6 +529,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 317907697,
             "language": "KiCad Layout",
             "last_commit": "2026-06-16T06:27:05Z",
             "owner": "rniwase",
@@ -510,6 +544,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 120544455,
             "language": null,
             "last_commit": "2020-09-09T23:53:21Z",
             "owner": "esden",
@@ -524,6 +559,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 539254426,
             "language": "Verilog",
             "last_commit": "2023-03-09T19:39:17Z",
             "owner": "emeb",
@@ -538,6 +574,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 158875597,
             "language": "C",
             "last_commit": "2020-06-20T13:32:53Z",
             "owner": "kehribar",
@@ -552,6 +589,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 292126539,
             "language": null,
             "last_commit": "2021-04-19T02:39:04Z",
             "owner": "medhyal",
@@ -566,6 +604,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 331427198,
             "language": null,
             "last_commit": "2022-01-28T11:08:24Z",
             "owner": "siliconwitchery",
@@ -580,6 +619,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 340201301,
             "language": null,
             "last_commit": "2021-03-16T19:49:32Z",
             "owner": "mitexus",
@@ -591,7 +631,7 @@
       "title": "UP5K"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -600,6 +640,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 215722076,
             "language": "Python",
             "last_commit": "2026-06-04T23:05:57Z",
             "owner": "greatscottgadgets",
@@ -614,6 +655,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 973244112,
             "language": "HTML",
             "last_commit": "2026-07-26T13:31:23Z",
             "owner": "cheyao",
@@ -628,6 +670,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 193836334,
             "language": "HTML",
             "last_commit": "2024-11-06T06:08:53Z",
             "owner": "orangecrab-fpga",
@@ -642,6 +685,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 173562319,
             "language": "HTML",
             "last_commit": "2023-09-18T14:31:23Z",
             "owner": "butterstick-fpga",
@@ -656,6 +700,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 280209235,
             "language": "Verilog",
             "last_commit": "2021-07-17T12:49:47Z",
             "owner": "mattvenn",
@@ -670,6 +715,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 228102818,
             "language": "KiCad Layout",
             "last_commit": "2020-06-27T21:42:22Z",
             "owner": "oskirby",
@@ -684,11 +730,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 186131630,
             "language": "ANTLR",
             "last_commit": "2019-07-04T10:26:55Z",
             "owner": "gatecat",
             "repo": "TrellisBoard",
-            "stars": 118
+            "stars": 119
           }
         },
         {
@@ -698,6 +745,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 289205733,
             "language": "HTML",
             "last_commit": "2021-08-13T10:48:19Z",
             "owner": "joshajohnson",
@@ -712,6 +760,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 229152542,
             "language": "Python",
             "last_commit": "2020-09-01T19:32:53Z",
             "owner": "pergola-fpga",
@@ -726,6 +775,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 313101976,
             "language": "Python",
             "last_commit": "2020-12-22T17:02:51Z",
             "owner": "korken89",
@@ -740,6 +790,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 359208304,
             "language": "HTML",
             "last_commit": "2021-04-19T02:39:42Z",
             "owner": "medhyal",
@@ -754,6 +805,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 343364599,
             "language": "HTML",
             "last_commit": "2024-06-14T15:02:20Z",
             "owner": "intergalaktik",
@@ -766,48 +818,35 @@
     },
     {
       "description": "HX8K and ECP5 so far. (and now up5k!)",
-      "items": [],
-      "title": "Other commercial products"
-    },
-    {
-      "description": "",
       "items": [
         {
-          "node_type": "item",
-          "title": "Colorlight I5_V6",
-          "description": "with pins breakdowns by JohnnyW11773607. And a testbed",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Verilog",
-            "last_commit": "2026-06-10T00:08:50Z",
-            "owner": "wuxx",
-            "repo": "Colorlight-FPGA-Projects",
-            "stars": 354
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Elgato CameraLink 4K",
-          "description": ". Running LiTex for example.",
-          "children": []
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Colorlight I5_V6",
+              "description": "with pins breakdowns by JohnnyW11773607. And a testbed",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 293705373,
+                "language": "Verilog",
+                "last_commit": "2026-06-10T00:08:50Z",
+                "owner": "wuxx",
+                "repo": "Colorlight-FPGA-Projects",
+                "stars": 354
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "ECP5"
         }
       ],
-      "title": "ECP5"
-    },
-    {
-      "description": "Contributions are always welcome!\nPlease read the contribution guidelines first.",
-      "items": [],
-      "title": "Contribute"
-    },
-    {
-      "description": "To the extent possible under law, Kelu124 has waived all copyright and related or neighboring rights to this work.",
-      "items": [],
-      "title": "License"
+      "title": "Other commercial products"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T10:19:06.980Z",
+    "last_updated": "2026-08-19T10:20:19.371Z",
     "original_repository": "kelu124/awesome-latticeFPGAs",
     "original_repository_sha": "8f1c1ba4e74fdc980cca11eadaaeec425f4ebe33",
     "enhanced_repository": "enhansome/enhansome-latticeFPGAs",
