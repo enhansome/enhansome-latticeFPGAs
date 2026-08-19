@@ -15,7 +15,7 @@
             "last_commit": "2026-08-19T00:18:05Z",
             "owner": "GlasgowEmbedded",
             "repo": "glasgow",
-            "stars": 2200
+            "stars": 2199
           }
         },
         {
@@ -846,8 +846,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T10:20:19.371Z",
+    "last_updated": "2026-08-19T12:36:08.148Z",
     "original_repository": "kelu124/awesome-latticeFPGAs",
+    "original_repository_id": 231812493,
     "original_repository_sha": "8f1c1ba4e74fdc980cca11eadaaeec425f4ebe33",
     "enhanced_repository": "enhansome/enhansome-latticeFPGAs",
     "enhanced_repository_description": null,
