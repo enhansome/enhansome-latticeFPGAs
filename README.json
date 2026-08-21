@@ -12,7 +12,7 @@
             "archived": false,
             "id": 118316091,
             "language": "Python",
-            "last_commit": "2026-08-19T21:53:47Z",
+            "last_commit": "2026-08-20T13:01:08Z",
             "owner": "GlasgowEmbedded",
             "repo": "glasgow",
             "stars": 2200
@@ -474,7 +474,7 @@
             "last_commit": "2024-07-16T09:50:37Z",
             "owner": "kelu124",
             "repo": "lit3rick",
-            "stars": 41
+            "stars": 42
           }
         },
         {
@@ -645,7 +645,7 @@
             "last_commit": "2026-08-19T14:51:48Z",
             "owner": "greatscottgadgets",
             "repo": "luna",
-            "stars": 1131
+            "stars": 1132
           }
         },
         {
@@ -846,7 +846,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T10:21:14.336Z",
+    "last_updated": "2026-08-21T10:21:26.553Z",
     "original_repository": "kelu124/awesome-latticeFPGAs",
     "original_repository_id": 231812493,
     "original_repository_sha": "8f1c1ba4e74fdc980cca11eadaaeec425f4ebe33",
