@@ -15,7 +15,7 @@
             "last_commit": "2026-08-20T13:01:08Z",
             "owner": "GlasgowEmbedded",
             "repo": "glasgow",
-            "stars": 2200
+            "stars": 2201
           }
         },
         {
@@ -57,7 +57,7 @@
             "archived": false,
             "id": 901598700,
             "language": null,
-            "last_commit": "2026-06-03T01:35:25Z",
+            "last_commit": "2026-08-22T03:47:59Z",
             "owner": "maxisimonazzi",
             "repo": "Azukar-FPGA",
             "stars": 85
@@ -660,7 +660,7 @@
             "last_commit": "2026-07-26T13:31:23Z",
             "owner": "cheyao",
             "repo": "icepi-zero",
-            "stars": 813
+            "stars": 814
           }
         },
         {
@@ -846,7 +846,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T10:21:26.553Z",
+    "last_updated": "2026-08-22T10:14:21.339Z",
     "original_repository": "kelu124/awesome-latticeFPGAs",
     "original_repository_id": 231812493,
     "original_repository_sha": "8f1c1ba4e74fdc980cca11eadaaeec425f4ebe33",
