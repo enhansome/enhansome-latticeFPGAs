@@ -823,6 +823,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "MTX-BC48-DB",
+              "description": "is a camera development board featuring a iCE40 UltraPlus FPGA, BGX13P22GA BLE module, and OVM7690 image sensor.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 340201301,
+                "language": null,
+                "last_commit": "2021-03-16T19:49:32Z",
+                "owner": "mitexus",
+                "repo": "MTX-BC48-DB-Development-Board",
+                "stars": 1
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "UP5K"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "Colorlight I5_V6",
               "description": "with pins breakdowns by JohnnyW11773607. And a testbed",
               "children": [],
@@ -846,7 +868,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T10:29:37.878Z",
+    "last_updated": "2026-08-24T14:29:32.523Z",
     "original_repository": "kelu124/awesome-latticeFPGAs",
     "original_repository_id": 231812493,
     "original_repository_sha": "8f1c1ba4e74fdc980cca11eadaaeec425f4ebe33",
