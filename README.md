@@ -18,7 +18,7 @@
 
 ## HX4K
 
-* [Glasgow revC](https://github.com/GlasgowEmbedded/glasgow) ⭐ 2,201 | 🐛 81 | 🌐 Python | 📅 2026-08-20
+* [Glasgow revC](https://github.com/GlasgowEmbedded/glasgow) ⭐ 2,201 | 🐛 80 | 🌐 Python | 📅 2026-08-23
 * [Graphics Gremlin](https://github.com/schlae/graphics-gremlin) ⭐ 578 | 🐛 10 | 🌐 Verilog | 📅 2024-10-24. The Graphics Gremlin is an FPGA-based ISA video card specifically designed to emulate certain old video standards. This initial release emulates the original IBM PC monochrome graphics adapter (MDA) as well as the original IBM color graphics adapter (CGA). Since the logic is defined by the bitstream loaded into the FPGA, new emulations may be available in the future to support other video standards.
 * [Alhambra II](https://github.com/FPGAwars/Alhambra-II-FPGA) ⭐ 97 | 🐛 6 | 📅 2024-10-29 (FTDI)
 * [Azukar FPGA](https://github.com/maxisimonazzi/Azukar-FPGA) ⭐ 85 | 🐛 0 | 📅 2026-08-22 (FTDI, GPIO, 8 leds, 8 push buttons, 12 and 100 MHz oscillators, USB-C, usable as an 8k device in yosys) Azukar is an Open-source FPGA development board for education and digital design learning. Designed for accessibility, reproducibility and seamless integration with open FPGA toolchains for students, makers and academic environments.
@@ -79,7 +79,7 @@
 
 * [ICESugar FPGA](https://github.com/wuxx/icesugar) ⭐ 458 | 🐛 11 | 🌐 Verilog | 📅 2026-07-31 - iCESugar FPGA Board base on iCE40UP5k. [Website](https://www.muselab-tech.com/zai-icesugarshang-yun-xing-muraxsoc/) [repo](https://github.com/wuxx/icesugar) ⭐ 458 | 🐛 11 | 🌐 Verilog | 📅 2026-07-31. V1.5 so far. Aliexpress: <https://www.aliexpress.com/item/4001201771358.html>
 
-* [UPDuino V3.1](https://github.com/tinyvision-ai-inc/UPduino-v3.0) ⭐ 363 | 🐛 20 | 🌐 HTML | 📅 2026-07-21 FTDI FT232H and 4MB qSPI Flash. [WebSite](https://tinyvision.ai/products/fpga-development-board-upduino-v3-1) [Documentation](https://upduino.readthedocs.io/en/latest/).
+* [UPDuino V3.1](https://github.com/tinyvision-ai-inc/UPduino-v3.0) ⭐ 364 | 🐛 20 | 🌐 HTML | 📅 2026-07-21 FTDI FT232H and 4MB qSPI Flash. [WebSite](https://tinyvision.ai/products/fpga-development-board-upduino-v3-1) [Documentation](https://upduino.readthedocs.io/en/latest/).
 
 * [Pico ICE](https://github.com/tinyvision-ai-inc/pico-ice) ⭐ 202 | 🐛 6 | 🌐 HTML | 📅 2025-07-04. Raspberry Pi RP2040, two 4MB SPI Flash chips, 8MB qSPI SSRAM. [Web site](https://tinyvision.ai/products/pico-ice-fpga-trainer-board)  [Documentation](https://pico-ice.tinyvision.ai/).
 
@@ -103,9 +103,9 @@
 
 * [iCE40-feather](https://github.com/joshajohnson/iCE40-feather) ⭐ 26 | 🐛 0 | 🌐 HTML | 📅 2022-08-11. Revision 0.2 was designed in 2021.
 
-* [pi\_smi\_up5k](https://github.com/braingram/pi_smi_up5k/blob/main/lattice_fpga_dev_board/lattice_fpga_dev_board_pcb.pdf) ⭐ 16 | 🐛 0 | 🌐 Python | 📅 2020-11-11. Lattice ice40 up5k Raspberry Pi hat designed for using the secondary memory interface (SMI).
+* [iCEboy](https://github.com/rniwase/iCEboy) ⭐ 16 | 🐛 0 | 🌐 KiCad Layout | 📅 2026-06-16 Nintendo Gameboy cartridge-shaped FPGA (Lattice iCE40UP5K) development board
 
-* [iCEboy](https://github.com/rniwase/iCEboy) ⭐ 15 | 🐛 0 | 🌐 KiCad Layout | 📅 2026-06-16 Nintendo Gameboy cartridge-shaped FPGA (Lattice iCE40UP5K) development board
+* [pi\_smi\_up5k](https://github.com/braingram/pi_smi_up5k/blob/main/lattice_fpga_dev_board/lattice_fpga_dev_board_pcb.pdf) ⭐ 16 | 🐛 0 | 🌐 Python | 📅 2020-11-11. Lattice ice40 up5k Raspberry Pi hat designed for using the secondary memory interface (SMI).
 
 * [ICEBreaker Bitsy](https://1bitsquared.de/products/icebreaker-bitsy)
   [Github](https://github.com/esden/icebreaker/tree/master/hardware/bitsy-v1.1a) ⭐ 9 | 🐛 0 | 📅 2020-09-09 The iCEBreaker Bitsy FPGA board is an open-source educational FPGA development board in the [Teensy form factor](https://www.pjrc.com/teensy/).  A crowd supply campaign, not yet shipping.  (No FTDI)
@@ -149,7 +149,7 @@ Sidenote: [iCE40-UP5K/pinout.json](https://raw.githubusercontent.com/FPGAwars/ic
 ## ECP5
 
 * [LUNA](https://github.com/greatscottgadgets/luna) ⭐ 1,133 | 🐛 32 | 🌐 Python | 📅 2026-08-19. A USB multitool for monitoring, hacking, and developing USB devices (work in progress). [crowdsupply](https://www.crowdsupply.com/great-scott-gadgets/luna).
-* [Icepi Zero](https://github.com/cheyao/icepi-zero) ⭐ 814 | 🐛 4 | 🌐 HTML | 📅 2026-07-26 - ECP5 development board in a raspberry pi zero form . Includes an HDMI and uSD interface
+* [Icepi Zero](https://github.com/cheyao/icepi-zero) ⭐ 815 | 🐛 4 | 🌐 HTML | 📅 2026-07-26 - ECP5 development board in a raspberry pi zero form . Includes an HDMI and uSD interface
 * [OrangeCrab](https://github.com/gregdavill/OrangeCrab) ⭐ 541 | 🐛 18 | 🌐 HTML | 📅 2024-11-06. ECP5 breakout board in a feather physical format.
 * [ButterStick](https://groupgets.com/products/butterstick-fpga-development-board) [Github](https://github.com/gregdavill/ButterStick) ⭐ 217 | 🐛 3 | 🌐 HTML | 📅 2023-09-18. SYZYGY + Eth.
 * [basic-ecp5-pcb](https://github.com/mattvenn/basic-ecp5-pcb) ⭐ 138 | 🐛 4 | 🌐 Verilog | 📅 2021-07-17. 6 PMODs + Raspberry Pi breakout.
@@ -235,4 +235,4 @@ To the extent possible under law, [Kelu124](https://github.com/kelu124) has waiv
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._

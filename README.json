@@ -12,7 +12,7 @@
             "archived": false,
             "id": 118316091,
             "language": "Python",
-            "last_commit": "2026-08-20T13:01:08Z",
+            "last_commit": "2026-08-23T12:40:17Z",
             "owner": "GlasgowEmbedded",
             "repo": "glasgow",
             "stars": 2201
@@ -339,7 +339,7 @@
             "last_commit": "2026-07-21T23:13:54Z",
             "owner": "tinyvision-ai-inc",
             "repo": "UPduino-v3.0",
-            "stars": 363
+            "stars": 364
           }
         },
         {
@@ -509,6 +509,21 @@
         },
         {
           "node_type": "item",
+          "title": "iCEboy",
+          "description": "Nintendo Gameboy cartridge-shaped FPGA (Lattice iCE40UP5K) development board",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 317907697,
+            "language": "KiCad Layout",
+            "last_commit": "2026-06-16T06:27:05Z",
+            "owner": "rniwase",
+            "repo": "tsuraraGB",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
           "title": "pi_smi_up5k",
           "description": ". Lattice ice40 up5k Raspberry Pi hat designed for using the secondary memory interface (SMI).",
           "children": [],
@@ -520,21 +535,6 @@
             "owner": "braingram",
             "repo": "pi_smi_up5k",
             "stars": 16
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "iCEboy",
-          "description": "Nintendo Gameboy cartridge-shaped FPGA (Lattice iCE40UP5K) development board",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 317907697,
-            "language": "KiCad Layout",
-            "last_commit": "2026-06-16T06:27:05Z",
-            "owner": "rniwase",
-            "repo": "tsuraraGB",
-            "stars": 15
           }
         },
         {
@@ -660,7 +660,7 @@
             "last_commit": "2026-07-26T13:31:23Z",
             "owner": "cheyao",
             "repo": "icepi-zero",
-            "stars": 814
+            "stars": 815
           }
         },
         {
@@ -846,7 +846,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T10:14:47.082Z",
+    "last_updated": "2026-08-24T10:29:37.878Z",
     "original_repository": "kelu124/awesome-latticeFPGAs",
     "original_repository_id": 231812493,
     "original_repository_sha": "8f1c1ba4e74fdc980cca11eadaaeec425f4ebe33",
