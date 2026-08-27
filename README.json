@@ -12,10 +12,10 @@
             "archived": false,
             "id": 118316091,
             "language": "Python",
-            "last_commit": "2026-08-24T18:33:22Z",
+            "last_commit": "2026-08-26T14:02:50Z",
             "owner": "GlasgowEmbedded",
             "repo": "glasgow",
-            "stars": 2202
+            "stars": 2201
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2024-10-24T19:04:53Z",
             "owner": "schlae",
             "repo": "graphics-gremlin",
-            "stars": 579
+            "stars": 578
           }
         },
         {
@@ -868,9 +868,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T10:26:16.684Z",
-    "original_repository": "kelu124/awesome-latticeFPGAs",
-    "original_repository_id": 231812493,
+    "last_updated": "2026-08-27T11:46:18.475Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 231812493,
+      "language": null,
+      "last_commit": "2026-07-09T19:00:55Z",
+      "owner": "kelu124",
+      "repo": "awesome-latticeFPGAs",
+      "stars": 360
+    },
     "original_repository_sha": "8f1c1ba4e74fdc980cca11eadaaeec425f4ebe33",
     "enhanced_repository": "enhansome/enhansome-latticeFPGAs",
     "enhanced_repository_description": null,
