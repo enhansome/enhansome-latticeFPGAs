@@ -10,12 +10,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Scots Army Knife for electronics",
+            "homepage": "https://glasgow-embedded.org/",
             "id": 118316091,
             "language": "Python",
-            "last_commit": "2026-08-28T14:00:04Z",
+            "license": "0BSD",
+            "last_commit": "2026-08-29T00:50:42Z",
+            "open_issues": 80,
             "owner": "GlasgowEmbedded",
             "repo": "glasgow",
-            "stars": 2202
+            "stars": 2202,
+            "topics": [
+              "debugging-tool",
+              "fpga",
+              "glasgow-interface-explorer",
+              "hardware"
+            ]
           },
           "first_seen": "2026-08-28T21:02:34.186Z"
         },
@@ -26,12 +36,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open source retro ISA video card",
+            "homepage": null,
             "id": 367424771,
             "language": "Verilog",
+            "license": "CC-BY-SA-4.0",
             "last_commit": "2024-10-24T19:04:53Z",
+            "open_issues": 10,
             "owner": "schlae",
             "repo": "graphics-gremlin",
-            "stars": 578
+            "stars": 578,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:02:34.186Z"
         },
@@ -42,12 +57,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":star2: Alhambra II FPGA board",
+            "homepage": null,
             "id": 130344762,
             "language": null,
+            "license": "LGPL-3.0",
             "last_commit": "2024-10-29T09:21:17Z",
+            "open_issues": 6,
             "owner": "FPGAwars",
             "repo": "Alhambra-II-FPGA",
-            "stars": 97
+            "stars": 97,
+            "topics": [
+              "alhambra-ii-fpga",
+              "fpga",
+              "fpga-board",
+              "icestorm-toolchain",
+              "opensource",
+              "opensource-toolchain"
+            ]
           },
           "first_seen": "2026-08-28T21:02:34.186Z"
         },
@@ -58,12 +85,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open-source FPGA development board for education and digital design learning. Designed for accessibility, reproducibility and seamless integration with open FPGA toolchains for students, makers and academic environments.",
+            "homepage": "https://www.azukar.com.ar",
             "id": 901598700,
             "language": null,
+            "license": "NOASSERTION",
             "last_commit": "2026-08-22T03:47:59Z",
+            "open_issues": 0,
             "owner": "maxisimonazzi",
             "repo": "Azukar-FPGA",
-            "stars": 85
+            "stars": 85,
+            "topics": [
+              "argentina",
+              "development-board",
+              "digital-design",
+              "education",
+              "fpga",
+              "hdl",
+              "kicad",
+              "open-hardware",
+              "open-hardware-electronics",
+              "schematic",
+              "tucuman",
+              "utn",
+              "utn-frt",
+              "verilog"
+            ]
           },
           "first_seen": "2026-08-28T21:02:34.186Z"
         },
@@ -74,12 +121,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "FPGA dev board based on Lattice iCE40 8k",
+            "homepage": null,
             "id": 230930671,
             "language": "Verilog",
+            "license": null,
             "last_commit": "2020-08-03T13:50:15Z",
+            "open_issues": 0,
             "owner": "mattvenn",
             "repo": "first-fpga-pcb",
-            "stars": 82
+            "stars": 82,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:02:34.186Z"
         },
@@ -90,12 +142,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Software, Firmware and documentation for the myStorm BlackIce-II board",
+            "homepage": null,
             "id": 114542416,
             "language": "C",
+            "license": null,
             "last_commit": "2020-12-29T18:21:52Z",
+            "open_issues": 9,
             "owner": "mystorm-org",
             "repo": "BlackIce-II",
-            "stars": 72
+            "stars": 72,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:02:34.186Z"
         },
@@ -106,12 +163,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "IceCore Ice40 HX based modular core",
+            "homepage": null,
             "id": 187367707,
             "language": "C",
+            "license": null,
             "last_commit": "2021-01-23T15:31:58Z",
+            "open_issues": 6,
             "owner": "folknology",
             "repo": "IceCore",
-            "stars": 47
+            "stars": 47,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:02:34.186Z"
         },
@@ -122,12 +184,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Schematic and PCBs for Bus Pirate Ultra",
+            "homepage": null,
             "id": 204487297,
             "language": null,
+            "license": "GPL-3.0",
             "last_commit": "2021-04-14T17:39:22Z",
+            "open_issues": 0,
             "owner": "DangerousPrototypes",
             "repo": "BusPirateUltraHardware",
-            "stars": 35
+            "stars": 35,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:02:34.186Z"
         },
@@ -138,12 +205,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PCB combining Raspberry Pi Pico and iCE40 FPGA",
+            "homepage": null,
             "id": 355459915,
             "language": "C",
+            "license": null,
             "last_commit": "2024-05-08T11:32:20Z",
+            "open_issues": 1,
             "owner": "dan-rodrigues",
             "repo": "pico-hx",
-            "stars": 31
+            "stars": 31,
+            "topics": [
+              "fpga",
+              "ice40",
+              "kicad",
+              "pcb",
+              "raspberry-pi",
+              "rp2040"
+            ]
           },
           "first_seen": "2026-08-28T21:02:34.186Z"
         },
@@ -154,12 +233,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Riegel Computer",
+            "homepage": null,
             "id": 469683830,
             "language": "OpenSCAD",
+            "license": "NOASSERTION",
             "last_commit": "2023-06-30T07:20:04Z",
+            "open_issues": 0,
             "owner": "machdyne",
             "repo": "riegel",
-            "stars": 17
+            "stars": 17,
+            "topics": [
+              "computer",
+              "fpga",
+              "ice40"
+            ]
           },
           "first_seen": "2026-08-28T21:02:34.186Z"
         },
@@ -170,12 +258,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Lattice HX4K breakout board, designed for hand-assembly",
+            "homepage": null,
             "id": 251072238,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2020-09-08T23:59:58Z",
+            "open_issues": 1,
             "owner": "rschlaikjer",
             "repo": "hx4k-pmod",
-            "stars": 11
+            "stars": 11,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:02:34.186Z"
         },
@@ -186,12 +279,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Lattice iCE HX4K Development Board",
+            "homepage": null,
             "id": 215894464,
             "language": "SystemVerilog",
+            "license": null,
             "last_commit": "2021-03-02T23:18:52Z",
+            "open_issues": 0,
             "owner": "joshtyler",
             "repo": "manila-ice",
-            "stars": 10
+            "stars": 10,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:02:34.186Z"
         },
@@ -202,12 +300,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Kröte FPGA Board",
+            "homepage": "https://machdyne.com/product/krote-fpga-board/",
             "id": 461221366,
             "language": "Verilog",
+            "license": "NOASSERTION",
             "last_commit": "2022-02-20T13:24:35Z",
+            "open_issues": 0,
             "owner": "machdyne",
             "repo": "krote",
-            "stars": 3
+            "stars": 3,
+            "topics": [
+              "fpga",
+              "ice40"
+            ]
           },
           "first_seen": "2026-08-28T21:02:34.186Z"
         }
@@ -224,12 +330,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The CAT Board is a Raspberry Pi HAT with a Lattice iCE40HX FPGA.",
+            "homepage": null,
             "id": 43797106,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2024-02-27T20:25:49Z",
+            "open_issues": 0,
             "owner": "devbisme",
             "repo": "CAT-Board",
-            "stars": 62
+            "stars": 62,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:02:34.186Z"
         },
@@ -240,12 +351,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ICE40 8K FPGA / STM32F4 development system",
+            "homepage": null,
             "id": 97901599,
             "language": "C",
+            "license": "MIT",
             "last_commit": "2017-10-04T01:51:57Z",
+            "open_issues": 1,
             "owner": "tvelliott",
             "repo": "dsp_ice",
-            "stars": 62
+            "stars": 62,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:02:34.186Z"
         }
@@ -262,12 +378,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This repository holds multiple PMOD modules projects",
+            "homepage": null,
             "id": 95560720,
             "language": "C",
+            "license": null,
             "last_commit": "2019-09-04T15:38:45Z",
+            "open_issues": 0,
             "owner": "Agilack",
             "repo": "pmod",
-            "stars": 10
+            "stars": 10,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:02:34.186Z"
         },
@@ -278,12 +399,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Source code for the Silicon Frog fpga-384",
+            "homepage": null,
             "id": 148674408,
             "language": "C++",
+            "license": null,
             "last_commit": "2018-09-27T12:36:54Z",
+            "open_issues": 0,
             "owner": "siliconfrog",
             "repo": "fpga-384",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:02:34.186Z"
         }
@@ -300,12 +426,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CaribouLite turns any 40-pin Raspberry-Pi into a Tx/Rx 6GHz SDR",
+            "homepage": null,
             "id": 376525310,
             "language": "C",
+            "license": null,
             "last_commit": "2025-07-24T17:35:47Z",
+            "open_issues": 116,
             "owner": "cariboulabs",
             "repo": "cariboulite",
-            "stars": 1329
+            "stars": 1329,
+            "topics": [
+              "defined",
+              "fpga",
+              "ice40",
+              "icestorm",
+              "pi",
+              "radio",
+              "raspberry",
+              "rf",
+              "rpi",
+              "sdr",
+              "software",
+              "yosys"
+            ]
           },
           "first_seen": "2026-08-28T21:02:34.186Z"
         },
@@ -316,12 +460,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "iCESugar-nano FPGA board (base on iCE40LP1K)",
+            "homepage": null,
             "id": 326677109,
             "language": "Verilog",
+            "license": null,
             "last_commit": "2025-09-16T01:09:27Z",
+            "open_issues": 8,
             "owner": "wuxx",
             "repo": "icesugar-nano",
-            "stars": 150
+            "stars": 150,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:02:34.186Z"
         }
@@ -338,12 +487,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "iCESugar FPGA Board (base on iCE40UP5k)",
+            "homepage": null,
             "id": 236272177,
             "language": "Verilog",
+            "license": null,
             "last_commit": "2026-07-31T02:22:52Z",
+            "open_issues": 11,
             "owner": "wuxx",
             "repo": "icesugar",
-            "stars": 458
+            "stars": 458,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:02:34.186Z"
         },
@@ -354,12 +508,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "UPduino 3.0: new 4 layer layout, various other improvements",
+            "homepage": null,
             "id": 221559623,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2026-07-21T23:13:54Z",
+            "open_issues": 20,
             "owner": "tinyvision-ai-inc",
             "repo": "UPduino-v3.0",
-            "stars": 364
+            "stars": 364,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:02:34.186Z"
         },
@@ -370,12 +529,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Raspberry Pi PICO board + Lattice iCE40 FPGA's",
+            "homepage": null,
             "id": 336704109,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2025-07-04T22:53:20Z",
+            "open_issues": 6,
             "owner": "tinyvision-ai-inc",
             "repo": "pico-ice",
-            "stars": 202
+            "stars": 202,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:02:34.186Z"
         },
@@ -386,12 +550,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MOS 6581 / 8580 SID FPGA emulation platform",
+            "homepage": null,
             "id": 328488852,
             "language": "SystemVerilog",
+            "license": "NOASSERTION",
             "last_commit": "2024-09-23T21:10:53Z",
+            "open_issues": 1,
             "owner": "daglem",
             "repo": "reDIP-SID",
-            "stars": 118
+            "stars": 118,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:02:34.186Z"
         },
@@ -402,12 +571,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Arduino compatible – Cortex M4F & FPGA Development Board",
+            "homepage": null,
             "id": 139717692,
             "language": null,
+            "license": null,
             "last_commit": "2019-03-22T09:00:21Z",
+            "open_issues": 7,
             "owner": "dadamachines",
             "repo": "doppler",
-            "stars": 87
+            "stars": 87,
+            "topics": [
+              "arduino",
+              "fpga",
+              "ice40",
+              "ice40up5k",
+              "icestorm",
+              "samd51",
+              "yosys"
+            ]
           },
           "first_seen": "2026-08-28T21:02:34.186Z"
         },
@@ -418,12 +600,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "FPGA 101 - Workshop materials",
+            "homepage": null,
             "id": 132482546,
             "language": "C",
+            "license": "MIT",
             "last_commit": "2019-03-17T10:16:01Z",
+            "open_issues": 0,
             "owner": "mmicko",
             "repo": "fpga101-workshop",
-            "stars": 81
+            "stars": 81,
+            "topics": [
+              "apio",
+              "fpga",
+              "hackaday",
+              "icestorm",
+              "icestudio",
+              "micropython",
+              "riscv",
+              "verilog"
+            ]
           },
           "first_seen": "2026-08-28T21:02:34.186Z"
         },
@@ -434,12 +630,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Repository for the development of an FPGA based DSP Lock-In Amplifier",
+            "homepage": null,
             "id": 205114337,
             "language": "AGS Script",
+            "license": "MIT",
             "last_commit": "2023-05-11T08:28:44Z",
+            "open_issues": 0,
             "owner": "nkrackow",
             "repo": "SingularitySurfer-FPGA-Lock-In-Amplifier",
-            "stars": 78
+            "stars": 78,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:02:34.186Z"
         },
@@ -450,12 +651,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Betrusted embedded controller (UP5K)",
+            "homepage": null,
             "id": 210192052,
             "language": "Rust",
+            "license": "NOASSERTION",
             "last_commit": "2023-12-22T14:29:26Z",
+            "open_issues": 2,
             "owner": "betrusted-io",
             "repo": "betrusted-ec",
-            "stars": 50
+            "stars": 50,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:02:34.186Z"
         },
@@ -466,12 +672,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "3D games console based on RP2040 and iCE40 UP5k",
+            "homepage": null,
             "id": 334993730,
             "language": "C",
+            "license": "CC0-1.0",
             "last_commit": "2021-02-14T22:00:33Z",
+            "open_issues": 1,
             "owner": "Wren6991",
             "repo": "PicoStation3D",
-            "stars": 49
+            "stars": 49,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:02:34.186Z"
         },
@@ -482,12 +693,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "tinyVision.ai Vision & Sensor FPGA System on Module",
+            "homepage": null,
             "id": 204736068,
             "language": "Verilog",
+            "license": "MIT",
             "last_commit": "2021-06-23T21:17:28Z",
+            "open_issues": 0,
             "owner": "tinyvision-ai-inc",
             "repo": "Vision-FPGA-SoM",
-            "stars": 48
+            "stars": 48,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:02:34.186Z"
         },
@@ -498,12 +714,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An up5k board to manage pulse-echo ultrasound acquisition.",
+            "homepage": null,
             "id": 202138640,
             "language": "Verilog",
+            "license": null,
             "last_commit": "2024-07-16T09:50:37Z",
+            "open_issues": 0,
             "owner": "kelu124",
             "repo": "lit3rick",
-            "stars": 42
+            "stars": 42,
+            "topics": [
+              "hardware",
+              "python",
+              "tapr",
+              "ultrasound",
+              "ultrasound-imaging",
+              "up5k"
+            ]
           },
           "first_seen": "2026-08-28T21:02:34.186Z"
         },
@@ -514,12 +742,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 70637113,
             "language": "KiCad",
+            "license": "MIT",
             "last_commit": "2017-01-27T00:47:43Z",
+            "open_issues": 0,
             "owner": "emeb",
             "repo": "icehat",
-            "stars": 29
+            "stars": 29,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:02:34.186Z"
         },
@@ -530,12 +763,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "iCE40UP5K in an Adafruit Feather form factor",
+            "homepage": null,
             "id": 328114377,
             "language": "HTML",
+            "license": "NOASSERTION",
             "last_commit": "2022-08-11T10:59:57Z",
+            "open_issues": 0,
             "owner": "joshajohnson",
             "repo": "iCE40-feather",
-            "stars": 26
+            "stars": 26,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:02:34.186Z"
         },
@@ -546,12 +784,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Nintendo Gameboy cartridge-shaped FPGA development board",
+            "homepage": null,
             "id": 317907697,
             "language": "KiCad Layout",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-06-16T06:27:05Z",
+            "open_issues": 0,
             "owner": "rniwase",
             "repo": "tsuraraGB",
-            "stars": 16
+            "stars": 16,
+            "topics": [
+              "fpga",
+              "gameboy",
+              "gbdk",
+              "kicad",
+              "kicad-pcb",
+              "lattice-fpga"
+            ]
           },
           "first_seen": "2026-08-28T21:02:34.186Z"
         },
@@ -562,12 +812,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Lattice ice40 up5k Raspberry Pi hat designed for using the secondary memory interface (SMI)",
+            "homepage": null,
             "id": 310119906,
             "language": "Python",
+            "license": null,
             "last_commit": "2020-11-11T19:11:46Z",
+            "open_issues": 0,
             "owner": "braingram",
             "repo": "pi_smi_up5k",
-            "stars": 16
+            "stars": 16,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:02:34.186Z"
         },
@@ -578,12 +833,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Small and low cost FPGA educational and development board",
+            "homepage": null,
             "id": 120544455,
             "language": null,
+            "license": null,
             "last_commit": "2020-09-09T23:53:21Z",
+            "open_issues": 0,
             "owner": "esden",
             "repo": "icebreaker",
-            "stars": 9
+            "stars": 9,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:02:34.186Z"
         },
@@ -594,12 +854,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "USB-C Dongle with ice40 UP5k FPGA",
+            "homepage": null,
             "id": 539254426,
             "language": "Verilog",
+            "license": "MIT",
             "last_commit": "2023-03-09T19:39:17Z",
+            "open_issues": 0,
             "owner": "emeb",
             "repo": "ice-dongle",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:02:34.186Z"
         },
@@ -610,12 +875,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 158875597,
             "language": "C",
+            "license": null,
             "last_commit": "2020-06-20T13:32:53Z",
+            "open_issues": 0,
             "owner": "kehribar",
             "repo": "ice40helper",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:02:34.186Z"
         },
@@ -626,12 +896,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ICE40 FPGA Development Board",
+            "homepage": null,
             "id": 292126539,
             "language": null,
+            "license": null,
             "last_commit": "2021-04-19T02:39:04Z",
+            "open_issues": 0,
             "owner": "medhyal",
             "repo": "ice40-dev-board",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:02:34.186Z"
         },
@@ -642,12 +917,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "KiCad Symbol and Footprint for the S1 Module",
+            "homepage": null,
             "id": 331427198,
             "language": null,
+            "license": "NOASSERTION",
             "last_commit": "2022-01-28T11:08:24Z",
+            "open_issues": 0,
             "owner": "siliconwitchery",
             "repo": "s1-module-kicad-library",
-            "stars": 3
+            "stars": 3,
+            "topics": [
+              "hardware",
+              "kicad",
+              "pcb"
+            ]
           },
           "first_seen": "2026-08-28T21:02:34.186Z"
         },
@@ -658,12 +942,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 340201301,
             "language": null,
+            "license": null,
             "last_commit": "2021-03-16T19:49:32Z",
+            "open_issues": 0,
             "owner": "mitexus",
             "repo": "MTX-BC48-DB-Development-Board",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:02:34.186Z"
         }
@@ -680,12 +969,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Amaranth HDL framework for monitoring, hacking, and developing USB devices",
+            "homepage": "https://greatscottgadgets.com/cynthion/",
             "id": 215722076,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-19T14:51:48Z",
+            "open_issues": 32,
             "owner": "greatscottgadgets",
             "repo": "luna",
-            "stars": 1134
+            "stars": 1134,
+            "topics": [
+              "fpga",
+              "hardware",
+              "usb"
+            ]
           },
           "first_seen": "2026-08-28T21:02:34.186Z"
         },
@@ -696,12 +994,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An ECP5 FPGA Dev Board in a Pi Zero form",
+            "homepage": "https://www.crowdsupply.com/icy-electronics/icepi-zero/",
             "id": 973244112,
             "language": "HTML",
+            "license": "NOASSERTION",
             "last_commit": "2026-07-26T13:31:23Z",
+            "open_issues": 4,
             "owner": "cheyao",
             "repo": "icepi-zero",
-            "stars": 819
+            "stars": 819,
+            "topics": [
+              "development-board",
+              "ecp5",
+              "fpga",
+              "fpga-board",
+              "lattice",
+              "pcb",
+              "raspberry-pi"
+            ]
           },
           "first_seen": "2026-08-28T21:02:34.186Z"
         },
@@ -712,12 +1023,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ECP5 breakout board in a feather physical format",
+            "homepage": null,
             "id": 193836334,
             "language": "HTML",
+            "license": "NOASSERTION",
             "last_commit": "2024-11-06T06:08:53Z",
+            "open_issues": 18,
             "owner": "orangecrab-fpga",
             "repo": "orangecrab-hardware",
-            "stars": 541
+            "stars": 541,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:02:34.186Z"
         },
@@ -728,12 +1044,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Basic ECP5 based GigE to SYZYGY interface.",
+            "homepage": null,
             "id": 173562319,
             "language": "HTML",
+            "license": "NOASSERTION",
             "last_commit": "2023-09-18T14:31:23Z",
+            "open_issues": 3,
             "owner": "butterstick-fpga",
             "repo": "butterstick-hardware",
-            "stars": 217
+            "stars": 217,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:02:34.186Z"
         },
@@ -744,12 +1065,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Reference design for Lattice ECP5 FPGA. Featuring Raspberry Pi interface and 6 PMODs",
+            "homepage": null,
             "id": 280209235,
             "language": "Verilog",
+            "license": "CC0-1.0",
             "last_commit": "2021-07-17T12:49:47Z",
+            "open_issues": 4,
             "owner": "mattvenn",
             "repo": "basic-ecp5-pcb",
-            "stars": 140
+            "stars": 140,
+            "topics": [
+              "fpga",
+              "hardware",
+              "pcb"
+            ]
           },
           "first_seen": "2026-08-28T21:02:34.186Z"
         },
@@ -760,12 +1090,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Logicbone ECP5 Development Board",
+            "homepage": null,
             "id": 228102818,
             "language": "KiCad Layout",
+            "license": "NOASSERTION",
             "last_commit": "2020-06-27T21:42:22Z",
+            "open_issues": 9,
             "owner": "oskirby",
             "repo": "logicbone",
-            "stars": 123
+            "stars": 123,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:02:34.186Z"
         },
@@ -776,12 +1111,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ultimate ECP5 development board",
+            "homepage": null,
             "id": 186131630,
             "language": "ANTLR",
+            "license": "NOASSERTION",
             "last_commit": "2019-07-04T10:26:55Z",
+            "open_issues": 7,
             "owner": "gatecat",
             "repo": "TrellisBoard",
-            "stars": 119
+            "stars": 119,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:02:34.186Z"
         },
@@ -792,12 +1132,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ECP5 FPGA in an \"S7 Mini\" form factor",
+            "homepage": null,
             "id": 289205733,
             "language": "HTML",
+            "license": "NOASSERTION",
             "last_commit": "2021-08-13T10:48:19Z",
+            "open_issues": 1,
             "owner": "joshajohnson",
             "repo": "ecp5-mini",
-            "stars": 91
+            "stars": 91,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:02:34.186Z"
         },
@@ -808,12 +1153,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Low-cost ECP5 FPGA development board",
+            "homepage": null,
             "id": 229152542,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2020-09-01T19:32:53Z",
+            "open_issues": 1,
             "owner": "pergola-fpga",
             "repo": "pergola",
-            "stars": 81
+            "stars": 81,
+            "topics": [
+              "ecp5",
+              "fpga",
+              "fpga-board",
+              "lattice",
+              "lattice-fpga"
+            ]
           },
           "first_seen": "2026-08-28T21:02:34.186Z"
         },
@@ -824,12 +1180,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 313101976,
             "language": "Python",
+            "license": null,
             "last_commit": "2020-12-22T17:02:51Z",
+            "open_issues": 1,
             "owner": "korken89",
             "repo": "ovio_core",
-            "stars": 30
+            "stars": 30,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:02:34.186Z"
         },
@@ -840,12 +1201,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ECP5 FPGA DEV BOARD",
+            "homepage": null,
             "id": 359208304,
             "language": "HTML",
+            "license": null,
             "last_commit": "2021-04-19T02:39:42Z",
+            "open_issues": 0,
             "owner": "medhyal",
             "repo": "ecp5-dev-board",
-            "stars": 10
+            "stars": 10,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:02:34.186Z"
         },
@@ -856,12 +1222,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Modular FPGA board",
+            "homepage": null,
             "id": 343364599,
             "language": "HTML",
+            "license": "GPL-3.0",
             "last_commit": "2024-06-14T15:02:20Z",
+            "open_issues": 1,
             "owner": "intergalaktik",
             "repo": "ULX4M_documents",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:02:34.186Z"
         }
@@ -880,12 +1251,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 340201301,
                 "language": null,
+                "license": null,
                 "last_commit": "2021-03-16T19:49:32Z",
+                "open_issues": 0,
                 "owner": "mitexus",
                 "repo": "MTX-BC48-DB-Development-Board",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:02:34.186Z"
             }
@@ -903,12 +1279,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "current focus on Colorlight i5 and i9 & i9plus module",
+                "homepage": null,
                 "id": 293705373,
                 "language": "Verilog",
+                "license": "Apache-2.0",
                 "last_commit": "2026-06-10T00:08:50Z",
+                "open_issues": 7,
                 "owner": "wuxx",
                 "repo": "Colorlight-FPGA-Projects",
-                "stars": 358
+                "stars": 359,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:02:34.186Z"
             }
@@ -922,15 +1303,26 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T21:02:34.186Z",
+    "last_updated": "2026-08-29T04:46:07.573Z",
     "original_repository_info": {
       "archived": false,
+      "description": ":book: List of FPGA Lattice boards using open tools",
+      "homepage": null,
       "id": 231812493,
       "language": null,
+      "license": null,
       "last_commit": "2026-07-09T19:00:55Z",
+      "open_issues": 0,
       "owner": "kelu124",
       "repo": "awesome-latticeFPGAs",
-      "stars": 360
+      "stars": 360,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "fpga",
+        "icestorm",
+        "lattice-fpga"
+      ]
     },
     "original_repository_sha": "8f1c1ba4e74fdc980cca11eadaaeec425f4ebe33",
     "enhanced_repository": "enhansome/enhansome-latticeFPGAs",
