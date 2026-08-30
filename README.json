@@ -19,7 +19,7 @@
             "open_issues": 80,
             "owner": "GlasgowEmbedded",
             "repo": "glasgow",
-            "stars": 2202,
+            "stars": 2203,
             "topics": [
               "debugging-tool",
               "fpga",
@@ -1003,7 +1003,7 @@
             "open_issues": 4,
             "owner": "cheyao",
             "repo": "icepi-zero",
-            "stars": 819,
+            "stars": 820,
             "topics": [
               "development-board",
               "ecp5",
@@ -1303,7 +1303,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T14:49:59.955Z",
+    "last_updated": "2026-08-30T14:35:27.153Z",
     "original_repository_info": {
       "archived": false,
       "description": ":book: List of FPGA Lattice boards using open tools",
