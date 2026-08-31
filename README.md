@@ -93,7 +93,7 @@
 
 * [betrusted-ec](https://github.com/betrusted-io/betrusted-ec) ⭐ 50 | 🐛 2 | 🌐 Rust | 📅 2023-12-22 -  The embedded controller (EC) is a UP5K FPGA responsible for secondary power management functions, and for intermediating between the trusted comms port on the SoC and the untrusted wifi stack.
 
-* [PicoStation3D](https://github.com/Wren6991/PicoStation3D) ⭐ 49 | 🐛 1 | 🌐 C | 📅 2021-02-14. 3D games console based on RP2040 and iCE40 UP5k
+* [PicoStation3D](https://github.com/Wren6991/PicoStation3D) ⭐ 50 | 🐛 1 | 🌐 C | 📅 2021-02-14. 3D games console based on RP2040 and iCE40 UP5k
 
 * [Vision FPGA](https://github.com/tinyvision-ai-inc/Vision-FPGA-SoM) ⭐ 48 | 🐛 0 | 🌐 Verilog | 📅 2021-06-23
 
@@ -235,4 +235,4 @@ To the extent possible under law, [Kelu124](https://github.com/kelu124) has waiv
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._
