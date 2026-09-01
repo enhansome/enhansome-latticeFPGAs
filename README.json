@@ -15,7 +15,7 @@
             "id": 118316091,
             "language": "Python",
             "license": "0BSD",
-            "last_commit": "2026-08-29T00:50:42Z",
+            "last_commit": "2026-09-01T06:08:30Z",
             "open_issues": 80,
             "owner": "GlasgowEmbedded",
             "repo": "glasgow",
@@ -1032,7 +1032,7 @@
             "open_issues": 18,
             "owner": "orangecrab-fpga",
             "repo": "orangecrab-hardware",
-            "stars": 541,
+            "stars": 542,
             "topics": []
           },
           "first_seen": "2026-08-28T21:02:34.186Z"
@@ -1303,7 +1303,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T17:19:15.117Z",
+    "last_updated": "2026-09-01T14:25:26.269Z",
     "original_repository_info": {
       "archived": false,
       "description": ":book: List of FPGA Lattice boards using open tools",
@@ -1315,7 +1315,7 @@
       "open_issues": 0,
       "owner": "kelu124",
       "repo": "awesome-latticeFPGAs",
-      "stars": 360,
+      "stars": 361,
       "topics": [
         "awesome",
         "awesome-list",
