@@ -15,8 +15,8 @@
             "id": 118316091,
             "language": "Python",
             "license": "0BSD",
-            "last_commit": "2026-09-03T04:44:53Z",
-            "open_issues": 80,
+            "last_commit": "2026-09-03T23:50:21Z",
+            "open_issues": 78,
             "owner": "GlasgowEmbedded",
             "repo": "glasgow",
             "stars": 2205,
@@ -559,7 +559,7 @@
             "open_issues": 1,
             "owner": "daglem",
             "repo": "reDIP-SID",
-            "stars": 118,
+            "stars": 119,
             "topics": []
           },
           "first_seen": "2026-08-28T21:02:34.186Z"
@@ -1053,7 +1053,7 @@
             "open_issues": 3,
             "owner": "butterstick-fpga",
             "repo": "butterstick-hardware",
-            "stars": 217,
+            "stars": 218,
             "topics": []
           },
           "first_seen": "2026-08-28T21:02:34.186Z"
@@ -1303,7 +1303,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T14:01:20.072Z",
+    "last_updated": "2026-09-04T13:53:52.080Z",
     "original_repository_info": {
       "archived": false,
       "description": ":book: List of FPGA Lattice boards using open tools",
@@ -1315,7 +1315,7 @@
       "open_issues": 0,
       "owner": "kelu124",
       "repo": "awesome-latticeFPGAs",
-      "stars": 361,
+      "stars": 362,
       "topics": [
         "awesome",
         "awesome-list",
