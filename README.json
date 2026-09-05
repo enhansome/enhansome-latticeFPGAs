@@ -435,7 +435,7 @@
             "open_issues": 116,
             "owner": "cariboulabs",
             "repo": "cariboulite",
-            "stars": 1330,
+            "stars": 1331,
             "topics": [
               "defined",
               "fpga",
@@ -1303,7 +1303,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T13:53:52.080Z",
+    "last_updated": "2026-09-05T13:08:11.928Z",
     "original_repository_info": {
       "archived": false,
       "description": ":book: List of FPGA Lattice boards using open tools",
