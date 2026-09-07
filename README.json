@@ -16,10 +16,10 @@
             "language": "Python",
             "license": "0BSD",
             "last_commit": "2026-09-03T23:50:21Z",
-            "open_issues": 78,
+            "open_issues": 79,
             "owner": "GlasgowEmbedded",
             "repo": "glasgow",
-            "stars": 2205,
+            "stars": 2206,
             "topics": [
               "debugging-tool",
               "fpga",
@@ -435,7 +435,7 @@
             "open_issues": 116,
             "owner": "cariboulabs",
             "repo": "cariboulite",
-            "stars": 1331,
+            "stars": 1332,
             "topics": [
               "defined",
               "fpga",
@@ -1303,7 +1303,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T13:18:42.088Z",
+    "last_updated": "2026-09-07T15:24:37.649Z",
     "original_repository_info": {
       "archived": false,
       "description": ":book: List of FPGA Lattice boards using open tools",
