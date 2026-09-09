@@ -149,8 +149,8 @@ Sidenote: [iCE40-UP5K/pinout.json](https://raw.githubusercontent.com/FPGAwars/ic
 ## ECP5
 
 * [LUNA](https://github.com/greatscottgadgets/luna) ⭐ 1,136 | 🐛 32 | 🌐 Python | 📅 2026-08-19. A USB multitool for monitoring, hacking, and developing USB devices (work in progress). [crowdsupply](https://www.crowdsupply.com/great-scott-gadgets/luna).
-* [Icepi Zero](https://github.com/cheyao/icepi-zero) ⭐ 824 | 🐛 4 | 🌐 HTML | 📅 2026-07-26 - ECP5 development board in a raspberry pi zero form . Includes an HDMI and uSD interface
-* [OrangeCrab](https://github.com/gregdavill/OrangeCrab) ⭐ 542 | 🐛 18 | 🌐 HTML | 📅 2024-11-06. ECP5 breakout board in a feather physical format.
+* [Icepi Zero](https://github.com/cheyao/icepi-zero) ⭐ 823 | 🐛 4 | 🌐 HTML | 📅 2026-07-26 - ECP5 development board in a raspberry pi zero form . Includes an HDMI and uSD interface
+* [OrangeCrab](https://github.com/gregdavill/OrangeCrab) ⭐ 543 | 🐛 18 | 🌐 HTML | 📅 2024-11-06. ECP5 breakout board in a feather physical format.
 * [ButterStick](https://groupgets.com/products/butterstick-fpga-development-board) [Github](https://github.com/gregdavill/ButterStick) ⭐ 218 | 🐛 3 | 🌐 HTML | 📅 2023-09-18. SYZYGY + Eth.
 * [basic-ecp5-pcb](https://github.com/mattvenn/basic-ecp5-pcb) ⭐ 140 | 🐛 4 | 🌐 Verilog | 📅 2021-07-17. 6 PMODs + Raspberry Pi breakout.
 * [LogicBone](https://github.com/oskirby/logicbone) ⭐ 123 | 🐛 9 | 🌐 KiCad Layout | 📅 2020-06-27. LFE5UM5G-45F-8BG381C + 8Gb DDR3L.
@@ -235,4 +235,4 @@ To the extent possible under law, [Kelu124](https://github.com/kelu124) has waiv
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-09._

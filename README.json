@@ -1003,7 +1003,7 @@
             "open_issues": 4,
             "owner": "cheyao",
             "repo": "icepi-zero",
-            "stars": 824,
+            "stars": 823,
             "topics": [
               "development-board",
               "ecp5",
@@ -1032,7 +1032,7 @@
             "open_issues": 18,
             "owner": "orangecrab-fpga",
             "repo": "orangecrab-hardware",
-            "stars": 542,
+            "stars": 543,
             "topics": []
           },
           "first_seen": "2026-08-28T21:02:34.186Z"
@@ -1303,7 +1303,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T14:01:05.184Z",
+    "last_updated": "2026-09-09T14:03:32.938Z",
     "original_repository_info": {
       "archived": false,
       "description": ":book: List of FPGA Lattice boards using open tools",
