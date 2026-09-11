@@ -15,8 +15,8 @@
             "id": 118316091,
             "language": "Python",
             "license": "0BSD",
-            "last_commit": "2026-09-09T17:47:10Z",
-            "open_issues": 79,
+            "last_commit": "2026-09-10T18:54:22Z",
+            "open_issues": 81,
             "owner": "GlasgowEmbedded",
             "repo": "glasgow",
             "stars": 2206,
@@ -1003,7 +1003,7 @@
             "open_issues": 4,
             "owner": "cheyao",
             "repo": "icepi-zero",
-            "stars": 823,
+            "stars": 826,
             "topics": [
               "development-board",
               "ecp5",
@@ -1303,7 +1303,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T13:58:19.431Z",
+    "last_updated": "2026-09-11T13:57:40.799Z",
     "original_repository_info": {
       "archived": false,
       "description": ":book: List of FPGA Lattice boards using open tools",
