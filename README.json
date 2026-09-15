@@ -15,11 +15,11 @@
             "id": 118316091,
             "language": "Python",
             "license": "0BSD",
-            "last_commit": "2026-09-12T19:44:03Z",
-            "open_issues": 82,
+            "last_commit": "2026-09-14T18:13:16Z",
+            "open_issues": 83,
             "owner": "GlasgowEmbedded",
             "repo": "glasgow",
-            "stars": 2207,
+            "stars": 2208,
             "topics": [
               "debugging-tool",
               "fpga",
@@ -978,7 +978,7 @@
             "open_issues": 33,
             "owner": "greatscottgadgets",
             "repo": "luna",
-            "stars": 1137,
+            "stars": 1138,
             "topics": [
               "fpga",
               "hardware",
@@ -1032,7 +1032,7 @@
             "open_issues": 18,
             "owner": "orangecrab-fpga",
             "repo": "orangecrab-hardware",
-            "stars": 543,
+            "stars": 544,
             "topics": []
           },
           "first_seen": "2026-08-28T21:02:34.186Z"
@@ -1284,7 +1284,7 @@
                 "id": 293705373,
                 "language": "Verilog",
                 "license": "Apache-2.0",
-                "last_commit": "2026-06-10T00:08:50Z",
+                "last_commit": "2026-09-15T01:53:49Z",
                 "open_issues": 7,
                 "owner": "wuxx",
                 "repo": "Colorlight-FPGA-Projects",
@@ -1303,7 +1303,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T16:04:34.884Z",
+    "last_updated": "2026-09-15T14:33:53.600Z",
     "original_repository_info": {
       "archived": false,
       "description": ":book: List of FPGA Lattice boards using open tools",
