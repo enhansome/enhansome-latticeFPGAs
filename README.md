@@ -77,9 +77,9 @@
 
 ## UP5K
 
-* [ICESugar FPGA](https://github.com/wuxx/icesugar) ⭐ 458 | 🐛 11 | 🌐 Verilog | 📅 2026-07-31 - iCESugar FPGA Board base on iCE40UP5k. [Website](https://www.muselab-tech.com/zai-icesugarshang-yun-xing-muraxsoc/) [repo](https://github.com/wuxx/icesugar) ⭐ 458 | 🐛 11 | 🌐 Verilog | 📅 2026-07-31. V1.5 so far. Aliexpress: <https://www.aliexpress.com/item/4001201771358.html>
+* [ICESugar FPGA](https://github.com/wuxx/icesugar) ⭐ 459 | 🐛 11 | 🌐 Verilog | 📅 2026-07-31 - iCESugar FPGA Board base on iCE40UP5k. [Website](https://www.muselab-tech.com/zai-icesugarshang-yun-xing-muraxsoc/) [repo](https://github.com/wuxx/icesugar) ⭐ 459 | 🐛 11 | 🌐 Verilog | 📅 2026-07-31. V1.5 so far. Aliexpress: <https://www.aliexpress.com/item/4001201771358.html>
 
-* [UPDuino V3.1](https://github.com/tinyvision-ai-inc/UPduino-v3.0) ⭐ 364 | 🐛 20 | 🌐 HTML | 📅 2026-07-21 FTDI FT232H and 4MB qSPI Flash. [WebSite](https://tinyvision.ai/products/fpga-development-board-upduino-v3-1) [Documentation](https://upduino.readthedocs.io/en/latest/).
+* [UPDuino V3.1](https://github.com/tinyvision-ai-inc/UPduino-v3.0) ⭐ 365 | 🐛 20 | 🌐 HTML | 📅 2026-07-21 FTDI FT232H and 4MB qSPI Flash. [WebSite](https://tinyvision.ai/products/fpga-development-board-upduino-v3-1) [Documentation](https://upduino.readthedocs.io/en/latest/).
 
 * [Pico ICE](https://github.com/tinyvision-ai-inc/pico-ice) ⭐ 202 | 🐛 6 | 🌐 HTML | 📅 2025-07-04. Raspberry Pi RP2040, two 4MB SPI Flash chips, 8MB qSPI SSRAM. [Web site](https://tinyvision.ai/products/pico-ice-fpga-trainer-board)  [Documentation](https://pico-ice.tinyvision.ai/).
 
@@ -148,11 +148,11 @@ Sidenote: [iCE40-UP5K/pinout.json](https://raw.githubusercontent.com/FPGAwars/ic
 
 ## ECP5
 
-* [LUNA](https://github.com/greatscottgadgets/luna) ⭐ 1,138 | 🐛 33 | 🌐 Python | 📅 2026-08-19. A USB multitool for monitoring, hacking, and developing USB devices (work in progress). [crowdsupply](https://www.crowdsupply.com/great-scott-gadgets/luna).
+* [LUNA](https://github.com/greatscottgadgets/luna) ⭐ 1,139 | 🐛 33 | 🌐 Python | 📅 2026-08-19. A USB multitool for monitoring, hacking, and developing USB devices (work in progress). [crowdsupply](https://www.crowdsupply.com/great-scott-gadgets/luna).
 * [Icepi Zero](https://github.com/cheyao/icepi-zero) ⭐ 826 | 🐛 4 | 🌐 HTML | 📅 2026-09-13 - ECP5 development board in a raspberry pi zero form . Includes an HDMI and uSD interface
 * [OrangeCrab](https://github.com/gregdavill/OrangeCrab) ⭐ 544 | 🐛 18 | 🌐 HTML | 📅 2024-11-06. ECP5 breakout board in a feather physical format.
 * [ButterStick](https://groupgets.com/products/butterstick-fpga-development-board) [Github](https://github.com/gregdavill/ButterStick) ⭐ 219 | 🐛 3 | 🌐 HTML | 📅 2023-09-18. SYZYGY + Eth.
-* [basic-ecp5-pcb](https://github.com/mattvenn/basic-ecp5-pcb) ⭐ 140 | 🐛 4 | 🌐 Verilog | 📅 2021-07-17. 6 PMODs + Raspberry Pi breakout.
+* [basic-ecp5-pcb](https://github.com/mattvenn/basic-ecp5-pcb) ⭐ 141 | 🐛 4 | 🌐 Verilog | 📅 2021-07-17. 6 PMODs + Raspberry Pi breakout.
 * [LogicBone](https://github.com/oskirby/logicbone) ⭐ 123 | 🐛 9 | 🌐 KiCad Layout | 📅 2020-06-27. LFE5UM5G-45F-8BG381C + 8Gb DDR3L.
 * [TrellisBoard](https://github.com/gatecat/TrellisBoard) ⭐ 119 | 🐛 7 | 🌐 ANTLR | 📅 2019-07-04. Largest ECP5: LFE5UM5G-85F, 2 x PCIe 2.0, M.2, 1GByte DDR3L, HDMI, 1000BASE-T GbE, microSD, Dual PMOD.
 * [ECP5-mini](https://github.com/joshajohnson/ecp5-mini) ⭐ 91 | 🐛 1 | 🌐 HTML | 📅 2021-08-13. Interesting [writeup](https://www.hackster.io/news/josh-johnson-takes-us-back-to-black-mesa-labs-with-his-ecp5-fpga-development-board-4e2b22665841).
@@ -190,7 +190,7 @@ HX8K and ECP5 so far. (and now up5k!)
 
 ### ECP5
 
-* [Colorlight I5\_V6](https://github.com/wuxx/Colorlight-FPGA-Projects) ⭐ 362 | 🐛 7 | 🌐 Verilog | 📅 2026-09-15 - with pins breakdowns by JohnnyW11773607. And a [testbed](https://twitter.com/JohnnyW11773607/status/1306807958165020672/photo/1)
+* [Colorlight I5\_V6](https://github.com/wuxx/Colorlight-FPGA-Projects) ⭐ 364 | 🐛 7 | 🌐 Verilog | 📅 2026-09-15 - with pins breakdowns by JohnnyW11773607. And a [testbed](https://twitter.com/JohnnyW11773607/status/1306807958165020672/photo/1)
 * [Colorlight 5A-75B](https://www.aliexpress.com/item/32281130824.html) - 13,37eur (^^) More [here](http://www.fabienm.eu/flf/15-ecp5-board-kit/).
 * \[Colorlight S2] -> See [image](https://images-na.ssl-images-amazon.com/images/I/71LIIdGKd2L._SL1200_.jpg)
 * [Colorlight I5A-F](https://www.aliexpress.com/item/32965503071.html?spm=a2g0o.productlist.0.0.264c5846mvNu3I\&algo_pvid=298ad15b-e19a-4653-8bac-51ac2682746a\&algo_expid=298ad15b-e19a-4653-8bac-51ac2682746a-0\&btsid=773bcf40-222b-450f-805c-af72623f12e1\&ws_ab_test=searchweb0_0,searchweb201602_10,searchweb201603_55)
@@ -235,4 +235,4 @@ To the extent possible under law, [Kelu124](https://github.com/kelu124) has waiv
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-16._

@@ -496,7 +496,7 @@
             "open_issues": 11,
             "owner": "wuxx",
             "repo": "icesugar",
-            "stars": 458,
+            "stars": 459,
             "topics": []
           },
           "first_seen": "2026-08-28T21:02:34.186Z"
@@ -517,7 +517,7 @@
             "open_issues": 20,
             "owner": "tinyvision-ai-inc",
             "repo": "UPduino-v3.0",
-            "stars": 364,
+            "stars": 365,
             "topics": []
           },
           "first_seen": "2026-08-28T21:02:34.186Z"
@@ -978,7 +978,7 @@
             "open_issues": 33,
             "owner": "greatscottgadgets",
             "repo": "luna",
-            "stars": 1138,
+            "stars": 1139,
             "topics": [
               "fpga",
               "hardware",
@@ -1074,7 +1074,7 @@
             "open_issues": 4,
             "owner": "mattvenn",
             "repo": "basic-ecp5-pcb",
-            "stars": 140,
+            "stars": 141,
             "topics": [
               "fpga",
               "hardware",
@@ -1288,7 +1288,7 @@
                 "open_issues": 7,
                 "owner": "wuxx",
                 "repo": "Colorlight-FPGA-Projects",
-                "stars": 362,
+                "stars": 364,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:02:34.186Z"
@@ -1303,7 +1303,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T14:33:53.600Z",
+    "last_updated": "2026-09-16T14:29:22.068Z",
     "original_repository_info": {
       "archived": false,
       "description": ":book: List of FPGA Lattice boards using open tools",
