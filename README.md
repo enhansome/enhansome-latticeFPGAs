@@ -18,10 +18,10 @@
 
 ## HX4K
 
-* [Glasgow revC](https://github.com/GlasgowEmbedded/glasgow) ⭐ 2,208 | 🐛 83 | 🌐 Python | 📅 2026-09-14
+* [Glasgow revC](https://github.com/GlasgowEmbedded/glasgow) ⭐ 2,208 | 🐛 81 | 🌐 Python | 📅 2026-09-16
 * [Graphics Gremlin](https://github.com/schlae/graphics-gremlin) ⭐ 578 | 🐛 10 | 🌐 Verilog | 📅 2024-10-24. The Graphics Gremlin is an FPGA-based ISA video card specifically designed to emulate certain old video standards. This initial release emulates the original IBM PC monochrome graphics adapter (MDA) as well as the original IBM color graphics adapter (CGA). Since the logic is defined by the bitstream loaded into the FPGA, new emulations may be available in the future to support other video standards.
 * [Alhambra II](https://github.com/FPGAwars/Alhambra-II-FPGA) ⭐ 97 | 🐛 6 | 📅 2024-10-29 (FTDI)
-* [Azukar FPGA](https://github.com/maxisimonazzi/Azukar-FPGA) ⭐ 86 | 🐛 0 | 📅 2026-09-13 (FTDI, GPIO, 8 leds, 8 push buttons, 12 and 100 MHz oscillators, USB-C, usable as an 8k device in yosys) Azukar is an Open-source FPGA development board for education and digital design learning. Designed for accessibility, reproducibility and seamless integration with open FPGA toolchains for students, makers and academic environments.
+* [Azukar FPGA](https://github.com/maxisimonazzi/Azukar-FPGA) ⭐ 86 | 🐛 0 | 📅 2026-09-17 (FTDI, GPIO, 8 leds, 8 push buttons, 12 and 100 MHz oscillators, USB-C, usable as an 8k device in yosys) Azukar is an Open-source FPGA development board for education and digital design learning. Designed for accessibility, reproducibility and seamless integration with open FPGA toolchains for students, makers and academic environments.
 * [first-fpga-pcb](https://github.com/mattvenn/first-fpga-pcb) ⭐ 82 | 🐛 0 | 🌐 Verilog | 📅 2020-08-03 first @mattvenn.  6 PMODs + Raspberry Pi breakout.
 * [BlackIce II](https://github.com/mystorm-org/BlackIce-II/wiki/Getting-Started) ⭐ 72 | 🐛 9 | 🌐 C | 📅 2020-12-29 (Serial)
 * [IceCore](https://github.com/folknology/IceCore) ⭐ 46 | 🐛 6 | 🌐 C | 📅 2021-01-23
@@ -149,7 +149,7 @@ Sidenote: [iCE40-UP5K/pinout.json](https://raw.githubusercontent.com/FPGAwars/ic
 ## ECP5
 
 * [LUNA](https://github.com/greatscottgadgets/luna) ⭐ 1,139 | 🐛 33 | 🌐 Python | 📅 2026-08-19. A USB multitool for monitoring, hacking, and developing USB devices (work in progress). [crowdsupply](https://www.crowdsupply.com/great-scott-gadgets/luna).
-* [Icepi Zero](https://github.com/cheyao/icepi-zero) ⭐ 826 | 🐛 4 | 🌐 HTML | 📅 2026-09-13 - ECP5 development board in a raspberry pi zero form . Includes an HDMI and uSD interface
+* [Icepi Zero](https://github.com/cheyao/icepi-zero) ⭐ 826 | 🐛 4 | 🌐 HTML | 📅 2026-09-17 - ECP5 development board in a raspberry pi zero form . Includes an HDMI and uSD interface
 * [OrangeCrab](https://github.com/gregdavill/OrangeCrab) ⭐ 544 | 🐛 18 | 🌐 HTML | 📅 2024-11-06. ECP5 breakout board in a feather physical format.
 * [ButterStick](https://groupgets.com/products/butterstick-fpga-development-board) [Github](https://github.com/gregdavill/ButterStick) ⭐ 219 | 🐛 3 | 🌐 HTML | 📅 2023-09-18. SYZYGY + Eth.
 * [basic-ecp5-pcb](https://github.com/mattvenn/basic-ecp5-pcb) ⭐ 141 | 🐛 4 | 🌐 Verilog | 📅 2021-07-17. 6 PMODs + Raspberry Pi breakout.
@@ -235,4 +235,4 @@ To the extent possible under law, [Kelu124](https://github.com/kelu124) has waiv
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-17._
