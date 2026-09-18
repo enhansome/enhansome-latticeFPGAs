@@ -18,11 +18,11 @@
 
 ## HX4K
 
-* [Glasgow revC](https://github.com/GlasgowEmbedded/glasgow) ⭐ 2,208 | 🐛 81 | 🌐 Python | 📅 2026-09-16
+* [Glasgow revC](https://github.com/GlasgowEmbedded/glasgow) ⭐ 2,208 | 🐛 81 | 🌐 Python | 📅 2026-09-18
 * [Graphics Gremlin](https://github.com/schlae/graphics-gremlin) ⭐ 578 | 🐛 10 | 🌐 Verilog | 📅 2024-10-24. The Graphics Gremlin is an FPGA-based ISA video card specifically designed to emulate certain old video standards. This initial release emulates the original IBM PC monochrome graphics adapter (MDA) as well as the original IBM color graphics adapter (CGA). Since the logic is defined by the bitstream loaded into the FPGA, new emulations may be available in the future to support other video standards.
 * [Alhambra II](https://github.com/FPGAwars/Alhambra-II-FPGA) ⭐ 97 | 🐛 6 | 📅 2024-10-29 (FTDI)
 * [Azukar FPGA](https://github.com/maxisimonazzi/Azukar-FPGA) ⭐ 86 | 🐛 0 | 📅 2026-09-17 (FTDI, GPIO, 8 leds, 8 push buttons, 12 and 100 MHz oscillators, USB-C, usable as an 8k device in yosys) Azukar is an Open-source FPGA development board for education and digital design learning. Designed for accessibility, reproducibility and seamless integration with open FPGA toolchains for students, makers and academic environments.
-* [first-fpga-pcb](https://github.com/mattvenn/first-fpga-pcb) ⭐ 82 | 🐛 0 | 🌐 Verilog | 📅 2020-08-03 first @mattvenn.  6 PMODs + Raspberry Pi breakout.
+* [first-fpga-pcb](https://github.com/mattvenn/first-fpga-pcb) ⭐ 83 | 🐛 0 | 🌐 Verilog | 📅 2020-08-03 first @mattvenn.  6 PMODs + Raspberry Pi breakout.
 * [BlackIce II](https://github.com/mystorm-org/BlackIce-II/wiki/Getting-Started) ⭐ 72 | 🐛 9 | 🌐 C | 📅 2020-12-29 (Serial)
 * [IceCore](https://github.com/folknology/IceCore) ⭐ 46 | 🐛 6 | 🌐 C | 📅 2021-01-23
 * [Bus Pirate Ultra](http://dangerousprototypes.com/blog/2019/10/03/prototype-bus-pirate-logic-analyzer-with-ice40-fpga/) and [here](https://github.com/DangerousPrototypes/BusPirateUltraHardware) ⭐ 35 | 🐛 0 | 📅 2021-04-14
@@ -57,7 +57,7 @@
 
 ## LP1K
 
-* [CaribouLite](https://github.com/cariboulabs/cariboulite) ⭐ 1,332 | 🐛 116 | 🌐 C | 📅 2025-07-24 - open-source SDR platform ( CaribouLite utilizes the SMI (Secondary Memory Interface)  ).
+* [CaribouLite](https://github.com/cariboulabs/cariboulite) ⭐ 1,334 | 🐛 116 | 🌐 C | 📅 2025-07-24 - open-source SDR platform ( CaribouLite utilizes the SMI (Secondary Memory Interface)  ).
 * [iCESugar-nano](https://github.com/wuxx/icesugar-nano) ⭐ 151 | 🐛 8 | 🌐 Verilog | 📅 2025-09-16 - iCESugar FPGA Board base on iCE40LP1K-CM36
 
 ## LP4K
@@ -77,7 +77,7 @@
 
 ## UP5K
 
-* [ICESugar FPGA](https://github.com/wuxx/icesugar) ⭐ 459 | 🐛 11 | 🌐 Verilog | 📅 2026-07-31 - iCESugar FPGA Board base on iCE40UP5k. [Website](https://www.muselab-tech.com/zai-icesugarshang-yun-xing-muraxsoc/) [repo](https://github.com/wuxx/icesugar) ⭐ 459 | 🐛 11 | 🌐 Verilog | 📅 2026-07-31. V1.5 so far. Aliexpress: <https://www.aliexpress.com/item/4001201771358.html>
+* [ICESugar FPGA](https://github.com/wuxx/icesugar) ⭐ 458 | 🐛 11 | 🌐 Verilog | 📅 2026-07-31 - iCESugar FPGA Board base on iCE40UP5k. [Website](https://www.muselab-tech.com/zai-icesugarshang-yun-xing-muraxsoc/) [repo](https://github.com/wuxx/icesugar) ⭐ 458 | 🐛 11 | 🌐 Verilog | 📅 2026-07-31. V1.5 so far. Aliexpress: <https://www.aliexpress.com/item/4001201771358.html>
 
 * [UPDuino V3.1](https://github.com/tinyvision-ai-inc/UPduino-v3.0) ⭐ 365 | 🐛 20 | 🌐 HTML | 📅 2026-07-21 FTDI FT232H and 4MB qSPI Flash. [WebSite](https://tinyvision.ai/products/fpga-development-board-upduino-v3-1) [Documentation](https://upduino.readthedocs.io/en/latest/).
 
@@ -152,7 +152,7 @@ Sidenote: [iCE40-UP5K/pinout.json](https://raw.githubusercontent.com/FPGAwars/ic
 * [Icepi Zero](https://github.com/cheyao/icepi-zero) ⭐ 826 | 🐛 4 | 🌐 HTML | 📅 2026-09-17 - ECP5 development board in a raspberry pi zero form . Includes an HDMI and uSD interface
 * [OrangeCrab](https://github.com/gregdavill/OrangeCrab) ⭐ 544 | 🐛 18 | 🌐 HTML | 📅 2024-11-06. ECP5 breakout board in a feather physical format.
 * [ButterStick](https://groupgets.com/products/butterstick-fpga-development-board) [Github](https://github.com/gregdavill/ButterStick) ⭐ 219 | 🐛 3 | 🌐 HTML | 📅 2023-09-18. SYZYGY + Eth.
-* [basic-ecp5-pcb](https://github.com/mattvenn/basic-ecp5-pcb) ⭐ 141 | 🐛 4 | 🌐 Verilog | 📅 2021-07-17. 6 PMODs + Raspberry Pi breakout.
+* [basic-ecp5-pcb](https://github.com/mattvenn/basic-ecp5-pcb) ⭐ 142 | 🐛 4 | 🌐 Verilog | 📅 2021-07-17. 6 PMODs + Raspberry Pi breakout.
 * [LogicBone](https://github.com/oskirby/logicbone) ⭐ 123 | 🐛 9 | 🌐 KiCad Layout | 📅 2020-06-27. LFE5UM5G-45F-8BG381C + 8Gb DDR3L.
 * [TrellisBoard](https://github.com/gatecat/TrellisBoard) ⭐ 119 | 🐛 7 | 🌐 ANTLR | 📅 2019-07-04. Largest ECP5: LFE5UM5G-85F, 2 x PCIe 2.0, M.2, 1GByte DDR3L, HDMI, 1000BASE-T GbE, microSD, Dual PMOD.
 * [ECP5-mini](https://github.com/joshajohnson/ecp5-mini) ⭐ 91 | 🐛 1 | 🌐 HTML | 📅 2021-08-13. Interesting [writeup](https://www.hackster.io/news/josh-johnson-takes-us-back-to-black-mesa-labs-with-his-ecp5-fpga-development-board-4e2b22665841).
@@ -235,4 +235,4 @@ To the extent possible under law, [Kelu124](https://github.com/kelu124) has waiv
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-18._

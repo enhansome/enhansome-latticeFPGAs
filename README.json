@@ -15,7 +15,7 @@
             "id": 118316091,
             "language": "Python",
             "license": "0BSD",
-            "last_commit": "2026-09-16T18:52:11Z",
+            "last_commit": "2026-09-18T13:36:32Z",
             "open_issues": 81,
             "owner": "GlasgowEmbedded",
             "repo": "glasgow",
@@ -130,7 +130,7 @@
             "open_issues": 0,
             "owner": "mattvenn",
             "repo": "first-fpga-pcb",
-            "stars": 82,
+            "stars": 83,
             "topics": []
           },
           "first_seen": "2026-08-28T21:02:34.186Z"
@@ -435,7 +435,7 @@
             "open_issues": 116,
             "owner": "cariboulabs",
             "repo": "cariboulite",
-            "stars": 1332,
+            "stars": 1334,
             "topics": [
               "defined",
               "fpga",
@@ -496,7 +496,7 @@
             "open_issues": 11,
             "owner": "wuxx",
             "repo": "icesugar",
-            "stars": 459,
+            "stars": 458,
             "topics": []
           },
           "first_seen": "2026-08-28T21:02:34.186Z"
@@ -1074,7 +1074,7 @@
             "open_issues": 4,
             "owner": "mattvenn",
             "repo": "basic-ecp5-pcb",
-            "stars": 141,
+            "stars": 142,
             "topics": [
               "fpga",
               "hardware",
@@ -1303,7 +1303,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T14:33:21.706Z",
+    "last_updated": "2026-09-18T13:59:46.514Z",
     "original_repository_info": {
       "archived": false,
       "description": ":book: List of FPGA Lattice boards using open tools",
