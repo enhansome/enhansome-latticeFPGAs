@@ -5,6 +5,64 @@
       "items": [
         {
           "node_type": "item",
+          "title": "USB-C Industrial Camera",
+          "description": "an open-hardware USB Type-C industrial camera pairing a Cypress FX3 USB3 controller with a CrossLink-NX LIFCL-40.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Source and Documentation files for USB C Industrial Camera Project, This repo contains PCB boards, FPGA , Camera and USB along with FPGA Firmware and USB Controller Firmware source.",
+            "homepage": null,
+            "id": 502749865,
+            "language": "Verilog",
+            "license": null,
+            "last_commit": "2026-09-13T17:09:55Z",
+            "open_issues": 0,
+            "owner": "circuitvalley",
+            "repo": "USB_C_Industrial_Camera_FPGA_USB3",
+            "stars": 1157,
+            "topics": [
+              "camera",
+              "csi",
+              "fpga",
+              "mipi",
+              "mipi-csi-receiver",
+              "usb",
+              "usb3",
+              "uvc",
+              "verilog"
+            ]
+          },
+          "first_seen": "2026-09-22T14:16:25.837Z"
+        },
+        {
+          "node_type": "item",
+          "title": "tinyCLUNX33",
+          "description": "a 25.4 mm MIPI-to-USB3 System-on-Module built on a Lattice CrossLinkU-NX FPGA running Zephyr, with an open toolchain. Product.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Documentation for the tinyNX33U SoM and related boards",
+            "homepage": "https://tinyclunx33.tinyvision.ai/",
+            "id": 676234459,
+            "language": null,
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-05T07:19:10Z",
+            "open_issues": 3,
+            "owner": "tinyvision-ai-inc",
+            "repo": "tinyclunx33",
+            "stars": 13,
+            "topics": []
+          },
+          "first_seen": "2026-09-22T14:16:25.837Z"
+        }
+      ],
+      "title": "CrossLink-NX"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
           "title": "Glasgow revC",
           "description": null,
           "children": [],
@@ -15,7 +73,7 @@
             "id": 118316091,
             "language": "Python",
             "license": "0BSD",
-            "last_commit": "2026-09-21T10:15:11Z",
+            "last_commit": "2026-09-22T00:10:11Z",
             "open_issues": 81,
             "owner": "GlasgowEmbedded",
             "repo": "glasgow",
@@ -117,7 +175,7 @@
         {
           "node_type": "item",
           "title": "first-fpga-pcb",
-          "description": "first @mattvenn. 6 PMODs + Raspberry Pi breakout.",
+          "description": "first @mattvenn. 6 PMODs + Raspberry Pi breakout. (outdated)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -138,7 +196,7 @@
         {
           "node_type": "item",
           "title": "BlackIce II",
-          "description": "(Serial)",
+          "description": "(Serial) (outdated)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -159,7 +217,7 @@
         {
           "node_type": "item",
           "title": "IceCore",
-          "description": null,
+          "description": "(outdated)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -180,7 +238,7 @@
         {
           "node_type": "item",
           "title": "Bus Pirate Ultra",
-          "description": "and here",
+          "description": "and here (outdated)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -228,6 +286,27 @@
         },
         {
           "node_type": "item",
+          "title": "2057-ICE40HX4K-TQ144-breakout",
+          "description": "a minimal Raspberry Pi breakout board for the iCE40 HX4K in TQ144.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Minimal Raspberry PI breakout board for ICE40HX4K FPGA",
+            "homepage": null,
+            "id": 231103549,
+            "language": "Shell",
+            "license": null,
+            "last_commit": "2025-12-28T22:32:54Z",
+            "open_issues": 4,
+            "owner": "johnwinans",
+            "repo": "2057-ICE40HX4K-TQ144-breakout",
+            "stars": 25,
+            "topics": []
+          },
+          "first_seen": "2026-09-22T14:16:25.837Z"
+        },
+        {
+          "node_type": "item",
           "title": "riegel",
           "description": "Riegel is an FPGA computer designed by Lone Dynamics Corporation.",
           "children": [],
@@ -253,8 +332,36 @@
         },
         {
           "node_type": "item",
+          "title": "Eis",
+          "description": "Eis is a credit-card-sized FPGA computer by Lone Dynamics with an RP2040, microSD, Pmod and a DDMI port for DVI-over-HDMI output.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Eis Computer",
+            "homepage": "https://machdyne.com/product/eis-computer",
+            "id": 562430924,
+            "language": "C",
+            "license": "NOASSERTION",
+            "last_commit": "2023-04-26T05:40:14Z",
+            "open_issues": 0,
+            "owner": "machdyne",
+            "repo": "eis",
+            "stars": 16,
+            "topics": [
+              "computer",
+              "fpga",
+              "hdmi",
+              "ice40",
+              "risc-v",
+              "usb-host"
+            ]
+          },
+          "first_seen": "2026-09-22T14:16:25.837Z"
+        },
+        {
+          "node_type": "item",
           "title": "HX4k PMOD Breakout",
-          "description": ". 10 PMODs! Reading more.",
+          "description": ". 10 PMODs! Reading more. (outdated)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -275,7 +382,7 @@
         {
           "node_type": "item",
           "title": "Manila-Ice",
-          "description": null,
+          "description": "(outdated)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -292,6 +399,53 @@
             "topics": []
           },
           "first_seen": "2026-08-28T21:02:34.186Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Kolibri FPGA Dongle",
+          "description": "Kolibri is a USB FPGA dongle by Lone Dynamics with an RP2040, 8Mbit flash, 256Mbit OPI PSRAM and a 12-pin Pmod port.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Kolibri FPGA Dongle",
+            "homepage": "https://machdyne.com/product/kolibri-fpga-dongle/",
+            "id": 615303517,
+            "language": "C",
+            "license": "NOASSERTION",
+            "last_commit": "2023-05-06T10:49:50Z",
+            "open_issues": 0,
+            "owner": "machdyne",
+            "repo": "kolibri",
+            "stars": 8,
+            "topics": [
+              "dongle",
+              "fpga",
+              "ice40",
+              "usb"
+            ]
+          },
+          "first_seen": "2026-09-22T14:16:25.837Z"
+        },
+        {
+          "node_type": "item",
+          "title": "ice40-breakout-pcb",
+          "description": "a KiCad breakout/dev board for the iCE40 HX4K with SPI configuration flash, on-board clock, USB power regulation and 72 broken-out GPIO.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A development board for the Lattice iCE40 FPGA",
+            "homepage": null,
+            "id": 369776605,
+            "language": "Verilog",
+            "license": null,
+            "last_commit": "2021-06-07T15:01:27Z",
+            "open_issues": 0,
+            "owner": "null-a",
+            "repo": "ice40-breakout-pcb",
+            "stars": 4,
+            "topics": []
+          },
+          "first_seen": "2026-09-22T14:16:25.837Z"
         },
         {
           "node_type": "item",
@@ -316,6 +470,34 @@
             ]
           },
           "first_seen": "2026-08-28T21:02:34.186Z"
+        },
+        {
+          "node_type": "item",
+          "title": "ICE40HXDevBoard",
+          "description": "an expandable development board built around the iCE40 HX4K in QFP144.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "iCE40HX4 in QFP144 expandable development board",
+            "homepage": null,
+            "id": 1026928760,
+            "language": "HTML",
+            "license": "GPL-2.0",
+            "last_commit": "2025-07-26T23:43:16Z",
+            "open_issues": 0,
+            "owner": "aslak3",
+            "repo": "ICE40HXDevBoard",
+            "stars": 1,
+            "topics": [
+              "devboard",
+              "fpga",
+              "hdmi",
+              "hdmi-out",
+              "ice40",
+              "ice40hx4k"
+            ]
+          },
+          "first_seen": "2026-09-22T14:16:25.837Z"
         }
       ],
       "title": "HX4K"
@@ -347,7 +529,7 @@
         {
           "node_type": "item",
           "title": "DSP ICE",
-          "description": ". DSP ICE was developed because other boards didn't have all the features desired. The ultimate goal is to develop an SDR with swappable analog/RF front-ends.",
+          "description": ". DSP ICE was developed because other boards didn't have all the features desired. The ultimate goal is to develop an SDR with swappable analog/RF front-ends. (outdated)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -364,6 +546,57 @@
             "topics": []
           },
           "first_seen": "2026-08-28T21:02:34.186Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Snowflake-FPGA",
+          "description": "a cheap Raspberry Pi HAT with an iCE40 HX8K that the Pi programs and talks to over UART/SPI/SDIO.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A cheap iCE40 development board, designed on and for Raspberry Pi",
+            "homepage": null,
+            "id": 194461822,
+            "language": "Shell",
+            "license": "NOASSERTION",
+            "last_commit": "2019-07-07T17:54:09Z",
+            "open_issues": 2,
+            "owner": "Wren6991",
+            "repo": "Snowflake-FPGA",
+            "stars": 31,
+            "topics": []
+          },
+          "first_seen": "2026-09-22T14:16:25.837Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Kuchen",
+          "description": "Kuchen is an FPGA computer by Lone Dynamics based on the iCE40 HX8K, with schematics, PCB, pinouts and example gateware.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Kuchen Computer",
+            "homepage": "https://machdyne.com/product/kuchen-computer/",
+            "id": 704923030,
+            "language": "OpenSCAD",
+            "license": "NOASSERTION",
+            "last_commit": "2024-06-26T11:18:29Z",
+            "open_issues": 0,
+            "owner": "machdyne",
+            "repo": "kuchen",
+            "stars": 23,
+            "topics": [
+              "computer",
+              "computer-hardware",
+              "fpga",
+              "hdmi",
+              "ice40",
+              "ice40hx8k",
+              "sdram",
+              "usb"
+            ]
+          },
+          "first_seen": "2026-09-22T14:16:25.837Z"
         }
       ],
       "title": "HX8K"
@@ -374,7 +607,7 @@
         {
           "node_type": "item",
           "title": "logic-lp384",
-          "description": ". PMOD exposing a LP384 KiCad.",
+          "description": ". PMOD exposing a LP384 KiCad. (outdated)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -395,7 +628,7 @@
         {
           "node_type": "item",
           "title": "FPGA-384",
-          "description": "by SiliconFrog. SW code on github. / same for esp32. Shop.",
+          "description": "by SiliconFrog. SW code on github. / same for esp32. Shop. (outdated)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -476,6 +709,60 @@
         }
       ],
       "title": "LP1K"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "iceRadio",
+          "description": "or website. This is a test prototype for experimenting with Software Defined Radio (SDR). (outdated)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "C and Verilog sources for STM32F303 + iCE5LP4K Software Defined Radio",
+            "homepage": null,
+            "id": 65339849,
+            "language": "C",
+            "license": "MIT",
+            "last_commit": "2017-03-22T20:53:35Z",
+            "open_issues": 0,
+            "owner": "emeb",
+            "repo": "iceRadio",
+            "stars": 82,
+            "topics": []
+          },
+          "first_seen": "2026-09-22T14:16:25.837Z"
+        }
+      ],
+      "title": "LP4K"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "TinyFPGA B-Series",
+          "description": "the original open-source TinyFPGA boards: B2 (iCE40 LP8K) and B1 (iCE40 LP4K), booting from SPI flash over USB.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Open source design files for the TinyFPGA B-Series boards.  ",
+            "homepage": null,
+            "id": 96628676,
+            "language": "Verilog",
+            "license": "GPL-3.0",
+            "last_commit": "2021-11-10T23:20:02Z",
+            "open_issues": 6,
+            "owner": "tinyfpga",
+            "repo": "TinyFPGA-B-Series",
+            "stars": 201,
+            "topics": []
+          },
+          "first_seen": "2026-09-22T14:16:25.837Z"
+        }
+      ],
+      "title": "LP8K"
     },
     {
       "description": "Sidenote: iCE40-UP5K/pinout.json",
@@ -567,7 +854,7 @@
         {
           "node_type": "item",
           "title": "Doppler",
-          "description": ". Cortex M4F Microcontroller + FPGA development board.",
+          "description": ". Cortex M4F Microcontroller + FPGA development board. (outdated)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -595,38 +882,8 @@
         },
         {
           "node_type": "item",
-          "title": "FPGA 101 Workshop Badge Board",
-          "description": "(FTDI) by mmicko.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "FPGA 101 - Workshop materials",
-            "homepage": null,
-            "id": 132482546,
-            "language": "C",
-            "license": "MIT",
-            "last_commit": "2019-03-17T10:16:01Z",
-            "open_issues": 0,
-            "owner": "mmicko",
-            "repo": "fpga101-workshop",
-            "stars": 81,
-            "topics": [
-              "apio",
-              "fpga",
-              "hackaday",
-              "icestorm",
-              "icestudio",
-              "micropython",
-              "riscv",
-              "verilog"
-            ]
-          },
-          "first_seen": "2026-08-28T21:02:34.186Z"
-        },
-        {
-          "node_type": "item",
           "title": "SingularitySurfer",
-          "description": "An FPGA Lock-In Amplifier",
+          "description": "An FPGA Lock-In Amplifier (outdated)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -643,6 +900,27 @@
             "topics": []
           },
           "first_seen": "2026-08-28T21:02:34.186Z"
+        },
+        {
+          "node_type": "item",
+          "title": "pico2-ice",
+          "description": "pairs a Raspberry Pi RP2350 with a Lattice iCE40 UP5K, with independent flash, low-power PSRAM, buttons and Pmod-arranged headers (the RP2350 successor to Pico ICE).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": null,
+            "homepage": null,
+            "id": 842095658,
+            "language": "HTML",
+            "license": "MIT",
+            "last_commit": "2025-07-04T23:19:19Z",
+            "open_issues": 4,
+            "owner": "tinyvision-ai-inc",
+            "repo": "pico2-ice",
+            "stars": 59,
+            "topics": []
+          },
+          "first_seen": "2026-09-22T14:16:25.837Z"
         },
         {
           "node_type": "item",
@@ -668,7 +946,7 @@
         {
           "node_type": "item",
           "title": "PicoStation3D",
-          "description": ". 3D games console based on RP2040 and iCE40 UP5k",
+          "description": ". 3D games console based on RP2040 and iCE40 UP5k (outdated)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -689,7 +967,7 @@
         {
           "node_type": "item",
           "title": "Vision FPGA",
-          "description": null,
+          "description": "(outdated)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -738,7 +1016,7 @@
         {
           "node_type": "item",
           "title": "icehat",
-          "description": ". - with custom flashing code",
+          "description": ". - with custom flashing code (outdated)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -759,7 +1037,7 @@
         {
           "node_type": "item",
           "title": "iCE40-feather",
-          "description": ". Revision 0.2 was designed in 2021.",
+          "description": ". Revision 0.2 was designed in 2021. (outdated)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -808,7 +1086,7 @@
         {
           "node_type": "item",
           "title": "pi_smi_up5k",
-          "description": ". Lattice ice40 up5k Raspberry Pi hat designed for using the secondary memory interface (SMI).",
+          "description": ". Lattice ice40 up5k Raspberry Pi hat designed for using the secondary memory interface (SMI). (outdated)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -825,6 +1103,32 @@
             "topics": []
           },
           "first_seen": "2026-08-28T21:02:34.186Z"
+        },
+        {
+          "node_type": "item",
+          "title": "ICE40UPDevBoard",
+          "description": "a development board for the iCE40 UP5K with SPI routing borrowed from Lattice's UltraPlus breakout.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A development board for iCE40UP5K FPGAs",
+            "homepage": null,
+            "id": 751419745,
+            "language": "HTML",
+            "license": "GPL-2.0",
+            "last_commit": "2024-02-02T11:06:12Z",
+            "open_issues": 0,
+            "owner": "aslak3",
+            "repo": "ICE40UPDevBoard",
+            "stars": 10,
+            "topics": [
+              "devboard",
+              "fpga",
+              "ice40",
+              "ice40up5k"
+            ]
+          },
+          "first_seen": "2026-09-22T14:16:25.837Z"
         },
         {
           "node_type": "item",
@@ -850,7 +1154,7 @@
         {
           "node_type": "item",
           "title": "ICE-dongle",
-          "description": "USB-C Dongle with ice40 UP5k FPGA",
+          "description": "USB-C Dongle with ice40 UP5k FPGA (outdated)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -870,8 +1174,29 @@
         },
         {
           "node_type": "item",
+          "title": "ARISE",
+          "description": "a low-cost UP5K development board inspired by Lattice's UltraPlus breakout, aimed at signal-processing and control education.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Low cost development board based on UP5K",
+            "homepage": null,
+            "id": 330916202,
+            "language": null,
+            "license": "CC0-1.0",
+            "last_commit": "2020-11-03T14:40:38Z",
+            "open_issues": 0,
+            "owner": "mfkiwl",
+            "repo": "arise-ice40up5k",
+            "stars": 6,
+            "topics": []
+          },
+          "first_seen": "2026-09-22T14:16:25.837Z"
+        },
+        {
+          "node_type": "item",
           "title": "ice40helper",
-          "description": null,
+          "description": "(outdated)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -891,8 +1216,35 @@
         },
         {
           "node_type": "item",
+          "title": "ice40-dip40",
+          "description": "a miniature DIP40-like breakout board for the iCE40 Ultra/UltraPlus.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Lattice iCE40 Ultra/Ultra+ breakout DIP40-like board",
+            "homepage": null,
+            "id": 144302197,
+            "language": null,
+            "license": null,
+            "last_commit": "2019-03-04T18:55:25Z",
+            "open_issues": 0,
+            "owner": "esynr3z",
+            "repo": "ice40-dip40",
+            "stars": 5,
+            "topics": [
+              "dev-board",
+              "fpga",
+              "ice40",
+              "lattice",
+              "pcb"
+            ]
+          },
+          "first_seen": "2026-09-22T14:16:25.837Z"
+        },
+        {
+          "node_type": "item",
           "title": "ice40-dev-board",
-          "description": "by medhyal - simple breakout board",
+          "description": "by medhyal - simple breakout board (outdated)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -913,7 +1265,7 @@
         {
           "node_type": "item",
           "title": "S1 Module",
-          "description": ". Nordic nRF52811 with BlueTooth, Maxim MAX77654 PMIC Battery Management, 32-Mbit of on board Flash, 6x12 mm. Web site.",
+          "description": ". Nordic nRF52811 with BlueTooth, Maxim MAX77654 PMIC Battery Management, 32-Mbit of on board Flash, 6x12 mm. Web site. (outdated)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -938,7 +1290,7 @@
         {
           "node_type": "item",
           "title": "MTX-BC48-DB",
-          "description": "UP5K + BLE",
+          "description": "UP5K + BLE (outdated)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -955,6 +1307,27 @@
             "topics": []
           },
           "first_seen": "2026-08-28T21:02:34.186Z"
+        },
+        {
+          "node_type": "item",
+          "title": "ice40-fpga-pico",
+          "description": "a compact Raspberry-Pi-Pico-sized UP5K board with an onboard LPC11U35 programmer/UART and USB-C.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Compact FPGA core board for HDL, FPGA, and RISC-V experiments.",
+            "homepage": null,
+            "id": 1344623007,
+            "language": null,
+            "license": null,
+            "last_commit": "2026-09-08T13:19:49Z",
+            "open_issues": 0,
+            "owner": "novasteptech",
+            "repo": "ice40-fpga-pico",
+            "stars": 0,
+            "topics": []
+          },
+          "first_seen": "2026-09-22T14:16:25.837Z"
         }
       ],
       "title": "UP5K"
@@ -1060,8 +1433,29 @@
         },
         {
           "node_type": "item",
+          "title": "iCESugar-Pro",
+          "description": "a DDR2-SODIMM-form-factor ECP5 (LFE5U-25F) board with 32MB SDRAM, ~106 IOs and an onboard debugger, supported by yosys/nextpnr.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "iCESugar series FPGA dev board",
+            "homepage": null,
+            "id": 309937041,
+            "language": "Verilog",
+            "license": null,
+            "last_commit": "2025-09-16T01:11:43Z",
+            "open_issues": 15,
+            "owner": "wuxx",
+            "repo": "icesugar-pro",
+            "stars": 217,
+            "topics": []
+          },
+          "first_seen": "2026-09-22T14:16:25.837Z"
+        },
+        {
+          "node_type": "item",
           "title": "basic-ecp5-pcb",
-          "description": ". 6 PMODs + Raspberry Pi breakout.",
+          "description": ". 6 PMODs + Raspberry Pi breakout. (outdated)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1086,7 +1480,7 @@
         {
           "node_type": "item",
           "title": "LogicBone",
-          "description": ". LFE5UM5G-45F-8BG381C + 8Gb DDR3L.",
+          "description": ". LFE5UM5G-45F-8BG381C + 8Gb DDR3L. (outdated)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1107,7 +1501,7 @@
         {
           "node_type": "item",
           "title": "TrellisBoard",
-          "description": ". Largest ECP5: LFE5UM5G-85F, 2 x PCIe 2.0, M.2, 1GByte DDR3L, HDMI, 1000BASE-T GbE, microSD, Dual PMOD.",
+          "description": ". Largest ECP5: LFE5UM5G-85F, 2 x PCIe 2.0, M.2, 1GByte DDR3L, HDMI, 1000BASE-T GbE, microSD, Dual PMOD. (outdated)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1128,7 +1522,7 @@
         {
           "node_type": "item",
           "title": "ECP5-mini",
-          "description": ". Interesting writeup.",
+          "description": ". Interesting writeup. (outdated)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1149,7 +1543,7 @@
         {
           "node_type": "item",
           "title": "Pergola",
-          "description": ". Lattice ECP5 and an iMX RT MCU.",
+          "description": ". Lattice ECP5 and an iMX RT MCU. (outdated)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1176,7 +1570,7 @@
         {
           "node_type": "item",
           "title": "OVIO Core",
-          "description": "A project to try out different vision processing pipelines, for Visual Inertial Odometry (VIO), on the ECP5 FPGA.",
+          "description": "A project to try out different vision processing pipelines, for Visual Inertial Odometry (VIO), on the ECP5 FPGA. (outdated)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1197,7 +1591,7 @@
         {
           "node_type": "item",
           "title": "ecp5-dev-board",
-          "description": "by medhyal - simple breakout board",
+          "description": "by medhyal - simple breakout board (outdated)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1235,9 +1629,178 @@
             "topics": []
           },
           "first_seen": "2026-08-28T21:02:34.186Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Obst",
+          "description": "Obst is a low-cost ECP5 (LFE5U-12F) FPGA computer by Lone Dynamics.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Obst Computer",
+            "homepage": null,
+            "id": 791168569,
+            "language": "OpenSCAD",
+            "license": "NOASSERTION",
+            "last_commit": "2026-09-06T09:25:34Z",
+            "open_issues": 0,
+            "owner": "machdyne",
+            "repo": "obst",
+            "stars": 2,
+            "topics": []
+          },
+          "first_seen": "2026-09-22T14:16:25.837Z"
+        },
+        {
+          "node_type": "item",
+          "title": "PicoFabric",
+          "description": "a small ECP5 (LFE5U-12F) FPGA module for the Raspberry Pi Pico with dual HyperRAM and a VS Code toolchain. Hardware.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": null,
+            "homepage": null,
+            "id": 676649910,
+            "language": "Python",
+            "license": null,
+            "last_commit": "2023-08-18T21:26:34Z",
+            "open_issues": 0,
+            "owner": "picolemon",
+            "repo": "picofabric-hardware",
+            "stars": 0,
+            "topics": []
+          },
+          "first_seen": "2026-09-22T14:16:25.837Z"
         }
       ],
       "title": "ECP5"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "hadbadge 2019",
+          "description": "(Hackaday Supercon 2019) - Sprite_TM's Game Boy-shaped badge with an ECP5 (LFE5U-45F) running a RISC-V soft core on the open toolchain. PCB.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "FPGA SoC code and application example for Hackaday Supercon 2019 badge",
+            "homepage": null,
+            "id": 197923622,
+            "language": "C",
+            "license": "NOASSERTION",
+            "last_commit": "2023-11-30T06:53:59Z",
+            "open_issues": 18,
+            "owner": "Spritetm",
+            "repo": "hadbadge2019_fpgasoc",
+            "stars": 167,
+            "topics": []
+          },
+          "first_seen": "2026-09-22T14:16:25.837Z"
+        },
+        {
+          "node_type": "item",
+          "title": "FPGA 101 Workshop Badge Board",
+          "description": "(FTDI) by mmicko. An iCE40 UP5K workshop badge (Hackaday Belgrade). (outdated)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "FPGA 101 - Workshop materials",
+            "homepage": null,
+            "id": 132482546,
+            "language": "C",
+            "license": "MIT",
+            "last_commit": "2019-03-17T10:16:01Z",
+            "open_issues": 0,
+            "owner": "mmicko",
+            "repo": "fpga101-workshop",
+            "stars": 81,
+            "topics": [
+              "apio",
+              "fpga",
+              "hackaday",
+              "icestorm",
+              "icestudio",
+              "micropython",
+              "riscv",
+              "verilog"
+            ]
+          },
+          "first_seen": "2026-08-28T21:02:34.186Z"
+        },
+        {
+          "node_type": "item",
+          "title": "MCH2022 badge",
+          "description": "(May Contain Hackers 2022) - badge.team ESP32-S3 + RP2040 badge whose iCE40UP5K runs user gateware for video/IO. FPGA examples.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "description": "Hardware design of the MCH2022 badge",
+            "homepage": null,
+            "id": 286138959,
+            "language": "HTML",
+            "license": null,
+            "last_commit": "2022-11-10T09:25:58Z",
+            "open_issues": 2,
+            "owner": "badgeteam",
+            "repo": "mch2022-badge-hardware",
+            "stars": 27,
+            "topics": [
+              "badge",
+              "badgelife",
+              "esp32",
+              "hardware",
+              "kicad",
+              "mch2022"
+            ]
+          },
+          "first_seen": "2026-09-22T14:16:25.837Z"
+        },
+        {
+          "node_type": "item",
+          "title": "DEF CON 28 DCFurs badge",
+          "description": "(2020) - DEF CON furry-community badge with a RISC-V soft core and MEMS-mic voice reactivity on an iCE40 UltraPlus (UP5K).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": null,
+            "homepage": null,
+            "id": 283133302,
+            "language": "HTML",
+            "license": "MIT",
+            "last_commit": "2021-07-07T05:40:00Z",
+            "open_issues": 1,
+            "owner": "defconfurs",
+            "repo": "dcfurs-badge-dc28",
+            "stars": 19,
+            "topics": []
+          },
+          "first_seen": "2026-09-22T14:16:25.837Z"
+        },
+        {
+          "node_type": "item",
+          "title": "GreyBadge",
+          "description": "(GreyCTF 2025) - NUS Greyhats CTF badge pairing an RP2350 with an ECP5 (LFE5U-25) used as a hardware CTF challenge surface.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "GreyMecha/Army GreyCTF 2025 Badge ",
+            "homepage": null,
+            "id": 935389599,
+            "language": "Verilog",
+            "license": null,
+            "last_commit": "2026-02-05T03:47:43Z",
+            "open_issues": 0,
+            "owner": "NUSGreyhats",
+            "repo": "greybadge25",
+            "stars": 0,
+            "topics": []
+          },
+          "first_seen": "2026-09-22T14:16:25.837Z"
+        }
+      ],
+      "title": "Conference badges"
     },
     {
       "description": "HX8K and ECP5 so far. (and now up5k!)",
@@ -1274,6 +1837,27 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Colorlight 5A-75E",
+              "description": "a cheap 16-port HUB75 LED-panel receiver card (LFE5U-25F) reverse-engineered for use as an ECP5 dev board.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Linsn RV901T HUB75 LED \"Receiver Card\" Reverse Engineering",
+                "homepage": null,
+                "id": 159067998,
+                "language": "Python",
+                "license": "CC0-1.0",
+                "last_commit": "2025-05-30T03:20:00Z",
+                "open_issues": 33,
+                "owner": "q3k",
+                "repo": "chubby75",
+                "stars": 641,
+                "topics": []
+              },
+              "first_seen": "2026-09-22T14:16:25.837Z"
+            },
+            {
+              "node_type": "item",
               "title": "Colorlight I5_V6",
               "description": "with pins breakdowns by JohnnyW11773607. And a testbed",
               "children": [],
@@ -1292,6 +1876,27 @@
                 "topics": []
               },
               "first_seen": "2026-08-28T21:02:34.186Z"
+            },
+            {
+              "node_type": "item",
+              "title": "SD2SNES (ECP5)",
+              "description": "@samlittlewood's ECP5-based reboot of the sd2snes SNES flash cartridge.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Lattice ECP5 variant of SD2SNES",
+                "homepage": null,
+                "id": 339683994,
+                "language": null,
+                "license": "GPL-2.0",
+                "last_commit": "2021-02-18T12:50:09Z",
+                "open_issues": 1,
+                "owner": "samlittlewood",
+                "repo": "sd2snes_ecp5",
+                "stars": 20,
+                "topics": []
+              },
+              "first_seen": "2026-09-22T14:16:25.837Z"
             }
           ],
           "description": null,
@@ -1303,7 +1908,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T16:06:36.620Z",
+    "last_updated": "2026-09-22T14:16:25.837Z",
     "original_repository_info": {
       "archived": false,
       "description": ":book: List of FPGA Lattice boards using open tools",
@@ -1311,7 +1916,7 @@
       "id": 231812493,
       "language": null,
       "license": null,
-      "last_commit": "2026-07-09T19:00:55Z",
+      "last_commit": "2026-09-22T07:02:22Z",
       "open_issues": 0,
       "owner": "kelu124",
       "repo": "awesome-latticeFPGAs",
@@ -1324,7 +1929,7 @@
         "lattice-fpga"
       ]
     },
-    "original_repository_sha": "8f1c1ba4e74fdc980cca11eadaaeec425f4ebe33",
+    "original_repository_sha": "8d7f452751929181a2c036141362a0e2995b5f9b",
     "enhanced_repository": "enhansome/enhansome-latticeFPGAs",
     "enhanced_repository_description": null,
     "title": "Awesome Lattice FPGA boards with stars"
