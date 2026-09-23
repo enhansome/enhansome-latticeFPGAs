@@ -4,7 +4,7 @@
 
 ## CrossLink-NX
 
-* [USB-C Industrial Camera](https://github.com/circuitvalley/USB_C_Industrial_Camera_FPGA_USB3) ⭐ 1,157 | 🐛 0 | 🌐 Verilog | 📅 2026-09-13 - an open-hardware USB Type-C industrial camera pairing a Cypress FX3 USB3 controller with a CrossLink-NX LIFCL-40.
+* [USB-C Industrial Camera](https://github.com/circuitvalley/USB_C_Industrial_Camera_FPGA_USB3) ⭐ 1,158 | 🐛 0 | 🌐 Verilog | 📅 2026-09-13 - an open-hardware USB Type-C industrial camera pairing a Cypress FX3 USB3 controller with a CrossLink-NX LIFCL-40.
 * [tinyCLUNX33](https://github.com/tinyvision-ai-inc/tinyclunx33) ⭐ 13 | 🐛 3 | 📅 2026-08-05 - a 25.4 mm MIPI-to-USB3 System-on-Module built on a Lattice CrossLinkU-NX FPGA running Zephyr, with an open toolchain. [Product](https://tinyvision.ai/pages/tinyclunx33-som-and-devkits).
 * [ArticKoala](https://www.hackster.io/news/greg-davill-s-at-it-again-say-hello-to-the-arctickoala-1f7ecbfa10af) by Greg Davill. LIFCL-40 CrossLink based.
 
@@ -20,7 +20,7 @@
 
 ## HX4K
 
-* [Glasgow revC](https://github.com/GlasgowEmbedded/glasgow) ⭐ 2,209 | 🐛 81 | 🌐 Python | 📅 2026-09-22
+* [Glasgow revC](https://github.com/GlasgowEmbedded/glasgow) ⭐ 2,210 | 🐛 81 | 🌐 Python | 📅 2026-09-22
 * [Graphics Gremlin](https://github.com/schlae/graphics-gremlin) ⭐ 578 | 🐛 10 | 🌐 Verilog | 📅 2024-10-24. The Graphics Gremlin is an FPGA-based ISA video card specifically designed to emulate certain old video standards. This initial release emulates the original IBM PC monochrome graphics adapter (MDA) as well as the original IBM color graphics adapter (CGA). Since the logic is defined by the bitstream loaded into the FPGA, new emulations may be available in the future to support other video standards.
 * [Alhambra II](https://github.com/FPGAwars/Alhambra-II-FPGA) ⭐ 97 | 🐛 6 | 📅 2024-10-29 (FTDI)
 * [Azukar FPGA](https://github.com/maxisimonazzi/Azukar-FPGA) ⭐ 86 | 🐛 0 | 📅 2026-09-17 (FTDI, GPIO, 8 leds, 8 push buttons, 12 and 100 MHz oscillators, USB-C, usable as an 8k device in yosys) Azukar is an Open-source FPGA development board for education and digital design learning. Designed for accessibility, reproducibility and seamless integration with open FPGA toolchains for students, makers and academic environments.
@@ -295,4 +295,4 @@ To the extent possible under law, [Kelu124](https://github.com/kelu124) has waiv
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-23._
