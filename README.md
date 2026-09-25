@@ -20,7 +20,7 @@
 
 ## HX4K
 
-* [Glasgow revC](https://github.com/GlasgowEmbedded/glasgow) ⭐ 2,211 | 🐛 78 | 🌐 Python | 📅 2026-09-24
+* [Glasgow revC](https://github.com/GlasgowEmbedded/glasgow) ⭐ 2,212 | 🐛 79 | 🌐 Python | 📅 2026-09-25
 * [Graphics Gremlin](https://github.com/schlae/graphics-gremlin) ⭐ 578 | 🐛 10 | 🌐 Verilog | 📅 2024-10-24. The Graphics Gremlin is an FPGA-based ISA video card specifically designed to emulate certain old video standards. This initial release emulates the original IBM PC monochrome graphics adapter (MDA) as well as the original IBM color graphics adapter (CGA). Since the logic is defined by the bitstream loaded into the FPGA, new emulations may be available in the future to support other video standards.
 * [Alhambra II](https://github.com/FPGAwars/Alhambra-II-FPGA) ⭐ 97 | 🐛 6 | 📅 2024-10-29 (FTDI)
 * [Azukar FPGA](https://github.com/maxisimonazzi/Azukar-FPGA) ⭐ 86 | 🐛 0 | 📅 2026-09-17 (FTDI, GPIO, 8 leds, 8 push buttons, 12 and 100 MHz oscillators, USB-C, usable as an 8k device in yosys) Azukar is an Open-source FPGA development board for education and digital design learning. Designed for accessibility, reproducibility and seamless integration with open FPGA toolchains for students, makers and academic environments.
@@ -187,7 +187,7 @@ Sidenote: [iCE40-UP5K/pinout.json](https://raw.githubusercontent.com/FPGAwars/ic
 * [ButterStick](https://groupgets.com/products/butterstick-fpga-development-board) [Github](https://github.com/gregdavill/ButterStick) ⭐ 220 | 🐛 3 | 🌐 HTML | 📅 2023-09-18. SYZYGY + Eth.
 * [iCESugar-Pro](https://github.com/wuxx/icesugar-pro) ⭐ 217 | 🐛 15 | 🌐 Verilog | 📅 2025-09-16 - a DDR2-SODIMM-form-factor ECP5 (LFE5U-25F) board with 32MB SDRAM, \~106 IOs and an onboard debugger, supported by yosys/nextpnr.
 * [basic-ecp5-pcb](https://github.com/mattvenn/basic-ecp5-pcb) ⭐ 142 | 🐛 4 | 🌐 Verilog | 📅 2021-07-17. 6 PMODs + Raspberry Pi breakout. **(outdated)**
-* [LogicBone](https://github.com/oskirby/logicbone) ⭐ 123 | 🐛 9 | 🌐 KiCad Layout | 📅 2020-06-27. LFE5UM5G-45F-8BG381C + 8Gb DDR3L. **(outdated)**
+* [LogicBone](https://github.com/oskirby/logicbone) ⭐ 124 | 🐛 9 | 🌐 KiCad Layout | 📅 2020-06-27. LFE5UM5G-45F-8BG381C + 8Gb DDR3L. **(outdated)**
 * [TrellisBoard](https://github.com/gatecat/TrellisBoard) ⭐ 119 | 🐛 7 | 🌐 ANTLR | 📅 2019-07-04. Largest ECP5: LFE5UM5G-85F, 2 x PCIe 2.0, M.2, 1GByte DDR3L, HDMI, 1000BASE-T GbE, microSD, Dual PMOD. **(outdated)**
 * [ECP5-mini](https://github.com/joshajohnson/ecp5-mini) ⭐ 91 | 🐛 1 | 🌐 HTML | 📅 2021-08-13. Interesting [writeup](https://www.hackster.io/news/josh-johnson-takes-us-back-to-black-mesa-labs-with-his-ecp5-fpga-development-board-4e2b22665841). **(outdated)**
 * [Pergola](https://github.com/pergola-fpga/pergola) ⭐ 81 | 🐛 1 | 🌐 Python | 📅 2020-09-01. Lattice ECP5 and an iMX RT MCU. **(outdated)**
@@ -295,4 +295,4 @@ To the extent possible under law, [Kelu124](https://github.com/kelu124) has waiv
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-25._
