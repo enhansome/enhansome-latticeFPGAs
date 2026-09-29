@@ -73,11 +73,11 @@
             "id": 118316091,
             "language": "Python",
             "license": "0BSD",
-            "last_commit": "2026-09-25T12:09:43Z",
-            "open_issues": 80,
+            "last_commit": "2026-09-29T13:41:29Z",
+            "open_issues": 79,
             "owner": "GlasgowEmbedded",
             "repo": "glasgow",
-            "stars": 2217,
+            "stars": 2219,
             "topics": [
               "debugging-tool",
               "fpga",
@@ -668,7 +668,7 @@
             "open_issues": 116,
             "owner": "cariboulabs",
             "repo": "cariboulite",
-            "stars": 1335,
+            "stars": 1336,
             "topics": [
               "defined",
               "fpga",
@@ -1468,7 +1468,7 @@
             "open_issues": 4,
             "owner": "mattvenn",
             "repo": "basic-ecp5-pcb",
-            "stars": 142,
+            "stars": 143,
             "topics": [
               "fpga",
               "hardware",
@@ -1908,7 +1908,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T17:54:01.915Z",
+    "last_updated": "2026-09-29T16:16:19.135Z",
     "original_repository_info": {
       "archived": false,
       "description": ":book: List of FPGA Lattice boards using open tools",
@@ -1920,7 +1920,7 @@
       "open_issues": 0,
       "owner": "kelu124",
       "repo": "awesome-latticeFPGAs",
-      "stars": 362,
+      "stars": 363,
       "topics": [
         "awesome",
         "awesome-list",
