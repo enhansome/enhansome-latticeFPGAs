@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "circuitvalley",
             "repo": "USB_C_Industrial_Camera_FPGA_USB3",
-            "stars": 1158,
+            "stars": 1159,
             "topics": [
               "camera",
               "csi",
@@ -73,8 +73,8 @@
             "id": 118316091,
             "language": "Python",
             "license": "0BSD",
-            "last_commit": "2026-09-29T13:41:29Z",
-            "open_issues": 79,
+            "last_commit": "2026-09-30T16:07:36Z",
+            "open_issues": 80,
             "owner": "GlasgowEmbedded",
             "repo": "glasgow",
             "stars": 2219,
@@ -1908,7 +1908,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T16:16:19.135Z",
+    "last_updated": "2026-09-30T16:11:00.081Z",
     "original_repository_info": {
       "archived": false,
       "description": ":book: List of FPGA Lattice boards using open tools",
