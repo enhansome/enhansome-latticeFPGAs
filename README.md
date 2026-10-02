@@ -4,7 +4,7 @@
 
 ## CrossLink-NX
 
-* [USB-C Industrial Camera](https://github.com/circuitvalley/USB_C_Industrial_Camera_FPGA_USB3) ⭐ 1,160 | 🐛 0 | 🌐 Verilog | 📅 2026-09-13 - an open-hardware USB Type-C industrial camera pairing a Cypress FX3 USB3 controller with a CrossLink-NX LIFCL-40.
+* [USB-C Industrial Camera](https://github.com/circuitvalley/USB_C_Industrial_Camera_FPGA_USB3) ⭐ 1,161 | 🐛 0 | 🌐 Verilog | 📅 2026-09-13 - an open-hardware USB Type-C industrial camera pairing a Cypress FX3 USB3 controller with a CrossLink-NX LIFCL-40.
 * [tinyCLUNX33](https://github.com/tinyvision-ai-inc/tinyclunx33) ⭐ 13 | 🐛 3 | 📅 2026-08-05 - a 25.4 mm MIPI-to-USB3 System-on-Module built on a Lattice CrossLinkU-NX FPGA running Zephyr, with an open toolchain. [Product](https://tinyvision.ai/pages/tinyclunx33-som-and-devkits).
 * [ArticKoala](https://www.hackster.io/news/greg-davill-s-at-it-again-say-hello-to-the-arctickoala-1f7ecbfa10af) by Greg Davill. LIFCL-40 CrossLink based.
 
@@ -47,8 +47,8 @@
 
 ## HX8K
 
+* [DSP ICE](https://github.com/tvelliott/dsp_ice) ⭐ 63 | 🐛 1 | 🌐 C | 📅 2017-10-04. DSP ICE was developed because other boards didn't have all the features desired. The ultimate goal is to develop an SDR with swappable analog/RF front-ends. **(outdated)**
 * [CAT Board](https://github.com/xesscorp/CAT-Board) ⭐ 62 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-02-27 (GPIO RPi). The CAT Board is a OSH Raspberry Pi HAT with a Lattice iCE40HX FPGA.
-* [DSP ICE](https://github.com/tvelliott/dsp_ice) ⭐ 62 | 🐛 1 | 🌐 C | 📅 2017-10-04. DSP ICE was developed because other boards didn't have all the features desired. The ultimate goal is to develop an SDR with swappable analog/RF front-ends. **(outdated)**
 * [Snowflake-FPGA](https://github.com/Wren6991/Snowflake-FPGA) ⭐ 31 | 🐛 2 | 🌐 Shell | 📅 2019-07-07 - a cheap Raspberry Pi HAT with an iCE40 HX8K that the Pi programs and talks to over UART/SPI/SDIO.
 * [Kuchen](https://github.com/machdyne/kuchen) ⭐ 23 | 🐛 0 | 🌐 OpenSCAD | 📅 2024-06-26 - Kuchen is an FPGA computer by Lone Dynamics based on the iCE40 HX8K, with schematics, PCB, pinouts and example gateware.
 * [Alchitry Cu](https://alchitry.com/products/alchitry-cu-fpga-development-board) (FTDI)
@@ -68,7 +68,7 @@
 
 ## LP1K
 
-* [CaribouLite](https://github.com/cariboulabs/cariboulite) ⭐ 1,336 | 🐛 116 | 🌐 C | 📅 2025-07-24 - open-source SDR platform ( CaribouLite utilizes the SMI (Secondary Memory Interface)  ).
+* [CaribouLite](https://github.com/cariboulabs/cariboulite) ⭐ 1,337 | 🐛 116 | 🌐 C | 📅 2025-07-24 - open-source SDR platform ( CaribouLite utilizes the SMI (Secondary Memory Interface)  ).
 * [iCESugar-nano](https://github.com/wuxx/icesugar-nano) ⭐ 151 | 🐛 8 | 🌐 Verilog | 📅 2025-09-16 - iCESugar FPGA Board base on iCE40LP1K-CM36
 
 ## LP4K
@@ -182,7 +182,7 @@ Sidenote: [iCE40-UP5K/pinout.json](https://raw.githubusercontent.com/FPGAwars/ic
 ## ECP5
 
 * [LUNA](https://github.com/greatscottgadgets/luna) ⭐ 1,140 | 🐛 33 | 🌐 Python | 📅 2026-08-19. A USB multitool for monitoring, hacking, and developing USB devices (work in progress). [crowdsupply](https://www.crowdsupply.com/great-scott-gadgets/luna).
-* [Icepi Zero](https://github.com/cheyao/icepi-zero) ⭐ 829 | 🐛 4 | 🌐 HTML | 📅 2026-09-18 - ECP5 development board in a raspberry pi zero form . Includes an HDMI and uSD interface
+* [Icepi Zero](https://github.com/cheyao/icepi-zero) ⭐ 830 | 🐛 4 | 🌐 HTML | 📅 2026-09-18 - ECP5 development board in a raspberry pi zero form . Includes an HDMI and uSD interface
 * [OrangeCrab](https://github.com/gregdavill/OrangeCrab) ⭐ 546 | 🐛 18 | 🌐 HTML | 📅 2024-11-06. ECP5 breakout board in a feather physical format.
 * [ButterStick](https://groupgets.com/products/butterstick-fpga-development-board) [Github](https://github.com/gregdavill/ButterStick) ⭐ 222 | 🐛 3 | 🌐 HTML | 📅 2023-09-18. SYZYGY + Eth.
 * [iCESugar-Pro](https://github.com/wuxx/icesugar-pro) ⭐ 217 | 🐛 15 | 🌐 Verilog | 📅 2025-09-16 - a DDR2-SODIMM-form-factor ECP5 (LFE5U-25F) board with 32MB SDRAM, \~106 IOs and an onboard debugger, supported by yosys/nextpnr.
@@ -239,8 +239,8 @@ HX8K and ECP5 so far. (and now up5k!)
 
 ### ECP5
 
-* [Colorlight 5A-75E](https://github.com/q3k/chubby75/blob/master/5a-75e/README.md) ⭐ 642 | 🐛 33 | 🌐 Python | 📅 2025-05-30 - a cheap 16-port HUB75 LED-panel receiver card (LFE5U-25F) reverse-engineered for use as an ECP5 dev board.
-* [Colorlight I5\_V6](https://github.com/wuxx/Colorlight-FPGA-Projects) ⭐ 367 | 🐛 7 | 🌐 Verilog | 📅 2026-09-15 - with pins breakdowns by JohnnyW11773607. And a [testbed](https://twitter.com/JohnnyW11773607/status/1306807958165020672/photo/1)
+* [Colorlight 5A-75E](https://github.com/q3k/chubby75/blob/master/5a-75e/README.md) ⭐ 643 | 🐛 33 | 🌐 Python | 📅 2025-05-30 - a cheap 16-port HUB75 LED-panel receiver card (LFE5U-25F) reverse-engineered for use as an ECP5 dev board.
+* [Colorlight I5\_V6](https://github.com/wuxx/Colorlight-FPGA-Projects) ⭐ 368 | 🐛 7 | 🌐 Verilog | 📅 2026-09-15 - with pins breakdowns by JohnnyW11773607. And a [testbed](https://twitter.com/JohnnyW11773607/status/1306807958165020672/photo/1)
 * [SD2SNES (ECP5)](https://github.com/samlittlewood/sd2snes_ecp5) ⭐ 20 | 🐛 1 | 📅 2021-02-18 - @samlittlewood's ECP5-based reboot of the sd2snes SNES flash cartridge.
 * [Colorlight 5A-75B](https://www.aliexpress.com/item/32281130824.html) - 13,37eur (^^) More [here](http://www.fabienm.eu/flf/15-ecp5-board-kit/).
 * \[Colorlight S2] -> See [image](https://images-na.ssl-images-amazon.com/images/I/71LIIdGKd2L._SL1200_.jpg)
@@ -295,4 +295,4 @@ To the extent possible under law, [Kelu124](https://github.com/kelu124) has waiv
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._

@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "circuitvalley",
             "repo": "USB_C_Industrial_Camera_FPGA_USB3",
-            "stars": 1160,
+            "stars": 1161,
             "topics": [
               "camera",
               "csi",
@@ -507,27 +507,6 @@
       "items": [
         {
           "node_type": "item",
-          "title": "CAT Board",
-          "description": "(GPIO RPi). The CAT Board is a OSH Raspberry Pi HAT with a Lattice iCE40HX FPGA.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "The CAT Board is a Raspberry Pi HAT with a Lattice iCE40HX FPGA.",
-            "homepage": null,
-            "id": 43797106,
-            "language": "Jupyter Notebook",
-            "license": null,
-            "last_commit": "2024-02-27T20:25:49Z",
-            "open_issues": 0,
-            "owner": "devbisme",
-            "repo": "CAT-Board",
-            "stars": 62,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T21:02:34.186Z"
-        },
-        {
-          "node_type": "item",
           "title": "DSP ICE",
           "description": ". DSP ICE was developed because other boards didn't have all the features desired. The ultimate goal is to develop an SDR with swappable analog/RF front-ends. (outdated)",
           "children": [],
@@ -542,6 +521,27 @@
             "open_issues": 1,
             "owner": "tvelliott",
             "repo": "dsp_ice",
+            "stars": 63,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T21:02:34.186Z"
+        },
+        {
+          "node_type": "item",
+          "title": "CAT Board",
+          "description": "(GPIO RPi). The CAT Board is a OSH Raspberry Pi HAT with a Lattice iCE40HX FPGA.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "The CAT Board is a Raspberry Pi HAT with a Lattice iCE40HX FPGA.",
+            "homepage": null,
+            "id": 43797106,
+            "language": "Jupyter Notebook",
+            "license": null,
+            "last_commit": "2024-02-27T20:25:49Z",
+            "open_issues": 0,
+            "owner": "devbisme",
+            "repo": "CAT-Board",
             "stars": 62,
             "topics": []
           },
@@ -668,7 +668,7 @@
             "open_issues": 116,
             "owner": "cariboulabs",
             "repo": "cariboulite",
-            "stars": 1336,
+            "stars": 1337,
             "topics": [
               "defined",
               "fpga",
@@ -1376,7 +1376,7 @@
             "open_issues": 4,
             "owner": "cheyao",
             "repo": "icepi-zero",
-            "stars": 829,
+            "stars": 830,
             "topics": [
               "development-board",
               "ecp5",
@@ -1851,7 +1851,7 @@
                 "open_issues": 33,
                 "owner": "q3k",
                 "repo": "chubby75",
-                "stars": 642,
+                "stars": 643,
                 "topics": []
               },
               "first_seen": "2026-09-22T14:16:25.837Z"
@@ -1872,7 +1872,7 @@
                 "open_issues": 7,
                 "owner": "wuxx",
                 "repo": "Colorlight-FPGA-Projects",
-                "stars": 367,
+                "stars": 368,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:02:34.186Z"
@@ -1908,7 +1908,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T16:48:15.188Z",
+    "last_updated": "2026-10-02T16:02:01.112Z",
     "original_repository_info": {
       "archived": false,
       "description": ":book: List of FPGA Lattice boards using open tools",
