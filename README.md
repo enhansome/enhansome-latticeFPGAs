@@ -20,10 +20,10 @@
 
 ## HX4K
 
-* [Glasgow revC](https://github.com/GlasgowEmbedded/glasgow) ⭐ 2,221 | 🐛 78 | 🌐 Python | 📅 2026-10-02
-* [Graphics Gremlin](https://github.com/schlae/graphics-gremlin) ⭐ 578 | 🐛 10 | 🌐 Verilog | 📅 2024-10-24. The Graphics Gremlin is an FPGA-based ISA video card specifically designed to emulate certain old video standards. This initial release emulates the original IBM PC monochrome graphics adapter (MDA) as well as the original IBM color graphics adapter (CGA). Since the logic is defined by the bitstream loaded into the FPGA, new emulations may be available in the future to support other video standards.
+* [Glasgow revC](https://github.com/GlasgowEmbedded/glasgow) ⭐ 2,222 | 🐛 78 | 🌐 Python | 📅 2026-10-02
+* [Graphics Gremlin](https://github.com/schlae/graphics-gremlin) ⭐ 579 | 🐛 10 | 🌐 Verilog | 📅 2024-10-24. The Graphics Gremlin is an FPGA-based ISA video card specifically designed to emulate certain old video standards. This initial release emulates the original IBM PC monochrome graphics adapter (MDA) as well as the original IBM color graphics adapter (CGA). Since the logic is defined by the bitstream loaded into the FPGA, new emulations may be available in the future to support other video standards.
 * [Alhambra II](https://github.com/FPGAwars/Alhambra-II-FPGA) ⭐ 97 | 🐛 6 | 📅 2024-10-29 (FTDI)
-* [Azukar FPGA](https://github.com/maxisimonazzi/Azukar-FPGA) ⭐ 86 | 🐛 0 | 📅 2026-09-17 (FTDI, GPIO, 8 leds, 8 push buttons, 12 and 100 MHz oscillators, USB-C, usable as an 8k device in yosys) Azukar is an Open-source FPGA development board for education and digital design learning. Designed for accessibility, reproducibility and seamless integration with open FPGA toolchains for students, makers and academic environments.
+* [Azukar FPGA](https://github.com/maxisimonazzi/Azukar-FPGA) ⭐ 87 | 🐛 0 | 📅 2026-09-17 (FTDI, GPIO, 8 leds, 8 push buttons, 12 and 100 MHz oscillators, USB-C, usable as an 8k device in yosys) Azukar is an Open-source FPGA development board for education and digital design learning. Designed for accessibility, reproducibility and seamless integration with open FPGA toolchains for students, makers and academic environments.
 * [first-fpga-pcb](https://github.com/mattvenn/first-fpga-pcb) ⭐ 83 | 🐛 0 | 🌐 Verilog | 📅 2020-08-03 first @mattvenn.  6 PMODs + Raspberry Pi breakout. **(outdated)**
 * [BlackIce II](https://github.com/mystorm-org/BlackIce-II/wiki/Getting-Started) ⭐ 72 | 🐛 9 | 🌐 C | 📅 2020-12-29 (Serial) **(outdated)**
 * [IceCore](https://github.com/folknology/IceCore) ⭐ 46 | 🐛 6 | 🌐 C | 📅 2021-01-23 **(outdated)**
@@ -295,4 +295,4 @@ To the extent possible under law, [Kelu124](https://github.com/kelu124) has waiv
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-04._
