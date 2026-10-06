@@ -73,8 +73,8 @@
             "id": 118316091,
             "language": "Python",
             "license": "0BSD",
-            "last_commit": "2026-10-05T18:54:40Z",
-            "open_issues": 79,
+            "last_commit": "2026-10-05T21:23:26Z",
+            "open_issues": 78,
             "owner": "GlasgowEmbedded",
             "repo": "glasgow",
             "stars": 2222,
@@ -1914,7 +1914,7 @@
                 "open_issues": 0,
                 "owner": "enjoy-digital",
                 "repo": "camlink_4k",
-                "stars": 0,
+                "stars": 1,
                 "topics": []
               },
               "first_seen": "2026-10-05T18:58:25.708Z"
@@ -1929,7 +1929,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T18:58:25.708Z",
+    "last_updated": "2026-10-06T10:47:00.830Z",
     "original_repository_info": {
       "archived": false,
       "description": ":book: List of FPGA Lattice boards using open tools",
