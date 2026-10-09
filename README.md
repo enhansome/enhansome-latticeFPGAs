@@ -4,7 +4,7 @@
 
 ## CrossLink-NX
 
-* [USB-C Industrial Camera](https://github.com/circuitvalley/USB_C_Industrial_Camera_FPGA_USB3) ⭐ 1,160 | 🐛 0 | 🌐 Verilog | 📅 2026-09-13 - an open-hardware USB Type-C industrial camera pairing a Cypress FX3 USB3 controller with a CrossLink-NX LIFCL-40.
+* [USB-C Industrial Camera](https://github.com/circuitvalley/USB_C_Industrial_Camera_FPGA_USB3) ⭐ 1,161 | 🐛 0 | 🌐 Verilog | 📅 2026-09-13 - an open-hardware USB Type-C industrial camera pairing a Cypress FX3 USB3 controller with a CrossLink-NX LIFCL-40.
 * [tinyCLUNX33](https://github.com/tinyvision-ai-inc/tinyclunx33) ⭐ 13 | 🐛 3 | 📅 2026-10-08 - a 25.4 mm MIPI-to-USB3 System-on-Module built on a Lattice CrossLinkU-NX FPGA running Zephyr, with an open toolchain. [Product](https://tinyvision.ai/pages/tinyclunx33-som-and-devkits).
 * [ArticKoala](https://www.hackster.io/news/greg-davill-s-at-it-again-say-hello-to-the-arctickoala-1f7ecbfa10af) by Greg Davill. LIFCL-40 CrossLink based.
 
@@ -20,8 +20,8 @@
 
 ## HX4K
 
-* [Glasgow revC](https://github.com/GlasgowEmbedded/glasgow) ⭐ 2,224 | 🐛 79 | 🌐 Python | 📅 2026-10-05
-* [Graphics Gremlin](https://github.com/schlae/graphics-gremlin) ⭐ 579 | 🐛 10 | 🌐 Verilog | 📅 2024-10-24. The Graphics Gremlin is an FPGA-based ISA video card specifically designed to emulate certain old video standards. This initial release emulates the original IBM PC monochrome graphics adapter (MDA) as well as the original IBM color graphics adapter (CGA). Since the logic is defined by the bitstream loaded into the FPGA, new emulations may be available in the future to support other video standards.
+* [Glasgow revC](https://github.com/GlasgowEmbedded/glasgow) ⭐ 2,224 | 🐛 79 | 🌐 Python | 📅 2026-10-09
+* [Graphics Gremlin](https://github.com/schlae/graphics-gremlin) ⭐ 580 | 🐛 10 | 🌐 Verilog | 📅 2024-10-24. The Graphics Gremlin is an FPGA-based ISA video card specifically designed to emulate certain old video standards. This initial release emulates the original IBM PC monochrome graphics adapter (MDA) as well as the original IBM color graphics adapter (CGA). Since the logic is defined by the bitstream loaded into the FPGA, new emulations may be available in the future to support other video standards.
 * [Alhambra II](https://github.com/FPGAwars/Alhambra-II-FPGA) ⭐ 97 | 🐛 6 | 📅 2024-10-29 (FTDI)
 * [Azukar FPGA](https://github.com/maxisimonazzi/Azukar-FPGA) ⭐ 87 | 🐛 0 | 📅 2026-09-17 (FTDI, GPIO, 8 leds, 8 push buttons, 12 and 100 MHz oscillators, USB-C, usable as an 8k device in yosys) Azukar is an Open-source FPGA development board for education and digital design learning. Designed for accessibility, reproducibility and seamless integration with open FPGA toolchains for students, makers and academic environments.
 * [first-fpga-pcb](https://github.com/mattvenn/first-fpga-pcb) ⭐ 83 | 🐛 0 | 🌐 Verilog | 📅 2020-08-03 first @mattvenn.  6 PMODs + Raspberry Pi breakout. **(outdated)**
@@ -241,8 +241,8 @@ HX8K and ECP5 so far. (and now up5k!)
 
 * [Colorlight 5A-75E](https://github.com/q3k/chubby75/blob/master/5a-75e/README.md) ⭐ 644 | 🐛 33 | 🌐 Python | 📅 2025-05-30 - a cheap 16-port HUB75 LED-panel receiver card (LFE5U-25F) reverse-engineered for use as an ECP5 dev board.
 * [Colorlight I5\_V6](https://github.com/wuxx/Colorlight-FPGA-Projects) ⭐ 369 | 🐛 7 | 🌐 Verilog | 📅 2026-09-15 - with pins breakdowns by JohnnyW11773607. And a [testbed](https://twitter.com/JohnnyW11773607/status/1306807958165020672/photo/1)
+* [Elgato CameraLink 4K](https://www.amazon.fr/Elgato-20GAM9901-diffusion-enregistrement-cam%C3%A9scope/dp/B07K3FN5MR/). Running [LiTex](https://github.com/enjoy-digital/camlink_4k/) ⭐ 24 | 🐛 0 | 🌐 C | 📅 2026-10-08 for example.
 * [SD2SNES (ECP5)](https://github.com/samlittlewood/sd2snes_ecp5) ⭐ 20 | 🐛 1 | 📅 2021-02-18 - @samlittlewood's ECP5-based reboot of the sd2snes SNES flash cartridge.
-* [Elgato CameraLink 4K](https://www.amazon.fr/Elgato-20GAM9901-diffusion-enregistrement-cam%C3%A9scope/dp/B07K3FN5MR/). Running [LiTex](https://github.com/enjoy-digital/camlink_4k/) ⭐ 17 | 🐛 0 | 🌐 C | 📅 2026-10-08 for example.
 * [Colorlight 5A-75B](https://www.aliexpress.com/item/32281130824.html) - 13,37eur (^^) More [here](http://www.fabienm.eu/flf/15-ecp5-board-kit/).
 * \[Colorlight S2] -> See [image](https://images-na.ssl-images-amazon.com/images/I/71LIIdGKd2L._SL1200_.jpg)
 * [Colorlight I5A-F](https://www.aliexpress.com/item/32965503071.html?spm=a2g0o.productlist.0.0.264c5846mvNu3I\&algo_pvid=298ad15b-e19a-4653-8bac-51ac2682746a\&algo_expid=298ad15b-e19a-4653-8bac-51ac2682746a-0\&btsid=773bcf40-222b-450f-805c-af72623f12e1\&ws_ab_test=searchweb0_0,searchweb201602_10,searchweb201603_55)
@@ -295,4 +295,4 @@ To the extent possible under law, [Kelu124](https://github.com/kelu124) has waiv
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-09._
