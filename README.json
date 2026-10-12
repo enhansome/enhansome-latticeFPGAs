@@ -73,8 +73,8 @@
             "id": 118316091,
             "language": "Python",
             "license": "0BSD",
-            "last_commit": "2026-10-10T23:08:42Z",
-            "open_issues": 78,
+            "last_commit": "2026-10-12T18:36:51Z",
+            "open_issues": 79,
             "owner": "GlasgowEmbedded",
             "repo": "glasgow",
             "stars": 2225,
@@ -103,7 +103,7 @@
             "open_issues": 10,
             "owner": "schlae",
             "repo": "graphics-gremlin",
-            "stars": 580,
+            "stars": 579,
             "topics": []
           },
           "first_seen": "2026-08-28T21:02:34.186Z"
@@ -668,7 +668,7 @@
             "open_issues": 116,
             "owner": "cariboulabs",
             "repo": "cariboulite",
-            "stars": 1340,
+            "stars": 1342,
             "topics": [
               "defined",
               "fpga",
@@ -783,7 +783,7 @@
             "open_issues": 11,
             "owner": "wuxx",
             "repo": "icesugar",
-            "stars": 458,
+            "stars": 459,
             "topics": []
           },
           "first_seen": "2026-08-28T21:02:34.186Z"
@@ -1376,7 +1376,7 @@
             "open_issues": 4,
             "owner": "cheyao",
             "repo": "icepi-zero",
-            "stars": 833,
+            "stars": 836,
             "topics": [
               "development-board",
               "ecp5",
@@ -1514,7 +1514,7 @@
             "open_issues": 7,
             "owner": "gatecat",
             "repo": "TrellisBoard",
-            "stars": 122,
+            "stars": 123,
             "topics": []
           },
           "first_seen": "2026-08-28T21:02:34.186Z"
@@ -1872,7 +1872,7 @@
                 "open_issues": 7,
                 "owner": "wuxx",
                 "repo": "Colorlight-FPGA-Projects",
-                "stars": 369,
+                "stars": 370,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:02:34.186Z"
@@ -1889,11 +1889,11 @@
                 "id": 1392561578,
                 "language": "C",
                 "license": "BSD-2-Clause",
-                "last_commit": "2026-10-08T08:15:10Z",
+                "last_commit": "2026-10-12T06:50:50Z",
                 "open_issues": 1,
                 "owner": "enjoy-digital",
                 "repo": "camlink_4k",
-                "stars": 24,
+                "stars": 27,
                 "topics": []
               },
               "first_seen": "2026-10-05T18:58:25.708Z"
@@ -1929,7 +1929,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T16:04:26.902Z",
+    "last_updated": "2026-10-12T19:31:44.144Z",
     "original_repository_info": {
       "archived": false,
       "description": ":book: List of FPGA Lattice boards using open tools",
