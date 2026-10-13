@@ -20,13 +20,13 @@
 
 ## HX4K
 
-* [Glasgow revC](https://github.com/GlasgowEmbedded/glasgow) ⭐ 2,225 | 🐛 79 | 🌐 Python | 📅 2026-10-12
+* [Glasgow revC](https://github.com/GlasgowEmbedded/glasgow) ⭐ 2,225 | 🐛 79 | 🌐 Python | 📅 2026-10-13
 * [Graphics Gremlin](https://github.com/schlae/graphics-gremlin) ⭐ 579 | 🐛 10 | 🌐 Verilog | 📅 2024-10-24. The Graphics Gremlin is an FPGA-based ISA video card specifically designed to emulate certain old video standards. This initial release emulates the original IBM PC monochrome graphics adapter (MDA) as well as the original IBM color graphics adapter (CGA). Since the logic is defined by the bitstream loaded into the FPGA, new emulations may be available in the future to support other video standards.
 * [Alhambra II](https://github.com/FPGAwars/Alhambra-II-FPGA) ⭐ 97 | 🐛 6 | 📅 2024-10-29 (FTDI)
 * [Azukar FPGA](https://github.com/maxisimonazzi/Azukar-FPGA) ⭐ 87 | 🐛 0 | 📅 2026-09-17 (FTDI, GPIO, 8 leds, 8 push buttons, 12 and 100 MHz oscillators, USB-C, usable as an 8k device in yosys) Azukar is an Open-source FPGA development board for education and digital design learning. Designed for accessibility, reproducibility and seamless integration with open FPGA toolchains for students, makers and academic environments.
 * [first-fpga-pcb](https://github.com/mattvenn/first-fpga-pcb) ⭐ 83 | 🐛 0 | 🌐 Verilog | 📅 2020-08-03 first @mattvenn.  6 PMODs + Raspberry Pi breakout. **(outdated)**
 * [BlackIce II](https://github.com/mystorm-org/BlackIce-II/wiki/Getting-Started) ⭐ 72 | 🐛 9 | 🌐 C | 📅 2020-12-29 (Serial) **(outdated)**
-* [IceCore](https://github.com/folknology/IceCore) ⭐ 46 | 🐛 6 | 🌐 C | 📅 2021-01-23 **(outdated)**
+* [IceCore](https://github.com/folknology/IceCore) ⭐ 47 | 🐛 6 | 🌐 C | 📅 2021-01-23 **(outdated)**
 * [Bus Pirate Ultra](http://dangerousprototypes.com/blog/2019/10/03/prototype-bus-pirate-logic-analyzer-with-ice40-fpga/) and [here](https://github.com/DangerousPrototypes/BusPirateUltraHardware) ⭐ 35 | 🐛 0 | 📅 2021-04-14 **(outdated)**
 * [picohx](https://github.com/dan-rodrigues/pico-hx) ⭐ 31 | 🐛 1 | 🌐 C | 📅 2024-05-08 combines an iCE40 HX FPGA with the Raspberry Pi Pico. The Pico can program the FPGA over USB using a script included in this repo and then interact with it using GPIO.
 * [2057-ICE40HX4K-TQ144-breakout](https://github.com/johnwinans/2057-ICE40HX4K-TQ144-breakout) ⭐ 25 | 🐛 4 | 🌐 Shell | 📅 2025-12-28 - a minimal Raspberry Pi breakout board for the iCE40 HX4K in TQ144.
@@ -183,8 +183,8 @@ Sidenote: [iCE40-UP5K/pinout.json](https://raw.githubusercontent.com/FPGAwars/ic
 
 * [LUNA](https://github.com/greatscottgadgets/luna) ⭐ 1,140 | 🐛 33 | 🌐 Python | 📅 2026-08-19. A USB multitool for monitoring, hacking, and developing USB devices (work in progress). [crowdsupply](https://www.crowdsupply.com/great-scott-gadgets/luna).
 * [Icepi Zero](https://github.com/cheyao/icepi-zero) ⭐ 836 | 🐛 4 | 🌐 HTML | 📅 2026-09-18 - ECP5 development board in a raspberry pi zero form . Includes an HDMI and uSD interface
-* [OrangeCrab](https://github.com/gregdavill/OrangeCrab) ⭐ 545 | 🐛 18 | 🌐 HTML | 📅 2024-11-06. ECP5 breakout board in a feather physical format.
-* [ButterStick](https://groupgets.com/products/butterstick-fpga-development-board) [Github](https://github.com/gregdavill/ButterStick) ⭐ 222 | 🐛 3 | 🌐 HTML | 📅 2023-09-18. SYZYGY + Eth.
+* [OrangeCrab](https://github.com/gregdavill/OrangeCrab) ⭐ 546 | 🐛 18 | 🌐 HTML | 📅 2024-11-06. ECP5 breakout board in a feather physical format.
+* [ButterStick](https://groupgets.com/products/butterstick-fpga-development-board) [Github](https://github.com/gregdavill/ButterStick) ⭐ 224 | 🐛 3 | 🌐 HTML | 📅 2023-09-18. SYZYGY + Eth.
 * [iCESugar-Pro](https://github.com/wuxx/icesugar-pro) ⭐ 217 | 🐛 15 | 🌐 Verilog | 📅 2025-09-16 - a DDR2-SODIMM-form-factor ECP5 (LFE5U-25F) board with 32MB SDRAM, \~106 IOs and an onboard debugger, supported by yosys/nextpnr.
 * [basic-ecp5-pcb](https://github.com/mattvenn/basic-ecp5-pcb) ⭐ 143 | 🐛 4 | 🌐 Verilog | 📅 2021-07-17. 6 PMODs + Raspberry Pi breakout. **(outdated)**
 * [LogicBone](https://github.com/oskirby/logicbone) ⭐ 124 | 🐛 9 | 🌐 KiCad Layout | 📅 2020-06-27. LFE5UM5G-45F-8BG381C + 8Gb DDR3L. **(outdated)**
@@ -295,4 +295,4 @@ To the extent possible under law, [Kelu124](https://github.com/kelu124) has waiv
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-13._

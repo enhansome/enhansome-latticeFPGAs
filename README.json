@@ -73,7 +73,7 @@
             "id": 118316091,
             "language": "Python",
             "license": "0BSD",
-            "last_commit": "2026-10-12T18:36:51Z",
+            "last_commit": "2026-10-13T12:50:44Z",
             "open_issues": 79,
             "owner": "GlasgowEmbedded",
             "repo": "glasgow",
@@ -230,7 +230,7 @@
             "open_issues": 6,
             "owner": "folknology",
             "repo": "IceCore",
-            "stars": 46,
+            "stars": 47,
             "topics": []
           },
           "first_seen": "2026-08-28T21:02:34.186Z"
@@ -1405,7 +1405,7 @@
             "open_issues": 18,
             "owner": "orangecrab-fpga",
             "repo": "orangecrab-hardware",
-            "stars": 545,
+            "stars": 546,
             "topics": []
           },
           "first_seen": "2026-08-28T21:02:34.186Z"
@@ -1426,7 +1426,7 @@
             "open_issues": 3,
             "owner": "butterstick-fpga",
             "repo": "butterstick-hardware",
-            "stars": 222,
+            "stars": 224,
             "topics": []
           },
           "first_seen": "2026-08-28T21:02:34.186Z"
@@ -1929,7 +1929,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T19:31:44.144Z",
+    "last_updated": "2026-10-13T17:16:03.366Z",
     "original_repository_info": {
       "archived": false,
       "description": ":book: List of FPGA Lattice boards using open tools",
