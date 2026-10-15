@@ -73,11 +73,11 @@
             "id": 118316091,
             "language": "Python",
             "license": "0BSD",
-            "last_commit": "2026-10-14T13:32:09Z",
+            "last_commit": "2026-10-15T13:15:15Z",
             "open_issues": 80,
             "owner": "GlasgowEmbedded",
             "repo": "glasgow",
-            "stars": 2225,
+            "stars": 2226,
             "topics": [
               "debugging-tool",
               "fpga",
@@ -783,7 +783,7 @@
             "open_issues": 11,
             "owner": "wuxx",
             "repo": "icesugar",
-            "stars": 459,
+            "stars": 460,
             "topics": []
           },
           "first_seen": "2026-08-28T21:02:34.186Z"
@@ -917,7 +917,7 @@
             "open_issues": 4,
             "owner": "tinyvision-ai-inc",
             "repo": "pico2-ice",
-            "stars": 59,
+            "stars": 60,
             "topics": []
           },
           "first_seen": "2026-09-22T14:16:25.837Z"
@@ -1351,7 +1351,7 @@
             "open_issues": 33,
             "owner": "greatscottgadgets",
             "repo": "luna",
-            "stars": 1140,
+            "stars": 1141,
             "topics": [
               "fpga",
               "hardware",
@@ -1426,7 +1426,7 @@
             "open_issues": 3,
             "owner": "butterstick-fpga",
             "repo": "butterstick-hardware",
-            "stars": 224,
+            "stars": 225,
             "topics": []
           },
           "first_seen": "2026-08-28T21:02:34.186Z"
@@ -1447,7 +1447,7 @@
             "open_issues": 15,
             "owner": "wuxx",
             "repo": "icesugar-pro",
-            "stars": 217,
+            "stars": 218,
             "topics": []
           },
           "first_seen": "2026-09-22T14:16:25.837Z"
@@ -1914,7 +1914,7 @@
                 "open_issues": 1,
                 "owner": "samlittlewood",
                 "repo": "sd2snes_ecp5",
-                "stars": 20,
+                "stars": 21,
                 "topics": []
               },
               "first_seen": "2026-09-22T14:16:25.837Z"
@@ -1929,7 +1929,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T14:47:53.110Z",
+    "last_updated": "2026-10-15T14:34:12.200Z",
     "original_repository_info": {
       "archived": false,
       "description": ":book: List of FPGA Lattice boards using open tools",
