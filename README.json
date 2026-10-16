@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "circuitvalley",
             "repo": "USB_C_Industrial_Camera_FPGA_USB3",
-            "stars": 1164,
+            "stars": 1165,
             "topics": [
               "camera",
               "csi",
@@ -74,7 +74,7 @@
             "language": "Python",
             "license": "0BSD",
             "last_commit": "2026-10-15T13:15:15Z",
-            "open_issues": 80,
+            "open_issues": 81,
             "owner": "GlasgowEmbedded",
             "repo": "glasgow",
             "stars": 2226,
@@ -1348,7 +1348,7 @@
             "language": "Python",
             "license": "BSD-3-Clause",
             "last_commit": "2026-08-19T14:51:48Z",
-            "open_issues": 33,
+            "open_issues": 32,
             "owner": "greatscottgadgets",
             "repo": "luna",
             "stars": 1141,
@@ -1372,11 +1372,11 @@
             "id": 973244112,
             "language": "HTML",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-18T19:48:53Z",
+            "last_commit": "2026-10-16T09:02:41Z",
             "open_issues": 4,
             "owner": "cheyao",
             "repo": "icepi-zero",
-            "stars": 836,
+            "stars": 843,
             "topics": [
               "development-board",
               "ecp5",
@@ -1929,7 +1929,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T14:34:12.200Z",
+    "last_updated": "2026-10-16T14:25:25.697Z",
     "original_repository_info": {
       "archived": false,
       "description": ":book: List of FPGA Lattice boards using open tools",
