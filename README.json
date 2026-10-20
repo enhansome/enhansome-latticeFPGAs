@@ -73,7 +73,7 @@
             "id": 118316091,
             "language": "Python",
             "license": "0BSD",
-            "last_commit": "2026-10-18T15:51:34Z",
+            "last_commit": "2026-10-20T13:35:11Z",
             "open_issues": 82,
             "owner": "GlasgowEmbedded",
             "repo": "glasgow",
@@ -1001,7 +1001,7 @@
             "open_issues": 0,
             "owner": "kelu124",
             "repo": "lit3rick",
-            "stars": 43,
+            "stars": 46,
             "topics": [
               "hardware",
               "python",
@@ -1351,7 +1351,7 @@
             "open_issues": 33,
             "owner": "greatscottgadgets",
             "repo": "luna",
-            "stars": 1142,
+            "stars": 1143,
             "topics": [
               "fpga",
               "hardware",
@@ -1376,7 +1376,7 @@
             "open_issues": 4,
             "owner": "cheyao",
             "repo": "icepi-zero",
-            "stars": 859,
+            "stars": 860,
             "topics": [
               "development-board",
               "ecp5",
@@ -1851,7 +1851,7 @@
                 "open_issues": 33,
                 "owner": "q3k",
                 "repo": "chubby75",
-                "stars": 646,
+                "stars": 647,
                 "topics": []
               },
               "first_seen": "2026-09-22T14:16:25.837Z"
@@ -1929,7 +1929,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T16:43:20.012Z",
+    "last_updated": "2026-10-20T14:35:06.841Z",
     "original_repository_info": {
       "archived": false,
       "description": ":book: List of FPGA Lattice boards using open tools",

@@ -20,7 +20,7 @@
 
 ## HX4K
 
-* [Glasgow revC](https://github.com/GlasgowEmbedded/glasgow) ⭐ 2,228 | 🐛 82 | 🌐 Python | 📅 2026-10-18
+* [Glasgow revC](https://github.com/GlasgowEmbedded/glasgow) ⭐ 2,228 | 🐛 82 | 🌐 Python | 📅 2026-10-20
 * [Graphics Gremlin](https://github.com/schlae/graphics-gremlin) ⭐ 580 | 🐛 10 | 🌐 Verilog | 📅 2024-10-24. The Graphics Gremlin is an FPGA-based ISA video card specifically designed to emulate certain old video standards. This initial release emulates the original IBM PC monochrome graphics adapter (MDA) as well as the original IBM color graphics adapter (CGA). Since the logic is defined by the bitstream loaded into the FPGA, new emulations may be available in the future to support other video standards.
 * [Alhambra II](https://github.com/FPGAwars/Alhambra-II-FPGA) ⭐ 97 | 🐛 6 | 📅 2024-10-29 (FTDI)
 * [Azukar FPGA](https://github.com/maxisimonazzi/Azukar-FPGA) ⭐ 87 | 🐛 0 | 📅 2026-09-17 (FTDI, GPIO, 8 leds, 8 push buttons, 12 and 100 MHz oscillators, USB-C, usable as an 8k device in yosys) Azukar is an Open-source FPGA development board for education and digital design learning. Designed for accessibility, reproducibility and seamless integration with open FPGA toolchains for students, makers and academic environments.
@@ -111,7 +111,7 @@
 
 * [Vision FPGA](https://github.com/tinyvision-ai-inc/Vision-FPGA-SoM) ⭐ 48 | 🐛 0 | 🌐 Verilog | 📅 2021-06-23 **(outdated)**
 
-* [lit3rick](https://github.com/kelu124/lit3rick/) ⭐ 43 | 🐛 0 | 🌐 Verilog | 📅 2024-07-16 - open source ultrasound pulse-echo raspberry pi hat shaped.
+* [lit3rick](https://github.com/kelu124/lit3rick/) ⭐ 46 | 🐛 0 | 🌐 Verilog | 📅 2024-07-16 - open source ultrasound pulse-echo raspberry pi hat shaped.
 
 * [icehat](https://github.com/emeb/icehat) ⭐ 29 | 🐛 0 | 🌐 KiCad | 📅 2017-01-27. - with [custom flashing code](https://github.com/emeb/icehat/tree/master/ice_tool) ⭐ 29 | 🐛 0 | 🌐 KiCad | 📅 2017-01-27 **(outdated)**
 
@@ -181,8 +181,8 @@ Sidenote: [iCE40-UP5K/pinout.json](https://raw.githubusercontent.com/FPGAwars/ic
 
 ## ECP5
 
-* [LUNA](https://github.com/greatscottgadgets/luna) ⭐ 1,142 | 🐛 33 | 🌐 Python | 📅 2026-08-19. A USB multitool for monitoring, hacking, and developing USB devices (work in progress). [crowdsupply](https://www.crowdsupply.com/great-scott-gadgets/luna).
-* [Icepi Zero](https://github.com/cheyao/icepi-zero) ⭐ 859 | 🐛 4 | 🌐 HTML | 📅 2026-10-16 - ECP5 development board in a raspberry pi zero form . Includes an HDMI and uSD interface
+* [LUNA](https://github.com/greatscottgadgets/luna) ⭐ 1,143 | 🐛 33 | 🌐 Python | 📅 2026-08-19. A USB multitool for monitoring, hacking, and developing USB devices (work in progress). [crowdsupply](https://www.crowdsupply.com/great-scott-gadgets/luna).
+* [Icepi Zero](https://github.com/cheyao/icepi-zero) ⭐ 860 | 🐛 4 | 🌐 HTML | 📅 2026-10-16 - ECP5 development board in a raspberry pi zero form . Includes an HDMI and uSD interface
 * [OrangeCrab](https://github.com/gregdavill/OrangeCrab) ⭐ 546 | 🐛 17 | 🌐 HTML | 📅 2024-11-06. ECP5 breakout board in a feather physical format.
 * [ButterStick](https://groupgets.com/products/butterstick-fpga-development-board) [Github](https://github.com/gregdavill/ButterStick) ⭐ 225 | 🐛 3 | 🌐 HTML | 📅 2023-09-18. SYZYGY + Eth.
 * [iCESugar-Pro](https://github.com/wuxx/icesugar-pro) ⭐ 218 | 🐛 15 | 🌐 Verilog | 📅 2025-09-16 - a DDR2-SODIMM-form-factor ECP5 (LFE5U-25F) board with 32MB SDRAM, \~106 IOs and an onboard debugger, supported by yosys/nextpnr.
@@ -239,7 +239,7 @@ HX8K and ECP5 so far. (and now up5k!)
 
 ### ECP5
 
-* [Colorlight 5A-75E](https://github.com/q3k/chubby75/blob/master/5a-75e/README.md) ⭐ 646 | 🐛 33 | 🌐 Python | 📅 2025-05-30 - a cheap 16-port HUB75 LED-panel receiver card (LFE5U-25F) reverse-engineered for use as an ECP5 dev board.
+* [Colorlight 5A-75E](https://github.com/q3k/chubby75/blob/master/5a-75e/README.md) ⭐ 647 | 🐛 33 | 🌐 Python | 📅 2025-05-30 - a cheap 16-port HUB75 LED-panel receiver card (LFE5U-25F) reverse-engineered for use as an ECP5 dev board.
 * [Colorlight I5\_V6](https://github.com/wuxx/Colorlight-FPGA-Projects) ⭐ 370 | 🐛 7 | 🌐 Verilog | 📅 2026-09-15 - with pins breakdowns by JohnnyW11773607. And a [testbed](https://twitter.com/JohnnyW11773607/status/1306807958165020672/photo/1)
 * [Elgato CameraLink 4K](https://www.amazon.fr/Elgato-20GAM9901-diffusion-enregistrement-cam%C3%A9scope/dp/B07K3FN5MR/). Running [LiTex](https://github.com/enjoy-digital/camlink_4k/) ⭐ 28 | 🐛 1 | 🌐 C | 📅 2026-10-12 for example.
 * [SD2SNES (ECP5)](https://github.com/samlittlewood/sd2snes_ecp5) ⭐ 21 | 🐛 1 | 📅 2021-02-18 - @samlittlewood's ECP5-based reboot of the sd2snes SNES flash cartridge.
@@ -295,4 +295,4 @@ To the extent possible under law, [Kelu124](https://github.com/kelu124) has waiv
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-20._
