@@ -91,11 +91,11 @@
 
 ## UP5K
 
-* [ICESugar FPGA](https://github.com/wuxx/icesugar) ⭐ 461 | 🐛 11 | 🌐 Verilog | 📅 2026-07-31 - iCESugar FPGA Board base on iCE40UP5k. [Website](https://www.muselab-tech.com/zai-icesugarshang-yun-xing-muraxsoc/) [repo](https://github.com/wuxx/icesugar) ⭐ 461 | 🐛 11 | 🌐 Verilog | 📅 2026-07-31. V1.5 so far. Aliexpress: <https://www.aliexpress.com/item/4001201771358.html>
+* [ICESugar FPGA](https://github.com/wuxx/icesugar) ⭐ 462 | 🐛 11 | 🌐 Verilog | 📅 2026-07-31 - iCESugar FPGA Board base on iCE40UP5k. [Website](https://www.muselab-tech.com/zai-icesugarshang-yun-xing-muraxsoc/) [repo](https://github.com/wuxx/icesugar) ⭐ 462 | 🐛 11 | 🌐 Verilog | 📅 2026-07-31. V1.5 so far. Aliexpress: <https://www.aliexpress.com/item/4001201771358.html>
 
 * [UPDuino V3.1](https://github.com/tinyvision-ai-inc/UPduino-v3.0) ⭐ 365 | 🐛 20 | 🌐 HTML | 📅 2026-07-21 FTDI FT232H and 4MB qSPI Flash. [WebSite](https://tinyvision.ai/products/fpga-development-board-upduino-v3-1) [Documentation](https://upduino.readthedocs.io/en/latest/).
 
-* [Pico ICE](https://github.com/tinyvision-ai-inc/pico-ice) ⭐ 202 | 🐛 6 | 🌐 HTML | 📅 2025-07-04. Raspberry Pi RP2040, two 4MB SPI Flash chips, 8MB qSPI SSRAM. [Web site](https://tinyvision.ai/products/pico-ice-fpga-trainer-board)  [Documentation](https://pico-ice.tinyvision.ai/).
+* [Pico ICE](https://github.com/tinyvision-ai-inc/pico-ice) ⭐ 203 | 🐛 6 | 🌐 HTML | 📅 2025-07-04. Raspberry Pi RP2040, two 4MB SPI Flash chips, 8MB qSPI SSRAM. [Web site](https://tinyvision.ai/products/pico-ice-fpga-trainer-board)  [Documentation](https://pico-ice.tinyvision.ai/).
 
 * [reDIP SID](https://github.com/daglem/reDIP-SID) ⭐ 121 | 🐛 1 | 🌐 SystemVerilog | 📅 2024-09-23. The reDIP SID provides a fully functional open source hardware platform for MOS 6581/8580 SID emulation. The reDIP SID also aims to be a good no-frills generic choice for FPGA projects which may find use for audio and/or 5V tolerant I/O - it should be ideal for for e.g. retro computer and synthesizer projects.
 
@@ -185,7 +185,7 @@ Sidenote: [iCE40-UP5K/pinout.json](https://raw.githubusercontent.com/FPGAwars/ic
 * [Icepi Zero](https://github.com/cheyao/icepi-zero) ⭐ 861 | 🐛 4 | 🌐 HTML | 📅 2026-10-22 - ECP5 development board in a raspberry pi zero form . Includes an HDMI and uSD interface
 * [OrangeCrab](https://github.com/gregdavill/OrangeCrab) ⭐ 546 | 🐛 17 | 🌐 HTML | 📅 2024-11-06. ECP5 breakout board in a feather physical format.
 * [ButterStick](https://groupgets.com/products/butterstick-fpga-development-board) [Github](https://github.com/gregdavill/ButterStick) ⭐ 225 | 🐛 3 | 🌐 HTML | 📅 2023-09-18. SYZYGY + Eth.
-* [iCESugar-Pro](https://github.com/wuxx/icesugar-pro) ⭐ 218 | 🐛 15 | 🌐 Verilog | 📅 2025-09-16 - a DDR2-SODIMM-form-factor ECP5 (LFE5U-25F) board with 32MB SDRAM, \~106 IOs and an onboard debugger, supported by yosys/nextpnr.
+* [iCESugar-Pro](https://github.com/wuxx/icesugar-pro) ⭐ 219 | 🐛 15 | 🌐 Verilog | 📅 2025-09-16 - a DDR2-SODIMM-form-factor ECP5 (LFE5U-25F) board with 32MB SDRAM, \~106 IOs and an onboard debugger, supported by yosys/nextpnr.
 * [basic-ecp5-pcb](https://github.com/mattvenn/basic-ecp5-pcb) ⭐ 144 | 🐛 4 | 🌐 Verilog | 📅 2021-07-17. 6 PMODs + Raspberry Pi breakout. **(outdated)**
 * [LogicBone](https://github.com/oskirby/logicbone) ⭐ 124 | 🐛 9 | 🌐 KiCad Layout | 📅 2020-06-27. LFE5UM5G-45F-8BG381C + 8Gb DDR3L. **(outdated)**
 * [TrellisBoard](https://github.com/gatecat/TrellisBoard) ⭐ 123 | 🐛 7 | 🌐 ANTLR | 📅 2019-07-04. Largest ECP5: LFE5UM5G-85F, 2 x PCIe 2.0, M.2, 1GByte DDR3L, HDMI, 1000BASE-T GbE, microSD, Dual PMOD. **(outdated)**
@@ -295,4 +295,4 @@ To the extent possible under law, [Kelu124](https://github.com/kelu124) has waiv
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-23._
