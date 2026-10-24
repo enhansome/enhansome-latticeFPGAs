@@ -68,7 +68,7 @@
 
 ## LP1K
 
-* [CaribouLite](https://github.com/cariboulabs/cariboulite) ⭐ 1,346 | 🐛 116 | 🌐 C | 📅 2025-07-24 - open-source SDR platform ( CaribouLite utilizes the SMI (Secondary Memory Interface)  ).
+* [CaribouLite](https://github.com/cariboulabs/cariboulite) ⭐ 1,345 | 🐛 116 | 🌐 C | 📅 2025-07-24 - open-source SDR platform ( CaribouLite utilizes the SMI (Secondary Memory Interface)  ).
 * [iCESugar-nano](https://github.com/wuxx/icesugar-nano) ⭐ 152 | 🐛 8 | 🌐 Verilog | 📅 2025-09-16 - iCESugar FPGA Board base on iCE40LP1K-CM36
 
 ## LP4K
@@ -182,7 +182,7 @@ Sidenote: [iCE40-UP5K/pinout.json](https://raw.githubusercontent.com/FPGAwars/ic
 ## ECP5
 
 * [LUNA](https://github.com/greatscottgadgets/luna) ⭐ 1,143 | 🐛 33 | 🌐 Python | 📅 2026-08-19. A USB multitool for monitoring, hacking, and developing USB devices (work in progress). [crowdsupply](https://www.crowdsupply.com/great-scott-gadgets/luna).
-* [Icepi Zero](https://github.com/cheyao/icepi-zero) ⭐ 861 | 🐛 4 | 🌐 HTML | 📅 2026-10-22 - ECP5 development board in a raspberry pi zero form . Includes an HDMI and uSD interface
+* [Icepi Zero](https://github.com/cheyao/icepi-zero) ⭐ 861 | 🐛 4 | 🌐 HTML | 📅 2026-10-23 - ECP5 development board in a raspberry pi zero form . Includes an HDMI and uSD interface
 * [OrangeCrab](https://github.com/gregdavill/OrangeCrab) ⭐ 546 | 🐛 17 | 🌐 HTML | 📅 2024-11-06. ECP5 breakout board in a feather physical format.
 * [ButterStick](https://groupgets.com/products/butterstick-fpga-development-board) [Github](https://github.com/gregdavill/ButterStick) ⭐ 225 | 🐛 3 | 🌐 HTML | 📅 2023-09-18. SYZYGY + Eth.
 * [iCESugar-Pro](https://github.com/wuxx/icesugar-pro) ⭐ 219 | 🐛 15 | 🌐 Verilog | 📅 2025-09-16 - a DDR2-SODIMM-form-factor ECP5 (LFE5U-25F) board with 32MB SDRAM, \~106 IOs and an onboard debugger, supported by yosys/nextpnr.
@@ -295,4 +295,4 @@ To the extent possible under law, [Kelu124](https://github.com/kelu124) has waiv
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-24._
