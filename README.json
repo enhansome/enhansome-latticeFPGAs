@@ -73,11 +73,11 @@
             "id": 118316091,
             "language": "Python",
             "license": "0BSD",
-            "last_commit": "2026-10-22T01:27:12Z",
-            "open_issues": 82,
+            "last_commit": "2026-10-26T14:09:11Z",
+            "open_issues": 81,
             "owner": "GlasgowEmbedded",
             "repo": "glasgow",
-            "stars": 2228,
+            "stars": 2229,
             "topics": [
               "debugging-tool",
               "fpga",
@@ -507,6 +507,27 @@
       "items": [
         {
           "node_type": "item",
+          "title": "CAT Board",
+          "description": "(GPIO RPi). The CAT Board is a OSH Raspberry Pi HAT with a Lattice iCE40HX FPGA.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "The CAT Board is a Raspberry Pi HAT with a Lattice iCE40HX FPGA.",
+            "homepage": null,
+            "id": 43797106,
+            "language": "Jupyter Notebook",
+            "license": null,
+            "last_commit": "2024-02-27T20:25:49Z",
+            "open_issues": 0,
+            "owner": "devbisme",
+            "repo": "CAT-Board",
+            "stars": 63,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T21:02:34.186Z"
+        },
+        {
+          "node_type": "item",
           "title": "DSP ICE",
           "description": ". DSP ICE was developed because other boards didn't have all the features desired. The ultimate goal is to develop an SDR with swappable analog/RF front-ends. (outdated)",
           "children": [],
@@ -522,27 +543,6 @@
             "owner": "tvelliott",
             "repo": "dsp_ice",
             "stars": 63,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T21:02:34.186Z"
-        },
-        {
-          "node_type": "item",
-          "title": "CAT Board",
-          "description": "(GPIO RPi). The CAT Board is a OSH Raspberry Pi HAT with a Lattice iCE40HX FPGA.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "The CAT Board is a Raspberry Pi HAT with a Lattice iCE40HX FPGA.",
-            "homepage": null,
-            "id": 43797106,
-            "language": "Jupyter Notebook",
-            "license": null,
-            "last_commit": "2024-02-27T20:25:49Z",
-            "open_issues": 0,
-            "owner": "devbisme",
-            "repo": "CAT-Board",
-            "stars": 62,
             "topics": []
           },
           "first_seen": "2026-08-28T21:02:34.186Z"
@@ -1372,7 +1372,7 @@
             "id": 973244112,
             "language": "HTML",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-23T17:37:40Z",
+            "last_commit": "2026-10-25T18:57:50Z",
             "open_issues": 4,
             "owner": "cheyao",
             "repo": "icepi-zero",
@@ -1694,7 +1694,7 @@
             "open_issues": 18,
             "owner": "Spritetm",
             "repo": "hadbadge2019_fpgasoc",
-            "stars": 167,
+            "stars": 168,
             "topics": []
           },
           "first_seen": "2026-09-22T14:16:25.837Z"
@@ -1715,7 +1715,7 @@
             "open_issues": 0,
             "owner": "mmicko",
             "repo": "fpga101-workshop",
-            "stars": 81,
+            "stars": 82,
             "topics": [
               "apio",
               "fpga",
@@ -1794,7 +1794,7 @@
             "open_issues": 0,
             "owner": "NUSGreyhats",
             "repo": "greybadge25",
-            "stars": 0,
+            "stars": 1,
             "topics": []
           },
           "first_seen": "2026-09-22T14:16:25.837Z"
@@ -1929,7 +1929,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T14:01:32.924Z",
+    "last_updated": "2026-10-26T16:23:16.908Z",
     "original_repository_info": {
       "archived": false,
       "description": ":book: List of FPGA Lattice boards using open tools",
