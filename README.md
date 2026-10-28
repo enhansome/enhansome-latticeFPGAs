@@ -4,7 +4,7 @@
 
 ## CrossLink-NX
 
-* [USB-C Industrial Camera](https://github.com/circuitvalley/USB_C_Industrial_Camera_FPGA_USB3) ⭐ 1,168 | 🐛 0 | 🌐 Verilog | 📅 2026-09-13 - an open-hardware USB Type-C industrial camera pairing a Cypress FX3 USB3 controller with a CrossLink-NX LIFCL-40.
+* [USB-C Industrial Camera](https://github.com/circuitvalley/USB_C_Industrial_Camera_FPGA_USB3) ⭐ 1,169 | 🐛 0 | 🌐 Verilog | 📅 2026-09-13 - an open-hardware USB Type-C industrial camera pairing a Cypress FX3 USB3 controller with a CrossLink-NX LIFCL-40.
 * [tinyCLUNX33](https://github.com/tinyvision-ai-inc/tinyclunx33) ⭐ 13 | 🐛 3 | 📅 2026-10-08 - a 25.4 mm MIPI-to-USB3 System-on-Module built on a Lattice CrossLinkU-NX FPGA running Zephyr, with an open toolchain. [Product](https://tinyvision.ai/pages/tinyclunx33-som-and-devkits).
 * [ArticKoala](https://www.hackster.io/news/greg-davill-s-at-it-again-say-hello-to-the-arctickoala-1f7ecbfa10af) by Greg Davill. LIFCL-40 CrossLink based.
 
@@ -20,7 +20,7 @@
 
 ## HX4K
 
-* [Glasgow revC](https://github.com/GlasgowEmbedded/glasgow) ⭐ 2,230 | 🐛 81 | 🌐 Python | 📅 2026-10-26
+* [Glasgow revC](https://github.com/GlasgowEmbedded/glasgow) ⭐ 2,230 | 🐛 81 | 🌐 Python | 📅 2026-10-28
 * [Graphics Gremlin](https://github.com/schlae/graphics-gremlin) ⭐ 581 | 🐛 10 | 🌐 Verilog | 📅 2024-10-24. The Graphics Gremlin is an FPGA-based ISA video card specifically designed to emulate certain old video standards. This initial release emulates the original IBM PC monochrome graphics adapter (MDA) as well as the original IBM color graphics adapter (CGA). Since the logic is defined by the bitstream loaded into the FPGA, new emulations may be available in the future to support other video standards.
 * [Alhambra II](https://github.com/FPGAwars/Alhambra-II-FPGA) ⭐ 97 | 🐛 6 | 📅 2024-10-29 (FTDI)
 * [Azukar FPGA](https://github.com/maxisimonazzi/Azukar-FPGA) ⭐ 87 | 🐛 0 | 📅 2026-09-17 (FTDI, GPIO, 8 leds, 8 push buttons, 12 and 100 MHz oscillators, USB-C, usable as an 8k device in yosys) Azukar is an Open-source FPGA development board for education and digital design learning. Designed for accessibility, reproducibility and seamless integration with open FPGA toolchains for students, makers and academic environments.
@@ -47,7 +47,7 @@
 
 ## HX8K
 
-* [CAT Board](https://github.com/xesscorp/CAT-Board) ⭐ 63 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-02-27 (GPIO RPi). The CAT Board is a OSH Raspberry Pi HAT with a Lattice iCE40HX FPGA.
+* [CAT Board](https://github.com/xesscorp/CAT-Board) ⭐ 64 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-02-27 (GPIO RPi). The CAT Board is a OSH Raspberry Pi HAT with a Lattice iCE40HX FPGA.
 * [DSP ICE](https://github.com/tvelliott/dsp_ice) ⭐ 63 | 🐛 1 | 🌐 C | 📅 2017-10-04. DSP ICE was developed because other boards didn't have all the features desired. The ultimate goal is to develop an SDR with swappable analog/RF front-ends. **(outdated)**
 * [Snowflake-FPGA](https://github.com/Wren6991/Snowflake-FPGA) ⭐ 31 | 🐛 2 | 🌐 Shell | 📅 2019-07-07 - a cheap Raspberry Pi HAT with an iCE40 HX8K that the Pi programs and talks to over UART/SPI/SDIO.
 * [Kuchen](https://github.com/machdyne/kuchen) ⭐ 23 | 🐛 0 | 🌐 OpenSCAD | 📅 2024-06-26 - Kuchen is an FPGA computer by Lone Dynamics based on the iCE40 HX8K, with schematics, PCB, pinouts and example gateware.
@@ -132,7 +132,7 @@
 
 * [ice40helper](https://github.com/kehribar/ice40helper) ⭐ 6 | 🐛 0 | 🌐 C | 📅 2020-06-20 **(outdated)**
 
-* [ice40-dip40](https://github.com/esynr3z/ice40-dip40) ⭐ 5 | 🐛 0 | 📅 2019-03-04 - a miniature DIP40-like breakout board for the iCE40 Ultra/UltraPlus.
+* [ice40-dip40](https://github.com/esynr3z/ice40-dip40) ⚠️ Archived - a miniature DIP40-like breakout board for the iCE40 Ultra/UltraPlus.
 
 * [ice40-dev-board](https://github.com/medhyal/ice40-dev-board) ⭐ 5 | 🐛 0 | 📅 2021-04-19 by medhyal - simple breakout board **(outdated)**
 
@@ -181,8 +181,8 @@ Sidenote: [iCE40-UP5K/pinout.json](https://raw.githubusercontent.com/FPGAwars/ic
 
 ## ECP5
 
-* [LUNA](https://github.com/greatscottgadgets/luna) ⭐ 1,143 | 🐛 34 | 🌐 Python | 📅 2026-10-27. A USB multitool for monitoring, hacking, and developing USB devices (work in progress). [crowdsupply](https://www.crowdsupply.com/great-scott-gadgets/luna).
-* [Icepi Zero](https://github.com/cheyao/icepi-zero) ⭐ 863 | 🐛 4 | 🌐 HTML | 📅 2026-10-25 - ECP5 development board in a raspberry pi zero form . Includes an HDMI and uSD interface
+* [LUNA](https://github.com/greatscottgadgets/luna) ⭐ 1,143 | 🐛 32 | 🌐 Python | 📅 2026-10-28. A USB multitool for monitoring, hacking, and developing USB devices (work in progress). [crowdsupply](https://www.crowdsupply.com/great-scott-gadgets/luna).
+* [Icepi Zero](https://github.com/cheyao/icepi-zero) ⭐ 864 | 🐛 4 | 🌐 HTML | 📅 2026-10-25 - ECP5 development board in a raspberry pi zero form . Includes an HDMI and uSD interface
 * [OrangeCrab](https://github.com/gregdavill/OrangeCrab) ⭐ 546 | 🐛 17 | 🌐 HTML | 📅 2024-11-06. ECP5 breakout board in a feather physical format.
 * [ButterStick](https://groupgets.com/products/butterstick-fpga-development-board) [Github](https://github.com/gregdavill/ButterStick) ⭐ 225 | 🐛 3 | 🌐 HTML | 📅 2023-09-18. SYZYGY + Eth.
 * [iCESugar-Pro](https://github.com/wuxx/icesugar-pro) ⭐ 220 | 🐛 15 | 🌐 Verilog | 📅 2025-09-16 - a DDR2-SODIMM-form-factor ECP5 (LFE5U-25F) board with 32MB SDRAM, \~106 IOs and an onboard debugger, supported by yosys/nextpnr.
@@ -295,4 +295,4 @@ To the extent possible under law, [Kelu124](https://github.com/kelu124) has waiv
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-28._
