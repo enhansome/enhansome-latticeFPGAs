@@ -74,7 +74,7 @@
             "language": "Python",
             "license": "0BSD",
             "last_commit": "2026-10-28T11:12:19Z",
-            "open_issues": 81,
+            "open_issues": 82,
             "owner": "GlasgowEmbedded",
             "repo": "glasgow",
             "stars": 2230,
@@ -103,7 +103,7 @@
             "open_issues": 10,
             "owner": "schlae",
             "repo": "graphics-gremlin",
-            "stars": 581,
+            "stars": 580,
             "topics": []
           },
           "first_seen": "2026-08-28T21:02:34.186Z"
@@ -668,7 +668,7 @@
             "open_issues": 116,
             "owner": "cariboulabs",
             "repo": "cariboulite",
-            "stars": 1346,
+            "stars": 1345,
             "topics": [
               "defined",
               "fpga",
@@ -1929,7 +1929,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T16:22:13.522Z",
+    "last_updated": "2026-10-29T16:31:24.125Z",
     "original_repository_info": {
       "archived": false,
       "description": ":book: List of FPGA Lattice boards using open tools",
