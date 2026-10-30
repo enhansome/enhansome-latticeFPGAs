@@ -73,11 +73,11 @@
             "id": 118316091,
             "language": "Python",
             "license": "0BSD",
-            "last_commit": "2026-10-28T11:12:19Z",
-            "open_issues": 82,
+            "last_commit": "2026-10-30T08:35:47Z",
+            "open_issues": 81,
             "owner": "GlasgowEmbedded",
             "repo": "glasgow",
-            "stars": 2230,
+            "stars": 2229,
             "topics": [
               "debugging-tool",
               "fpga",
@@ -103,7 +103,7 @@
             "open_issues": 10,
             "owner": "schlae",
             "repo": "graphics-gremlin",
-            "stars": 580,
+            "stars": 579,
             "topics": []
           },
           "first_seen": "2026-08-28T21:02:34.186Z"
@@ -702,7 +702,7 @@
             "open_issues": 8,
             "owner": "wuxx",
             "repo": "icesugar-nano",
-            "stars": 152,
+            "stars": 153,
             "topics": []
           },
           "first_seen": "2026-08-28T21:02:34.186Z"
@@ -783,7 +783,7 @@
             "open_issues": 11,
             "owner": "wuxx",
             "repo": "icesugar",
-            "stars": 462,
+            "stars": 463,
             "topics": []
           },
           "first_seen": "2026-08-28T21:02:34.186Z"
@@ -1376,7 +1376,7 @@
             "open_issues": 4,
             "owner": "cheyao",
             "repo": "icepi-zero",
-            "stars": 864,
+            "stars": 865,
             "topics": [
               "development-board",
               "ecp5",
@@ -1872,7 +1872,7 @@
                 "open_issues": 7,
                 "owner": "wuxx",
                 "repo": "Colorlight-FPGA-Projects",
-                "stars": 370,
+                "stars": 371,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:02:34.186Z"
@@ -1929,7 +1929,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T16:31:24.125Z",
+    "last_updated": "2026-10-30T16:23:16.073Z",
     "original_repository_info": {
       "archived": false,
       "description": ":book: List of FPGA Lattice boards using open tools",
