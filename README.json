@@ -73,8 +73,8 @@
             "id": 118316091,
             "language": "Python",
             "license": "0BSD",
-            "last_commit": "2026-11-01T09:56:41Z",
-            "open_issues": 81,
+            "last_commit": "2026-11-02T18:38:20Z",
+            "open_issues": 82,
             "owner": "GlasgowEmbedded",
             "repo": "glasgow",
             "stars": 2229,
@@ -1153,6 +1153,27 @@
         },
         {
           "node_type": "item",
+          "title": "ARISE",
+          "description": "a low-cost UP5K development board inspired by Lattice's UltraPlus breakout, aimed at signal-processing and control education.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Low cost development board based on UP5K",
+            "homepage": null,
+            "id": 330916202,
+            "language": null,
+            "license": "CC0-1.0",
+            "last_commit": "2020-11-03T14:40:38Z",
+            "open_issues": 0,
+            "owner": "mfkiwl",
+            "repo": "arise-ice40up5k",
+            "stars": 7,
+            "topics": []
+          },
+          "first_seen": "2026-09-22T14:16:25.837Z"
+        },
+        {
+          "node_type": "item",
           "title": "ICE-dongle",
           "description": "USB-C Dongle with ice40 UP5k FPGA (outdated)",
           "children": [],
@@ -1171,27 +1192,6 @@
             "topics": []
           },
           "first_seen": "2026-08-28T21:02:34.186Z"
-        },
-        {
-          "node_type": "item",
-          "title": "ARISE",
-          "description": "a low-cost UP5K development board inspired by Lattice's UltraPlus breakout, aimed at signal-processing and control education.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Low cost development board based on UP5K",
-            "homepage": null,
-            "id": 330916202,
-            "language": null,
-            "license": "CC0-1.0",
-            "last_commit": "2020-11-03T14:40:38Z",
-            "open_issues": 0,
-            "owner": "mfkiwl",
-            "repo": "arise-ice40up5k",
-            "stars": 6,
-            "topics": []
-          },
-          "first_seen": "2026-09-22T14:16:25.837Z"
         },
         {
           "node_type": "item",
@@ -1321,7 +1321,7 @@
             "language": null,
             "license": null,
             "last_commit": "2026-09-08T13:19:49Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "novasteptech",
             "repo": "ice40-fpga-pico",
             "stars": 0,
@@ -1376,7 +1376,7 @@
             "open_issues": 4,
             "owner": "cheyao",
             "repo": "icepi-zero",
-            "stars": 865,
+            "stars": 866,
             "topics": [
               "development-board",
               "ecp5",
@@ -1447,7 +1447,7 @@
             "open_issues": 15,
             "owner": "wuxx",
             "repo": "icesugar-pro",
-            "stars": 220,
+            "stars": 221,
             "topics": []
           },
           "first_seen": "2026-09-22T14:16:25.837Z"
@@ -1872,7 +1872,7 @@
                 "open_issues": 7,
                 "owner": "wuxx",
                 "repo": "Colorlight-FPGA-Projects",
-                "stars": 371,
+                "stars": 372,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:02:34.186Z"
@@ -1889,7 +1889,7 @@
                 "id": 1392561578,
                 "language": "C",
                 "license": "BSD-2-Clause",
-                "last_commit": "2026-10-12T06:50:50Z",
+                "last_commit": "2026-11-02T18:07:20Z",
                 "open_issues": 1,
                 "owner": "enjoy-digital",
                 "repo": "camlink_4k",
@@ -1929,7 +1929,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T16:31:12.376Z",
+    "last_updated": "2026-11-02T19:54:15.702Z",
     "original_repository_info": {
       "archived": false,
       "description": ":book: List of FPGA Lattice boards using open tools",
