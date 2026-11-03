@@ -20,8 +20,8 @@
 
 ## HX4K
 
-* [Glasgow revC](https://github.com/GlasgowEmbedded/glasgow) ⭐ 2,229 | 🐛 82 | 🌐 Python | 📅 2026-11-02
-* [Graphics Gremlin](https://github.com/schlae/graphics-gremlin) ⭐ 581 | 🐛 10 | 🌐 Verilog | 📅 2024-10-24. The Graphics Gremlin is an FPGA-based ISA video card specifically designed to emulate certain old video standards. This initial release emulates the original IBM PC monochrome graphics adapter (MDA) as well as the original IBM color graphics adapter (CGA). Since the logic is defined by the bitstream loaded into the FPGA, new emulations may be available in the future to support other video standards.
+* [Glasgow revC](https://github.com/GlasgowEmbedded/glasgow) ⭐ 2,231 | 🐛 81 | 🌐 Python | 📅 2026-11-03
+* [Graphics Gremlin](https://github.com/schlae/graphics-gremlin) ⭐ 582 | 🐛 10 | 🌐 Verilog | 📅 2024-10-24. The Graphics Gremlin is an FPGA-based ISA video card specifically designed to emulate certain old video standards. This initial release emulates the original IBM PC monochrome graphics adapter (MDA) as well as the original IBM color graphics adapter (CGA). Since the logic is defined by the bitstream loaded into the FPGA, new emulations may be available in the future to support other video standards.
 * [Alhambra II](https://github.com/FPGAwars/Alhambra-II-FPGA) ⭐ 97 | 🐛 6 | 📅 2024-10-29 (FTDI)
 * [Azukar FPGA](https://github.com/maxisimonazzi/Azukar-FPGA) ⭐ 88 | 🐛 0 | 📅 2026-09-17 (FTDI, GPIO, 8 leds, 8 push buttons, 12 and 100 MHz oscillators, USB-C, usable as an 8k device in yosys) Azukar is an Open-source FPGA development board for education and digital design learning. Designed for accessibility, reproducibility and seamless integration with open FPGA toolchains for students, makers and academic environments.
 * [first-fpga-pcb](https://github.com/mattvenn/first-fpga-pcb) ⭐ 83 | 🐛 0 | 🌐 Verilog | 📅 2020-08-03 first @mattvenn.  6 PMODs + Raspberry Pi breakout. **(outdated)**
@@ -109,9 +109,9 @@
 
 * [PicoStation3D](https://github.com/Wren6991/PicoStation3D) ⭐ 50 | 🐛 1 | 🌐 C | 📅 2021-02-14. 3D games console based on RP2040 and iCE40 UP5k **(outdated)**
 
-* [Vision FPGA](https://github.com/tinyvision-ai-inc/Vision-FPGA-SoM) ⭐ 48 | 🐛 0 | 🌐 Verilog | 📅 2021-06-23 **(outdated)**
+* [lit3rick](https://github.com/kelu124/lit3rick/) ⭐ 48 | 🐛 0 | 🌐 Verilog | 📅 2024-07-16 - open source ultrasound pulse-echo raspberry pi hat shaped.
 
-* [lit3rick](https://github.com/kelu124/lit3rick/) ⭐ 47 | 🐛 0 | 🌐 Verilog | 📅 2024-07-16 - open source ultrasound pulse-echo raspberry pi hat shaped.
+* [Vision FPGA](https://github.com/tinyvision-ai-inc/Vision-FPGA-SoM) ⭐ 48 | 🐛 0 | 🌐 Verilog | 📅 2021-06-23 **(outdated)**
 
 * [icehat](https://github.com/emeb/icehat) ⭐ 29 | 🐛 0 | 🌐 KiCad | 📅 2017-01-27. - with [custom flashing code](https://github.com/emeb/icehat/tree/master/ice_tool) ⭐ 29 | 🐛 0 | 🌐 KiCad | 📅 2017-01-27 **(outdated)**
 
@@ -295,4 +295,4 @@ To the extent possible under law, [Kelu124](https://github.com/kelu124) has waiv
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-03._

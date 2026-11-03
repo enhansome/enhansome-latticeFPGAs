@@ -73,11 +73,11 @@
             "id": 118316091,
             "language": "Python",
             "license": "0BSD",
-            "last_commit": "2026-11-02T18:38:20Z",
-            "open_issues": 82,
+            "last_commit": "2026-11-03T03:22:58Z",
+            "open_issues": 81,
             "owner": "GlasgowEmbedded",
             "repo": "glasgow",
-            "stars": 2229,
+            "stars": 2231,
             "topics": [
               "debugging-tool",
               "fpga",
@@ -103,7 +103,7 @@
             "open_issues": 10,
             "owner": "schlae",
             "repo": "graphics-gremlin",
-            "stars": 581,
+            "stars": 582,
             "topics": []
           },
           "first_seen": "2026-08-28T21:02:34.186Z"
@@ -966,6 +966,34 @@
         },
         {
           "node_type": "item",
+          "title": "lit3rick",
+          "description": "open source ultrasound pulse-echo raspberry pi hat shaped.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "An up5k board to manage pulse-echo ultrasound acquisition.",
+            "homepage": null,
+            "id": 202138640,
+            "language": "Verilog",
+            "license": null,
+            "last_commit": "2024-07-16T09:50:37Z",
+            "open_issues": 0,
+            "owner": "kelu124",
+            "repo": "lit3rick",
+            "stars": 48,
+            "topics": [
+              "hardware",
+              "python",
+              "tapr",
+              "ultrasound",
+              "ultrasound-imaging",
+              "up5k"
+            ]
+          },
+          "first_seen": "2026-08-28T21:02:34.186Z"
+        },
+        {
+          "node_type": "item",
           "title": "Vision FPGA",
           "description": "(outdated)",
           "children": [],
@@ -982,34 +1010,6 @@
             "repo": "Vision-FPGA-SoM",
             "stars": 48,
             "topics": []
-          },
-          "first_seen": "2026-08-28T21:02:34.186Z"
-        },
-        {
-          "node_type": "item",
-          "title": "lit3rick",
-          "description": "open source ultrasound pulse-echo raspberry pi hat shaped.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "An up5k board to manage pulse-echo ultrasound acquisition.",
-            "homepage": null,
-            "id": 202138640,
-            "language": "Verilog",
-            "license": null,
-            "last_commit": "2024-07-16T09:50:37Z",
-            "open_issues": 0,
-            "owner": "kelu124",
-            "repo": "lit3rick",
-            "stars": 47,
-            "topics": [
-              "hardware",
-              "python",
-              "tapr",
-              "ultrasound",
-              "ultrasound-imaging",
-              "up5k"
-            ]
           },
           "first_seen": "2026-08-28T21:02:34.186Z"
         },
@@ -1929,7 +1929,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T19:54:15.702Z",
+    "last_updated": "2026-11-03T17:26:49.970Z",
     "original_repository_info": {
       "archived": false,
       "description": ":book: List of FPGA Lattice boards using open tools",
