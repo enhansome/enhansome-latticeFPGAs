@@ -5,7 +5,7 @@
 ## CrossLink-NX
 
 * [USB-C Industrial Camera](https://github.com/circuitvalley/USB_C_Industrial_Camera_FPGA_USB3) ⭐ 1,170 | 🐛 0 | 🌐 Verilog | 📅 2026-09-13 - an open-hardware USB Type-C industrial camera pairing a Cypress FX3 USB3 controller with a CrossLink-NX LIFCL-40.
-* [tinyCLUNX33](https://github.com/tinyvision-ai-inc/tinyclunx33) ⭐ 13 | 🐛 3 | 📅 2026-10-08 - a 25.4 mm MIPI-to-USB3 System-on-Module built on a Lattice CrossLinkU-NX FPGA running Zephyr, with an open toolchain. [Product](https://tinyvision.ai/pages/tinyclunx33-som-and-devkits).
+* [tinyCLUNX33](https://github.com/tinyvision-ai-inc/tinyclunx33) ⭐ 12 | 🐛 3 | 📅 2026-10-08 - a 25.4 mm MIPI-to-USB3 System-on-Module built on a Lattice CrossLinkU-NX FPGA running Zephyr, with an open toolchain. [Product](https://tinyvision.ai/pages/tinyclunx33-som-and-devkits).
 * [ArticKoala](https://www.hackster.io/news/greg-davill-s-at-it-again-say-hello-to-the-arctickoala-1f7ecbfa10af) by Greg Davill. LIFCL-40 CrossLink based.
 
 ## HX1K
@@ -185,7 +185,7 @@ Sidenote: [iCE40-UP5K/pinout.json](https://raw.githubusercontent.com/FPGAwars/ic
 * [Icepi Zero](https://github.com/cheyao/icepi-zero) ⭐ 866 | 🐛 4 | 🌐 HTML | 📅 2026-11-01 - ECP5 development board in a raspberry pi zero form . Includes an HDMI and uSD interface
 * [OrangeCrab](https://github.com/gregdavill/OrangeCrab) ⭐ 546 | 🐛 17 | 🌐 HTML | 📅 2024-11-06. ECP5 breakout board in a feather physical format.
 * [ButterStick](https://groupgets.com/products/butterstick-fpga-development-board) [Github](https://github.com/gregdavill/ButterStick) ⭐ 225 | 🐛 3 | 🌐 HTML | 📅 2023-09-18. SYZYGY + Eth.
-* [iCESugar-Pro](https://github.com/wuxx/icesugar-pro) ⭐ 221 | 🐛 15 | 🌐 Verilog | 📅 2025-09-16 - a DDR2-SODIMM-form-factor ECP5 (LFE5U-25F) board with 32MB SDRAM, \~106 IOs and an onboard debugger, supported by yosys/nextpnr.
+* [iCESugar-Pro](https://github.com/wuxx/icesugar-pro) ⭐ 222 | 🐛 15 | 🌐 Verilog | 📅 2025-09-16 - a DDR2-SODIMM-form-factor ECP5 (LFE5U-25F) board with 32MB SDRAM, \~106 IOs and an onboard debugger, supported by yosys/nextpnr.
 * [basic-ecp5-pcb](https://github.com/mattvenn/basic-ecp5-pcb) ⭐ 144 | 🐛 4 | 🌐 Verilog | 📅 2021-07-17. 6 PMODs + Raspberry Pi breakout. **(outdated)**
 * [LogicBone](https://github.com/oskirby/logicbone) ⭐ 124 | 🐛 9 | 🌐 KiCad Layout | 📅 2020-06-27. LFE5UM5G-45F-8BG381C + 8Gb DDR3L. **(outdated)**
 * [TrellisBoard](https://github.com/gatecat/TrellisBoard) ⭐ 123 | 🐛 7 | 🌐 ANTLR | 📅 2019-07-04. Largest ECP5: LFE5UM5G-85F, 2 x PCIe 2.0, M.2, 1GByte DDR3L, HDMI, 1000BASE-T GbE, microSD, Dual PMOD. **(outdated)**
@@ -217,7 +217,7 @@ Sidenote: [iCE40-UP5K/pinout.json](https://raw.githubusercontent.com/FPGAwars/ic
 ## Conference badges
 
 * [hadbadge 2019](https://github.com/Spritetm/hadbadge2019_fpgasoc) ⭐ 168 | 🐛 18 | 🌐 C | 📅 2023-11-30 (Hackaday Supercon 2019) - Sprite\_TM's Game Boy-shaped badge with an ECP5 (LFE5U-45F) running a RISC-V soft core on the open toolchain. [PCB](https://github.com/Spritetm/hadbadge2019_pcb) ⭐ 59 | 🐛 2 | 🌐 Makefile | 📅 2019-11-12.
-* [FPGA 101 Workshop Badge Board](https://github.com/mmicko/fpga101-workshop) ⭐ 82 | 🐛 0 | 🌐 C | 📅 2019-03-17 (FTDI) by mmicko. An iCE40 UP5K workshop badge (Hackaday Belgrade). **(outdated)**
+* [FPGA 101 Workshop Badge Board](https://github.com/mmicko/fpga101-workshop) ⭐ 81 | 🐛 0 | 🌐 C | 📅 2019-03-17 (FTDI) by mmicko. An iCE40 UP5K workshop badge (Hackaday Belgrade). **(outdated)**
 * [MCH2022 badge](https://github.com/badgeteam/mch2022-badge-hardware) ⚠️ Archived (May Contain Hackers 2022) - badge.team ESP32-S3 + RP2040 badge whose iCE40UP5K runs user gateware for video/IO. [FPGA examples](https://github.com/badgeteam/mch2022-firmware-ice40) ⭐ 14 | 🐛 0 | 🌐 Verilog | 📅 2022-11-14.
 * [DEF CON 28 DCFurs badge](https://github.com/defconfurs/dcfurs-badge-dc28) ⭐ 19 | 🐛 1 | 🌐 HTML | 📅 2021-07-07 (2020) - DEF CON furry-community badge with a RISC-V soft core and MEMS-mic voice reactivity on an iCE40 UltraPlus (UP5K).
 * [GreyBadge](https://github.com/NUSGreyhats/greybadge25) ⭐ 1 | 🐛 0 | 🌐 Verilog | 📅 2026-02-05 (GreyCTF 2025) - NUS Greyhats CTF badge pairing an RP2350 with an ECP5 (LFE5U-25) used as a hardware CTF challenge surface.
@@ -295,4 +295,4 @@ To the extent possible under law, [Kelu124](https://github.com/kelu124) has waiv
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-04._

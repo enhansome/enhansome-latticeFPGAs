@@ -50,7 +50,7 @@
             "open_issues": 3,
             "owner": "tinyvision-ai-inc",
             "repo": "tinyclunx33",
-            "stars": 13,
+            "stars": 12,
             "topics": []
           },
           "first_seen": "2026-09-22T14:16:25.837Z"
@@ -1447,7 +1447,7 @@
             "open_issues": 15,
             "owner": "wuxx",
             "repo": "icesugar-pro",
-            "stars": 221,
+            "stars": 222,
             "topics": []
           },
           "first_seen": "2026-09-22T14:16:25.837Z"
@@ -1715,7 +1715,7 @@
             "open_issues": 0,
             "owner": "mmicko",
             "repo": "fpga101-workshop",
-            "stars": 82,
+            "stars": 81,
             "topics": [
               "apio",
               "fpga",
@@ -1929,7 +1929,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T17:26:49.970Z",
+    "last_updated": "2026-11-04T17:39:53.378Z",
     "original_repository_info": {
       "archived": false,
       "description": ":book: List of FPGA Lattice boards using open tools",
