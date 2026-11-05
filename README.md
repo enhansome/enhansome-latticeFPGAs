@@ -20,7 +20,7 @@
 
 ## HX4K
 
-* [Glasgow revC](https://github.com/GlasgowEmbedded/glasgow) ⭐ 2,231 | 🐛 81 | 🌐 Python | 📅 2026-11-03
+* [Glasgow revC](https://github.com/GlasgowEmbedded/glasgow) ⭐ 2,233 | 🐛 81 | 🌐 Python | 📅 2026-11-03
 * [Graphics Gremlin](https://github.com/schlae/graphics-gremlin) ⭐ 582 | 🐛 10 | 🌐 Verilog | 📅 2024-10-24. The Graphics Gremlin is an FPGA-based ISA video card specifically designed to emulate certain old video standards. This initial release emulates the original IBM PC monochrome graphics adapter (MDA) as well as the original IBM color graphics adapter (CGA). Since the logic is defined by the bitstream loaded into the FPGA, new emulations may be available in the future to support other video standards.
 * [Alhambra II](https://github.com/FPGAwars/Alhambra-II-FPGA) ⭐ 97 | 🐛 6 | 📅 2024-10-29 (FTDI)
 * [Azukar FPGA](https://github.com/maxisimonazzi/Azukar-FPGA) ⭐ 88 | 🐛 0 | 📅 2026-09-17 (FTDI, GPIO, 8 leds, 8 push buttons, 12 and 100 MHz oscillators, USB-C, usable as an 8k device in yosys) Azukar is an Open-source FPGA development board for education and digital design learning. Designed for accessibility, reproducibility and seamless integration with open FPGA toolchains for students, makers and academic environments.
@@ -82,7 +82,7 @@
 
 ## LP8K
 
-* [TinyFPGA B-Series](https://github.com/tinyfpga/TinyFPGA-B-Series) ⭐ 201 | 🐛 6 | 🌐 Verilog | 📅 2021-11-10 - the original open-source TinyFPGA boards: B2 (iCE40 LP8K) and B1 (iCE40 LP4K), booting from SPI flash over USB.
+* [TinyFPGA B-Series](https://github.com/tinyfpga/TinyFPGA-B-Series) ⭐ 202 | 🐛 6 | 🌐 Verilog | 📅 2021-11-10 - the original open-source TinyFPGA boards: B2 (iCE40 LP8K) and B1 (iCE40 LP4K), booting from SPI flash over USB.
 * [TinyFPGA BX](https://www.crowdsupply.com/tinyfpga/tinyfpga-bx) (Serial)
 
 ## UL1K
@@ -181,8 +181,8 @@ Sidenote: [iCE40-UP5K/pinout.json](https://raw.githubusercontent.com/FPGAwars/ic
 
 ## ECP5
 
-* [LUNA](https://github.com/greatscottgadgets/luna) ⭐ 1,143 | 🐛 32 | 🌐 Python | 📅 2026-10-30. A USB multitool for monitoring, hacking, and developing USB devices (work in progress). [crowdsupply](https://www.crowdsupply.com/great-scott-gadgets/luna).
-* [Icepi Zero](https://github.com/cheyao/icepi-zero) ⭐ 866 | 🐛 4 | 🌐 HTML | 📅 2026-11-01 - ECP5 development board in a raspberry pi zero form . Includes an HDMI and uSD interface
+* [LUNA](https://github.com/greatscottgadgets/luna) ⭐ 1,144 | 🐛 32 | 🌐 Python | 📅 2026-10-30. A USB multitool for monitoring, hacking, and developing USB devices (work in progress). [crowdsupply](https://www.crowdsupply.com/great-scott-gadgets/luna).
+* [Icepi Zero](https://github.com/cheyao/icepi-zero) ⭐ 867 | 🐛 4 | 🌐 HTML | 📅 2026-11-01 - ECP5 development board in a raspberry pi zero form . Includes an HDMI and uSD interface
 * [OrangeCrab](https://github.com/gregdavill/OrangeCrab) ⭐ 546 | 🐛 17 | 🌐 HTML | 📅 2024-11-06. ECP5 breakout board in a feather physical format.
 * [ButterStick](https://groupgets.com/products/butterstick-fpga-development-board) [Github](https://github.com/gregdavill/ButterStick) ⭐ 225 | 🐛 3 | 🌐 HTML | 📅 2023-09-18. SYZYGY + Eth.
 * [iCESugar-Pro](https://github.com/wuxx/icesugar-pro) ⭐ 222 | 🐛 15 | 🌐 Verilog | 📅 2025-09-16 - a DDR2-SODIMM-form-factor ECP5 (LFE5U-25F) board with 32MB SDRAM, \~106 IOs and an onboard debugger, supported by yosys/nextpnr.
@@ -220,7 +220,7 @@ Sidenote: [iCE40-UP5K/pinout.json](https://raw.githubusercontent.com/FPGAwars/ic
 * [FPGA 101 Workshop Badge Board](https://github.com/mmicko/fpga101-workshop) ⭐ 81 | 🐛 0 | 🌐 C | 📅 2019-03-17 (FTDI) by mmicko. An iCE40 UP5K workshop badge (Hackaday Belgrade). **(outdated)**
 * [MCH2022 badge](https://github.com/badgeteam/mch2022-badge-hardware) ⚠️ Archived (May Contain Hackers 2022) - badge.team ESP32-S3 + RP2040 badge whose iCE40UP5K runs user gateware for video/IO. [FPGA examples](https://github.com/badgeteam/mch2022-firmware-ice40) ⭐ 14 | 🐛 0 | 🌐 Verilog | 📅 2022-11-14.
 * [DEF CON 28 DCFurs badge](https://github.com/defconfurs/dcfurs-badge-dc28) ⭐ 19 | 🐛 1 | 🌐 HTML | 📅 2021-07-07 (2020) - DEF CON furry-community badge with a RISC-V soft core and MEMS-mic voice reactivity on an iCE40 UltraPlus (UP5K).
-* [GreyBadge](https://github.com/NUSGreyhats/greybadge25) ⭐ 1 | 🐛 0 | 🌐 Verilog | 📅 2026-02-05 (GreyCTF 2025) - NUS Greyhats CTF badge pairing an RP2350 with an ECP5 (LFE5U-25) used as a hardware CTF challenge surface.
+* [GreyBadge](https://github.com/NUSGreyhats/greybadge25) ⭐ 2 | 🐛 0 | 🌐 Verilog | 📅 2026-02-05 (GreyCTF 2025) - NUS Greyhats CTF badge pairing an RP2350 with an ECP5 (LFE5U-25) used as a hardware CTF challenge surface.
 
 ## Other commercial products
 
@@ -295,4 +295,4 @@ To the extent possible under law, [Kelu124](https://github.com/kelu124) has waiv
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-05._
