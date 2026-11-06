@@ -1347,7 +1347,7 @@
             "id": 215722076,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-30T20:41:46Z",
+            "last_commit": "2026-11-06T00:08:25Z",
             "open_issues": 32,
             "owner": "greatscottgadgets",
             "repo": "luna",
@@ -1376,7 +1376,7 @@
             "open_issues": 4,
             "owner": "cheyao",
             "repo": "icepi-zero",
-            "stars": 867,
+            "stars": 869,
             "topics": [
               "development-board",
               "ecp5",
@@ -1893,7 +1893,7 @@
                 "open_issues": 1,
                 "owner": "enjoy-digital",
                 "repo": "camlink_4k",
-                "stars": 28,
+                "stars": 29,
                 "topics": []
               },
               "first_seen": "2026-10-05T18:58:25.708Z"
@@ -1929,7 +1929,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T17:46:45.623Z",
+    "last_updated": "2026-11-06T17:03:03.351Z",
     "original_repository_info": {
       "archived": false,
       "description": ":book: List of FPGA Lattice boards using open tools",
