@@ -73,11 +73,11 @@
             "id": 118316091,
             "language": "Python",
             "license": "0BSD",
-            "last_commit": "2026-11-03T03:22:58Z",
+            "last_commit": "2026-11-06T21:51:11Z",
             "open_issues": 81,
             "owner": "GlasgowEmbedded",
             "repo": "glasgow",
-            "stars": 2233,
+            "stars": 2234,
             "topics": [
               "debugging-tool",
               "fpga",
@@ -1405,7 +1405,7 @@
             "open_issues": 17,
             "owner": "orangecrab-fpga",
             "repo": "orangecrab-hardware",
-            "stars": 546,
+            "stars": 547,
             "topics": []
           },
           "first_seen": "2026-08-28T21:02:34.186Z"
@@ -1872,7 +1872,7 @@
                 "open_issues": 7,
                 "owner": "wuxx",
                 "repo": "Colorlight-FPGA-Projects",
-                "stars": 372,
+                "stars": 373,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:02:34.186Z"
@@ -1929,7 +1929,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T17:03:03.351Z",
+    "last_updated": "2026-11-07T15:59:04.997Z",
     "original_repository_info": {
       "archived": false,
       "description": ":book: List of FPGA Lattice boards using open tools",
