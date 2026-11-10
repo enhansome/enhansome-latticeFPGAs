@@ -68,7 +68,7 @@
 
 ## LP1K
 
-* [CaribouLite](https://github.com/cariboulabs/cariboulite) ⭐ 1,346 | 🐛 116 | 🌐 C | 📅 2025-07-24 - open-source SDR platform ( CaribouLite utilizes the SMI (Secondary Memory Interface)  ).
+* [CaribouLite](https://github.com/cariboulabs/cariboulite) ⭐ 1,348 | 🐛 116 | 🌐 C | 📅 2025-07-24 - open-source SDR platform ( CaribouLite utilizes the SMI (Secondary Memory Interface)  ).
 * [iCESugar-nano](https://github.com/wuxx/icesugar-nano) ⭐ 153 | 🐛 8 | 🌐 Verilog | 📅 2025-09-16 - iCESugar FPGA Board base on iCE40LP1K-CM36
 
 ## LP4K
@@ -93,7 +93,7 @@
 
 * [ICESugar FPGA](https://github.com/wuxx/icesugar) ⭐ 463 | 🐛 11 | 🌐 Verilog | 📅 2026-07-31 - iCESugar FPGA Board base on iCE40UP5k. [Website](https://www.muselab-tech.com/zai-icesugarshang-yun-xing-muraxsoc/) [repo](https://github.com/wuxx/icesugar) ⭐ 463 | 🐛 11 | 🌐 Verilog | 📅 2026-07-31. V1.5 so far. Aliexpress: <https://www.aliexpress.com/item/4001201771358.html>
 
-* [UPDuino V3.1](https://github.com/tinyvision-ai-inc/UPduino-v3.0) ⭐ 366 | 🐛 20 | 🌐 HTML | 📅 2026-07-21 FTDI FT232H and 4MB qSPI Flash. [WebSite](https://tinyvision.ai/products/fpga-development-board-upduino-v3-1) [Documentation](https://upduino.readthedocs.io/en/latest/).
+* [UPDuino V3.1](https://github.com/tinyvision-ai-inc/UPduino-v3.0) ⭐ 364 | 🐛 20 | 🌐 HTML | 📅 2026-07-21 FTDI FT232H and 4MB qSPI Flash. [WebSite](https://tinyvision.ai/products/fpga-development-board-upduino-v3-1) [Documentation](https://upduino.readthedocs.io/en/latest/).
 
 * [Pico ICE](https://github.com/tinyvision-ai-inc/pico-ice) ⭐ 203 | 🐛 6 | 🌐 HTML | 📅 2025-07-04. Raspberry Pi RP2040, two 4MB SPI Flash chips, 8MB qSPI SSRAM. [Web site](https://tinyvision.ai/products/pico-ice-fpga-trainer-board)  [Documentation](https://pico-ice.tinyvision.ai/).
 
@@ -103,7 +103,7 @@
 
 * [SingularitySurfer](https://github.com/SingularitySurfer/SingularitySurfer-FPGA-Lock-In-Amplifier) ⭐ 81 | 🐛 0 | 🌐 AGS Script | 📅 2023-05-11: An FPGA Lock-In Amplifier **(outdated)**
 
-* [pico2-ice](https://github.com/tinyvision-ai-inc/pico2-ice) ⭐ 60 | 🐛 4 | 🌐 HTML | 📅 2025-07-04 - pairs a Raspberry Pi RP2350 with a Lattice iCE40 UP5K, with independent flash, low-power PSRAM, buttons and Pmod-arranged headers (the RP2350 successor to Pico ICE).
+* [pico2-ice](https://github.com/tinyvision-ai-inc/pico2-ice) ⭐ 61 | 🐛 4 | 🌐 HTML | 📅 2025-07-04 - pairs a Raspberry Pi RP2350 with a Lattice iCE40 UP5K, with independent flash, low-power PSRAM, buttons and Pmod-arranged headers (the RP2350 successor to Pico ICE).
 
 * [betrusted-ec](https://github.com/betrusted-io/betrusted-ec) ⭐ 50 | 🐛 2 | 🌐 Rust | 📅 2023-12-22 -  The embedded controller (EC) is a UP5K FPGA responsible for secondary power management functions, and for intermediating between the trusted comms port on the SoC and the untrusted wifi stack.
 
@@ -115,7 +115,7 @@
 
 * [icehat](https://github.com/emeb/icehat) ⭐ 29 | 🐛 0 | 🌐 KiCad | 📅 2017-01-27. - with [custom flashing code](https://github.com/emeb/icehat/tree/master/ice_tool) ⭐ 29 | 🐛 0 | 🌐 KiCad | 📅 2017-01-27 **(outdated)**
 
-* [iCE40-feather](https://github.com/joshajohnson/iCE40-feather) ⭐ 26 | 🐛 0 | 🌐 HTML | 📅 2022-08-11. Revision 0.2 was designed in 2021. **(outdated)**
+* [iCE40-feather](https://github.com/joshajohnson/iCE40-feather) ⭐ 27 | 🐛 0 | 🌐 HTML | 📅 2022-08-11. Revision 0.2 was designed in 2021. **(outdated)**
 
 * [iCEboy](https://github.com/rniwase/iCEboy) ⭐ 16 | 🐛 0 | 🌐 KiCad Layout | 📅 2026-06-16 Nintendo Gameboy cartridge-shaped FPGA (Lattice iCE40UP5K) development board
 
@@ -181,11 +181,11 @@ Sidenote: [iCE40-UP5K/pinout.json](https://raw.githubusercontent.com/FPGAwars/ic
 
 ## ECP5
 
-* [LUNA](https://github.com/greatscottgadgets/luna) ⭐ 1,144 | 🐛 32 | 🌐 Python | 📅 2026-11-06. A USB multitool for monitoring, hacking, and developing USB devices (work in progress). [crowdsupply](https://www.crowdsupply.com/great-scott-gadgets/luna).
+* [LUNA](https://github.com/greatscottgadgets/luna) ⭐ 1,145 | 🐛 32 | 🌐 Python | 📅 2026-11-06. A USB multitool for monitoring, hacking, and developing USB devices (work in progress). [crowdsupply](https://www.crowdsupply.com/great-scott-gadgets/luna).
 * [Icepi Zero](https://github.com/cheyao/icepi-zero) ⭐ 870 | 🐛 4 | 🌐 HTML | 📅 2026-11-01 - ECP5 development board in a raspberry pi zero form . Includes an HDMI and uSD interface
 * [OrangeCrab](https://github.com/gregdavill/OrangeCrab) ⭐ 548 | 🐛 17 | 🌐 HTML | 📅 2024-11-06. ECP5 breakout board in a feather physical format.
 * [ButterStick](https://groupgets.com/products/butterstick-fpga-development-board) [Github](https://github.com/gregdavill/ButterStick) ⭐ 225 | 🐛 3 | 🌐 HTML | 📅 2023-09-18. SYZYGY + Eth.
-* [iCESugar-Pro](https://github.com/wuxx/icesugar-pro) ⭐ 222 | 🐛 15 | 🌐 Verilog | 📅 2025-09-16 - a DDR2-SODIMM-form-factor ECP5 (LFE5U-25F) board with 32MB SDRAM, \~106 IOs and an onboard debugger, supported by yosys/nextpnr.
+* [iCESugar-Pro](https://github.com/wuxx/icesugar-pro) ⭐ 223 | 🐛 15 | 🌐 Verilog | 📅 2025-09-16 - a DDR2-SODIMM-form-factor ECP5 (LFE5U-25F) board with 32MB SDRAM, \~106 IOs and an onboard debugger, supported by yosys/nextpnr.
 * [basic-ecp5-pcb](https://github.com/mattvenn/basic-ecp5-pcb) ⭐ 144 | 🐛 4 | 🌐 Verilog | 📅 2021-07-17. 6 PMODs + Raspberry Pi breakout. **(outdated)**
 * [LogicBone](https://github.com/oskirby/logicbone) ⭐ 124 | 🐛 9 | 🌐 KiCad Layout | 📅 2020-06-27. LFE5UM5G-45F-8BG381C + 8Gb DDR3L. **(outdated)**
 * [TrellisBoard](https://github.com/gatecat/TrellisBoard) ⭐ 123 | 🐛 7 | 🌐 ANTLR | 📅 2019-07-04. Largest ECP5: LFE5UM5G-85F, 2 x PCIe 2.0, M.2, 1GByte DDR3L, HDMI, 1000BASE-T GbE, microSD, Dual PMOD. **(outdated)**
@@ -295,4 +295,4 @@ To the extent possible under law, [Kelu124](https://github.com/kelu124) has waiv
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-10._
