@@ -20,7 +20,7 @@
 
 ## HX4K
 
-* [Glasgow revC](https://github.com/GlasgowEmbedded/glasgow) ⭐ 2,236 | 🐛 82 | 🌐 Python | 📅 2026-11-09
+* [Glasgow revC](https://github.com/GlasgowEmbedded/glasgow) ⭐ 2,236 | 🐛 86 | 🌐 Python | 📅 2026-11-09
 * [Graphics Gremlin](https://github.com/schlae/graphics-gremlin) ⭐ 582 | 🐛 10 | 🌐 Verilog | 📅 2024-10-24. The Graphics Gremlin is an FPGA-based ISA video card specifically designed to emulate certain old video standards. This initial release emulates the original IBM PC monochrome graphics adapter (MDA) as well as the original IBM color graphics adapter (CGA). Since the logic is defined by the bitstream loaded into the FPGA, new emulations may be available in the future to support other video standards.
 * [Alhambra II](https://github.com/FPGAwars/Alhambra-II-FPGA) ⭐ 97 | 🐛 6 | 📅 2024-10-29 (FTDI)
 * [Azukar FPGA](https://github.com/maxisimonazzi/Azukar-FPGA) ⭐ 88 | 🐛 0 | 📅 2026-09-17 (FTDI, GPIO, 8 leds, 8 push buttons, 12 and 100 MHz oscillators, USB-C, usable as an 8k device in yosys) Azukar is an Open-source FPGA development board for education and digital design learning. Designed for accessibility, reproducibility and seamless integration with open FPGA toolchains for students, makers and academic environments.
@@ -121,7 +121,7 @@
 
 * [pi\_smi\_up5k](https://github.com/braingram/pi_smi_up5k/blob/main/lattice_fpga_dev_board/lattice_fpga_dev_board_pcb.pdf) ⭐ 16 | 🐛 0 | 🌐 Python | 📅 2020-11-11. Lattice ice40 up5k Raspberry Pi hat designed for using the secondary memory interface (SMI). **(outdated)**
 
-* [ICE40UPDevBoard](https://github.com/aslak3/ICE40UPDevBoard) ⭐ 10 | 🐛 0 | 🌐 HTML | 📅 2024-02-02 - a development board for the iCE40 UP5K with SPI routing borrowed from Lattice's UltraPlus breakout.
+* [ICE40UPDevBoard](https://github.com/aslak3/ICE40UPDevBoard) ⭐ 11 | 🐛 0 | 🌐 HTML | 📅 2024-02-02 - a development board for the iCE40 UP5K with SPI routing borrowed from Lattice's UltraPlus breakout.
 
 * [ICEBreaker Bitsy](https://1bitsquared.de/products/icebreaker-bitsy)
   [Github](https://github.com/esden/icebreaker/tree/master/hardware/bitsy-v1.1a) ⭐ 9 | 🐛 0 | 📅 2020-09-09 The iCEBreaker Bitsy FPGA board is an open-source educational FPGA development board in the [Teensy form factor](https://www.pjrc.com/teensy/).  A crowd supply campaign, not yet shipping.  (No FTDI)
@@ -185,9 +185,9 @@ Sidenote: [iCE40-UP5K/pinout.json](https://raw.githubusercontent.com/FPGAwars/ic
 * [Icepi Zero](https://github.com/cheyao/icepi-zero) ⭐ 870 | 🐛 4 | 🌐 HTML | 📅 2026-11-01 - ECP5 development board in a raspberry pi zero form . Includes an HDMI and uSD interface
 * [OrangeCrab](https://github.com/gregdavill/OrangeCrab) ⭐ 548 | 🐛 17 | 🌐 HTML | 📅 2024-11-06. ECP5 breakout board in a feather physical format.
 * [ButterStick](https://groupgets.com/products/butterstick-fpga-development-board) [Github](https://github.com/gregdavill/ButterStick) ⭐ 225 | 🐛 3 | 🌐 HTML | 📅 2023-09-18. SYZYGY + Eth.
-* [iCESugar-Pro](https://github.com/wuxx/icesugar-pro) ⭐ 223 | 🐛 15 | 🌐 Verilog | 📅 2025-09-16 - a DDR2-SODIMM-form-factor ECP5 (LFE5U-25F) board with 32MB SDRAM, \~106 IOs and an onboard debugger, supported by yosys/nextpnr.
+* [iCESugar-Pro](https://github.com/wuxx/icesugar-pro) ⭐ 224 | 🐛 15 | 🌐 Verilog | 📅 2025-09-16 - a DDR2-SODIMM-form-factor ECP5 (LFE5U-25F) board with 32MB SDRAM, \~106 IOs and an onboard debugger, supported by yosys/nextpnr.
 * [basic-ecp5-pcb](https://github.com/mattvenn/basic-ecp5-pcb) ⭐ 144 | 🐛 4 | 🌐 Verilog | 📅 2021-07-17. 6 PMODs + Raspberry Pi breakout. **(outdated)**
-* [LogicBone](https://github.com/oskirby/logicbone) ⭐ 124 | 🐛 9 | 🌐 KiCad Layout | 📅 2020-06-27. LFE5UM5G-45F-8BG381C + 8Gb DDR3L. **(outdated)**
+* [LogicBone](https://github.com/oskirby/logicbone) ⭐ 125 | 🐛 9 | 🌐 KiCad Layout | 📅 2020-06-27. LFE5UM5G-45F-8BG381C + 8Gb DDR3L. **(outdated)**
 * [TrellisBoard](https://github.com/gatecat/TrellisBoard) ⭐ 123 | 🐛 7 | 🌐 ANTLR | 📅 2019-07-04. Largest ECP5: LFE5UM5G-85F, 2 x PCIe 2.0, M.2, 1GByte DDR3L, HDMI, 1000BASE-T GbE, microSD, Dual PMOD. **(outdated)**
 * [ECP5-mini](https://github.com/joshajohnson/ecp5-mini) ⭐ 93 | 🐛 1 | 🌐 HTML | 📅 2021-08-13. Interesting [writeup](https://www.hackster.io/news/josh-johnson-takes-us-back-to-black-mesa-labs-with-his-ecp5-fpga-development-board-4e2b22665841). **(outdated)**
 * [Pergola](https://github.com/pergola-fpga/pergola) ⭐ 81 | 🐛 1 | 🌐 Python | 📅 2020-09-01. Lattice ECP5 and an iMX RT MCU. **(outdated)**
@@ -220,7 +220,7 @@ Sidenote: [iCE40-UP5K/pinout.json](https://raw.githubusercontent.com/FPGAwars/ic
 * [FPGA 101 Workshop Badge Board](https://github.com/mmicko/fpga101-workshop) ⭐ 81 | 🐛 0 | 🌐 C | 📅 2019-03-17 (FTDI) by mmicko. An iCE40 UP5K workshop badge (Hackaday Belgrade). **(outdated)**
 * [MCH2022 badge](https://github.com/badgeteam/mch2022-badge-hardware) ⚠️ Archived (May Contain Hackers 2022) - badge.team ESP32-S3 + RP2040 badge whose iCE40UP5K runs user gateware for video/IO. [FPGA examples](https://github.com/badgeteam/mch2022-firmware-ice40) ⭐ 14 | 🐛 0 | 🌐 Verilog | 📅 2022-11-14.
 * [DEF CON 28 DCFurs badge](https://github.com/defconfurs/dcfurs-badge-dc28) ⭐ 19 | 🐛 1 | 🌐 HTML | 📅 2021-07-07 (2020) - DEF CON furry-community badge with a RISC-V soft core and MEMS-mic voice reactivity on an iCE40 UltraPlus (UP5K).
-* [GreyBadge](https://github.com/NUSGreyhats/greybadge25) ⭐ 2 | 🐛 0 | 🌐 Verilog | 📅 2026-02-05 (GreyCTF 2025) - NUS Greyhats CTF badge pairing an RP2350 with an ECP5 (LFE5U-25) used as a hardware CTF challenge surface.
+* [GreyBadge](https://github.com/NUSGreyhats/greybadge25) ⭐ 2 | 🐛 1 | 🌐 Verilog | 📅 2026-11-11 (GreyCTF 2025) - NUS Greyhats CTF badge pairing an RP2350 with an ECP5 (LFE5U-25) used as a hardware CTF challenge surface.
 
 ## Other commercial products
 
@@ -295,4 +295,4 @@ To the extent possible under law, [Kelu124](https://github.com/kelu124) has waiv
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-11._

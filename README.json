@@ -74,7 +74,7 @@
             "language": "Python",
             "license": "0BSD",
             "last_commit": "2026-11-09T18:17:32Z",
-            "open_issues": 82,
+            "open_issues": 86,
             "owner": "GlasgowEmbedded",
             "repo": "glasgow",
             "stars": 2236,
@@ -1120,7 +1120,7 @@
             "open_issues": 0,
             "owner": "aslak3",
             "repo": "ICE40UPDevBoard",
-            "stars": 10,
+            "stars": 11,
             "topics": [
               "devboard",
               "fpga",
@@ -1447,7 +1447,7 @@
             "open_issues": 15,
             "owner": "wuxx",
             "repo": "icesugar-pro",
-            "stars": 223,
+            "stars": 224,
             "topics": []
           },
           "first_seen": "2026-09-22T14:16:25.837Z"
@@ -1493,7 +1493,7 @@
             "open_issues": 9,
             "owner": "oskirby",
             "repo": "logicbone",
-            "stars": 124,
+            "stars": 125,
             "topics": []
           },
           "first_seen": "2026-08-28T21:02:34.186Z"
@@ -1790,8 +1790,8 @@
             "id": 935389599,
             "language": "Verilog",
             "license": null,
-            "last_commit": "2026-02-05T03:47:43Z",
-            "open_issues": 0,
+            "last_commit": "2026-11-11T11:58:38Z",
+            "open_issues": 1,
             "owner": "NUSGreyhats",
             "repo": "greybadge25",
             "stars": 2,
@@ -1929,7 +1929,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T17:23:38.055Z",
+    "last_updated": "2026-11-11T17:35:26.075Z",
     "original_repository_info": {
       "archived": false,
       "description": ":book: List of FPGA Lattice boards using open tools",
@@ -1941,7 +1941,7 @@
       "open_issues": 0,
       "owner": "kelu124",
       "repo": "awesome-latticeFPGAs",
-      "stars": 363,
+      "stars": 364,
       "topics": [
         "awesome",
         "awesome-list",
