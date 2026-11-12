@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "circuitvalley",
             "repo": "USB_C_Industrial_Camera_FPGA_USB3",
-            "stars": 1170,
+            "stars": 1171,
             "topics": [
               "camera",
               "csi",
@@ -77,7 +77,7 @@
             "open_issues": 86,
             "owner": "GlasgowEmbedded",
             "repo": "glasgow",
-            "stars": 2236,
+            "stars": 2237,
             "topics": [
               "debugging-tool",
               "fpga",
@@ -756,7 +756,7 @@
             "open_issues": 6,
             "owner": "tinyfpga",
             "repo": "TinyFPGA-B-Series",
-            "stars": 202,
+            "stars": 201,
             "topics": []
           },
           "first_seen": "2026-09-22T14:16:25.837Z"
@@ -1447,7 +1447,7 @@
             "open_issues": 15,
             "owner": "wuxx",
             "repo": "icesugar-pro",
-            "stars": 224,
+            "stars": 225,
             "topics": []
           },
           "first_seen": "2026-09-22T14:16:25.837Z"
@@ -1929,7 +1929,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T17:35:26.075Z",
+    "last_updated": "2026-11-12T17:48:22.553Z",
     "original_repository_info": {
       "archived": false,
       "description": ":book: List of FPGA Lattice boards using open tools",

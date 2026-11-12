@@ -4,7 +4,7 @@
 
 ## CrossLink-NX
 
-* [USB-C Industrial Camera](https://github.com/circuitvalley/USB_C_Industrial_Camera_FPGA_USB3) ⭐ 1,170 | 🐛 0 | 🌐 Verilog | 📅 2026-09-13 - an open-hardware USB Type-C industrial camera pairing a Cypress FX3 USB3 controller with a CrossLink-NX LIFCL-40.
+* [USB-C Industrial Camera](https://github.com/circuitvalley/USB_C_Industrial_Camera_FPGA_USB3) ⭐ 1,171 | 🐛 0 | 🌐 Verilog | 📅 2026-09-13 - an open-hardware USB Type-C industrial camera pairing a Cypress FX3 USB3 controller with a CrossLink-NX LIFCL-40.
 * [tinyCLUNX33](https://github.com/tinyvision-ai-inc/tinyclunx33) ⭐ 12 | 🐛 3 | 📅 2026-10-08 - a 25.4 mm MIPI-to-USB3 System-on-Module built on a Lattice CrossLinkU-NX FPGA running Zephyr, with an open toolchain. [Product](https://tinyvision.ai/pages/tinyclunx33-som-and-devkits).
 * [ArticKoala](https://www.hackster.io/news/greg-davill-s-at-it-again-say-hello-to-the-arctickoala-1f7ecbfa10af) by Greg Davill. LIFCL-40 CrossLink based.
 
@@ -20,7 +20,7 @@
 
 ## HX4K
 
-* [Glasgow revC](https://github.com/GlasgowEmbedded/glasgow) ⭐ 2,236 | 🐛 86 | 🌐 Python | 📅 2026-11-09
+* [Glasgow revC](https://github.com/GlasgowEmbedded/glasgow) ⭐ 2,237 | 🐛 86 | 🌐 Python | 📅 2026-11-09
 * [Graphics Gremlin](https://github.com/schlae/graphics-gremlin) ⭐ 582 | 🐛 10 | 🌐 Verilog | 📅 2024-10-24. The Graphics Gremlin is an FPGA-based ISA video card specifically designed to emulate certain old video standards. This initial release emulates the original IBM PC monochrome graphics adapter (MDA) as well as the original IBM color graphics adapter (CGA). Since the logic is defined by the bitstream loaded into the FPGA, new emulations may be available in the future to support other video standards.
 * [Alhambra II](https://github.com/FPGAwars/Alhambra-II-FPGA) ⭐ 97 | 🐛 6 | 📅 2024-10-29 (FTDI)
 * [Azukar FPGA](https://github.com/maxisimonazzi/Azukar-FPGA) ⭐ 88 | 🐛 0 | 📅 2026-09-17 (FTDI, GPIO, 8 leds, 8 push buttons, 12 and 100 MHz oscillators, USB-C, usable as an 8k device in yosys) Azukar is an Open-source FPGA development board for education and digital design learning. Designed for accessibility, reproducibility and seamless integration with open FPGA toolchains for students, makers and academic environments.
@@ -82,7 +82,7 @@
 
 ## LP8K
 
-* [TinyFPGA B-Series](https://github.com/tinyfpga/TinyFPGA-B-Series) ⭐ 202 | 🐛 6 | 🌐 Verilog | 📅 2021-11-10 - the original open-source TinyFPGA boards: B2 (iCE40 LP8K) and B1 (iCE40 LP4K), booting from SPI flash over USB.
+* [TinyFPGA B-Series](https://github.com/tinyfpga/TinyFPGA-B-Series) ⭐ 201 | 🐛 6 | 🌐 Verilog | 📅 2021-11-10 - the original open-source TinyFPGA boards: B2 (iCE40 LP8K) and B1 (iCE40 LP4K), booting from SPI flash over USB.
 * [TinyFPGA BX](https://www.crowdsupply.com/tinyfpga/tinyfpga-bx) (Serial)
 
 ## UL1K
@@ -176,7 +176,7 @@ Sidenote: [iCE40-UP5K/pinout.json](https://raw.githubusercontent.com/FPGAwars/ic
 
 * [Lattice MachXO2-1200HC FPGA Core Board](https://www.tindie.com/products/novasteptech/lattice-machxo2-1200hc-fpga-core-board/) - a tiny LCMXO2-1200HC core module with an onboard USB programmer, UART, 14 GPIOs and 12 MHz clock.
 * [STEP-MXO2](https://www.tindie.com/products/evoinmotion/fpga-development-board-step-mxo2/) - a breadboard-friendly 40-pin DIP LCMXO2-4000HC education board with USB-JTAG, displays, RGB LEDs, buttons and switches.
-* [TinyFPGA A-Series](https://github.com/tinyfpga/TinyFPGA-A-Series) ⭐ 104 | 🐛 4 | 🌐 TeX | 📅 2021-11-10 - tiny, breadboard-friendly bare-bones MachXO2 breakout boards programmed over JTAG (A1: MachXO2-256, A2: MachXO2-1200).
+* [TinyFPGA A-Series](https://github.com/tinyfpga/TinyFPGA-A-Series) ⭐ 103 | 🐛 4 | 🌐 TeX | 📅 2021-11-10 - tiny, breadboard-friendly bare-bones MachXO2 breakout boards programmed over JTAG (A1: MachXO2-256, A2: MachXO2-1200).
 * [VHDL Training Board](https://www.tindie.com/products/microwavemont/vhdl-training-board-by-fpga/) - a LCMXO2-1200HC prototyping board aimed at VHDL learning.
 
 ## ECP5
@@ -185,7 +185,7 @@ Sidenote: [iCE40-UP5K/pinout.json](https://raw.githubusercontent.com/FPGAwars/ic
 * [Icepi Zero](https://github.com/cheyao/icepi-zero) ⭐ 870 | 🐛 4 | 🌐 HTML | 📅 2026-11-01 - ECP5 development board in a raspberry pi zero form . Includes an HDMI and uSD interface
 * [OrangeCrab](https://github.com/gregdavill/OrangeCrab) ⭐ 548 | 🐛 17 | 🌐 HTML | 📅 2024-11-06. ECP5 breakout board in a feather physical format.
 * [ButterStick](https://groupgets.com/products/butterstick-fpga-development-board) [Github](https://github.com/gregdavill/ButterStick) ⭐ 225 | 🐛 3 | 🌐 HTML | 📅 2023-09-18. SYZYGY + Eth.
-* [iCESugar-Pro](https://github.com/wuxx/icesugar-pro) ⭐ 224 | 🐛 15 | 🌐 Verilog | 📅 2025-09-16 - a DDR2-SODIMM-form-factor ECP5 (LFE5U-25F) board with 32MB SDRAM, \~106 IOs and an onboard debugger, supported by yosys/nextpnr.
+* [iCESugar-Pro](https://github.com/wuxx/icesugar-pro) ⭐ 225 | 🐛 15 | 🌐 Verilog | 📅 2025-09-16 - a DDR2-SODIMM-form-factor ECP5 (LFE5U-25F) board with 32MB SDRAM, \~106 IOs and an onboard debugger, supported by yosys/nextpnr.
 * [basic-ecp5-pcb](https://github.com/mattvenn/basic-ecp5-pcb) ⭐ 144 | 🐛 4 | 🌐 Verilog | 📅 2021-07-17. 6 PMODs + Raspberry Pi breakout. **(outdated)**
 * [LogicBone](https://github.com/oskirby/logicbone) ⭐ 125 | 🐛 9 | 🌐 KiCad Layout | 📅 2020-06-27. LFE5UM5G-45F-8BG381C + 8Gb DDR3L. **(outdated)**
 * [TrellisBoard](https://github.com/gatecat/TrellisBoard) ⭐ 123 | 🐛 7 | 🌐 ANTLR | 📅 2019-07-04. Largest ECP5: LFE5UM5G-85F, 2 x PCIe 2.0, M.2, 1GByte DDR3L, HDMI, 1000BASE-T GbE, microSD, Dual PMOD. **(outdated)**
@@ -295,4 +295,4 @@ To the extent possible under law, [Kelu124](https://github.com/kelu124) has waiv
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-12._
