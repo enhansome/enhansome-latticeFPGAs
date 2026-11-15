@@ -103,7 +103,7 @@
             "open_issues": 10,
             "owner": "schlae",
             "repo": "graphics-gremlin",
-            "stars": 582,
+            "stars": 583,
             "topics": []
           },
           "first_seen": "2026-08-28T21:02:34.186Z"
@@ -668,7 +668,7 @@
             "open_issues": 116,
             "owner": "cariboulabs",
             "repo": "cariboulite",
-            "stars": 1348,
+            "stars": 1349,
             "topics": [
               "defined",
               "fpga",
@@ -1376,7 +1376,7 @@
             "open_issues": 4,
             "owner": "cheyao",
             "repo": "icepi-zero",
-            "stars": 870,
+            "stars": 872,
             "topics": [
               "development-board",
               "ecp5",
@@ -1929,7 +1929,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T16:15:13.034Z",
+    "last_updated": "2026-11-15T16:43:11.261Z",
     "original_repository_info": {
       "archived": false,
       "description": ":book: List of FPGA Lattice boards using open tools",
