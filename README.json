@@ -73,7 +73,7 @@
             "id": 118316091,
             "language": "Python",
             "license": "0BSD",
-            "last_commit": "2026-11-09T18:17:32Z",
+            "last_commit": "2026-11-16T18:15:48Z",
             "open_issues": 86,
             "owner": "GlasgowEmbedded",
             "repo": "glasgow",
@@ -665,7 +665,7 @@
             "language": "C",
             "license": null,
             "last_commit": "2025-07-24T17:35:47Z",
-            "open_issues": 116,
+            "open_issues": 117,
             "owner": "cariboulabs",
             "repo": "cariboulite",
             "stars": 1349,
@@ -783,7 +783,7 @@
             "open_issues": 11,
             "owner": "wuxx",
             "repo": "icesugar",
-            "stars": 463,
+            "stars": 462,
             "topics": []
           },
           "first_seen": "2026-08-28T21:02:34.186Z"
@@ -1351,7 +1351,7 @@
             "open_issues": 32,
             "owner": "greatscottgadgets",
             "repo": "luna",
-            "stars": 1146,
+            "stars": 1145,
             "topics": [
               "fpga",
               "hardware",
@@ -1376,7 +1376,7 @@
             "open_issues": 4,
             "owner": "cheyao",
             "repo": "icepi-zero",
-            "stars": 872,
+            "stars": 873,
             "topics": [
               "development-board",
               "ecp5",
@@ -1851,7 +1851,7 @@
                 "open_issues": 33,
                 "owner": "q3k",
                 "repo": "chubby75",
-                "stars": 649,
+                "stars": 650,
                 "topics": []
               },
               "first_seen": "2026-09-22T14:16:25.837Z"
@@ -1929,7 +1929,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T16:43:11.261Z",
+    "last_updated": "2026-11-16T19:57:02.201Z",
     "original_repository_info": {
       "archived": false,
       "description": ":book: List of FPGA Lattice boards using open tools",
