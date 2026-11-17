@@ -73,11 +73,11 @@
             "id": 118316091,
             "language": "Python",
             "license": "0BSD",
-            "last_commit": "2026-11-16T18:15:48Z",
-            "open_issues": 86,
+            "last_commit": "2026-11-17T05:09:06Z",
+            "open_issues": 84,
             "owner": "GlasgowEmbedded",
             "repo": "glasgow",
-            "stars": 2239,
+            "stars": 2241,
             "topics": [
               "debugging-tool",
               "fpga",
@@ -804,7 +804,7 @@
             "open_issues": 20,
             "owner": "tinyvision-ai-inc",
             "repo": "UPduino-v3.0",
-            "stars": 364,
+            "stars": 365,
             "topics": []
           },
           "first_seen": "2026-08-28T21:02:34.186Z"
@@ -917,7 +917,7 @@
             "open_issues": 4,
             "owner": "tinyvision-ai-inc",
             "repo": "pico2-ice",
-            "stars": 61,
+            "stars": 62,
             "topics": []
           },
           "first_seen": "2026-09-22T14:16:25.837Z"
@@ -1347,7 +1347,7 @@
             "id": 215722076,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-11-06T00:08:25Z",
+            "last_commit": "2026-11-17T16:44:56Z",
             "open_issues": 32,
             "owner": "greatscottgadgets",
             "repo": "luna",
@@ -1373,7 +1373,7 @@
             "language": "HTML",
             "license": "NOASSERTION",
             "last_commit": "2026-11-01T15:18:17Z",
-            "open_issues": 4,
+            "open_issues": 5,
             "owner": "cheyao",
             "repo": "icepi-zero",
             "stars": 873,
@@ -1412,6 +1412,27 @@
         },
         {
           "node_type": "item",
+          "title": "iCESugar-Pro",
+          "description": "a DDR2-SODIMM-form-factor ECP5 (LFE5U-25F) board with 32MB SDRAM, ~106 IOs and an onboard debugger, supported by yosys/nextpnr.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "iCESugar series FPGA dev board",
+            "homepage": null,
+            "id": 309937041,
+            "language": "Verilog",
+            "license": null,
+            "last_commit": "2025-09-16T01:11:43Z",
+            "open_issues": 15,
+            "owner": "wuxx",
+            "repo": "icesugar-pro",
+            "stars": 226,
+            "topics": []
+          },
+          "first_seen": "2026-09-22T14:16:25.837Z"
+        },
+        {
+          "node_type": "item",
           "title": "ButterStick",
           "description": "Github. SYZYGY + Eth.",
           "children": [],
@@ -1430,27 +1451,6 @@
             "topics": []
           },
           "first_seen": "2026-08-28T21:02:34.186Z"
-        },
-        {
-          "node_type": "item",
-          "title": "iCESugar-Pro",
-          "description": "a DDR2-SODIMM-form-factor ECP5 (LFE5U-25F) board with 32MB SDRAM, ~106 IOs and an onboard debugger, supported by yosys/nextpnr.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "iCESugar series FPGA dev board",
-            "homepage": null,
-            "id": 309937041,
-            "language": "Verilog",
-            "license": null,
-            "last_commit": "2025-09-16T01:11:43Z",
-            "open_issues": 15,
-            "owner": "wuxx",
-            "repo": "icesugar-pro",
-            "stars": 225,
-            "topics": []
-          },
-          "first_seen": "2026-09-22T14:16:25.837Z"
         },
         {
           "node_type": "item",
@@ -1872,7 +1872,7 @@
                 "open_issues": 7,
                 "owner": "wuxx",
                 "repo": "Colorlight-FPGA-Projects",
-                "stars": 373,
+                "stars": 374,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:02:34.186Z"
@@ -1929,7 +1929,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T19:57:02.201Z",
+    "last_updated": "2026-11-17T18:52:58.852Z",
     "original_repository_info": {
       "archived": false,
       "description": ":book: List of FPGA Lattice boards using open tools",
