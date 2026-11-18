@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "circuitvalley",
             "repo": "USB_C_Industrial_Camera_FPGA_USB3",
-            "stars": 1170,
+            "stars": 1172,
             "topics": [
               "camera",
               "csi",
@@ -668,7 +668,7 @@
             "open_issues": 117,
             "owner": "cariboulabs",
             "repo": "cariboulite",
-            "stars": 1349,
+            "stars": 1350,
             "topics": [
               "defined",
               "fpga",
@@ -1372,11 +1372,11 @@
             "id": 973244112,
             "language": "HTML",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-01T15:18:17Z",
-            "open_issues": 5,
+            "last_commit": "2026-11-17T21:54:15Z",
+            "open_issues": 4,
             "owner": "cheyao",
             "repo": "icepi-zero",
-            "stars": 873,
+            "stars": 875,
             "topics": [
               "development-board",
               "ecp5",
@@ -1423,7 +1423,7 @@
             "language": "Verilog",
             "license": null,
             "last_commit": "2025-09-16T01:11:43Z",
-            "open_issues": 15,
+            "open_issues": 16,
             "owner": "wuxx",
             "repo": "icesugar-pro",
             "stars": 226,
@@ -1929,7 +1929,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T18:52:58.852Z",
+    "last_updated": "2026-11-18T18:30:48.346Z",
     "original_repository_info": {
       "archived": false,
       "description": ":book: List of FPGA Lattice boards using open tools",

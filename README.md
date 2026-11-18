@@ -4,7 +4,7 @@
 
 ## CrossLink-NX
 
-* [USB-C Industrial Camera](https://github.com/circuitvalley/USB_C_Industrial_Camera_FPGA_USB3) ⭐ 1,170 | 🐛 0 | 🌐 Verilog | 📅 2026-09-13 - an open-hardware USB Type-C industrial camera pairing a Cypress FX3 USB3 controller with a CrossLink-NX LIFCL-40.
+* [USB-C Industrial Camera](https://github.com/circuitvalley/USB_C_Industrial_Camera_FPGA_USB3) ⭐ 1,172 | 🐛 0 | 🌐 Verilog | 📅 2026-09-13 - an open-hardware USB Type-C industrial camera pairing a Cypress FX3 USB3 controller with a CrossLink-NX LIFCL-40.
 * [tinyCLUNX33](https://github.com/tinyvision-ai-inc/tinyclunx33) ⭐ 12 | 🐛 3 | 📅 2026-10-08 - a 25.4 mm MIPI-to-USB3 System-on-Module built on a Lattice CrossLinkU-NX FPGA running Zephyr, with an open toolchain. [Product](https://tinyvision.ai/pages/tinyclunx33-som-and-devkits).
 * [ArticKoala](https://www.hackster.io/news/greg-davill-s-at-it-again-say-hello-to-the-arctickoala-1f7ecbfa10af) by Greg Davill. LIFCL-40 CrossLink based.
 
@@ -68,7 +68,7 @@
 
 ## LP1K
 
-* [CaribouLite](https://github.com/cariboulabs/cariboulite) ⭐ 1,349 | 🐛 117 | 🌐 C | 📅 2025-07-24 - open-source SDR platform ( CaribouLite utilizes the SMI (Secondary Memory Interface)  ).
+* [CaribouLite](https://github.com/cariboulabs/cariboulite) ⭐ 1,350 | 🐛 117 | 🌐 C | 📅 2025-07-24 - open-source SDR platform ( CaribouLite utilizes the SMI (Secondary Memory Interface)  ).
 * [iCESugar-nano](https://github.com/wuxx/icesugar-nano) ⭐ 153 | 🐛 8 | 🌐 Verilog | 📅 2025-09-16 - iCESugar FPGA Board base on iCE40LP1K-CM36
 
 ## LP4K
@@ -182,9 +182,9 @@ Sidenote: [iCE40-UP5K/pinout.json](https://raw.githubusercontent.com/FPGAwars/ic
 ## ECP5
 
 * [LUNA](https://github.com/greatscottgadgets/luna) ⭐ 1,145 | 🐛 32 | 🌐 Python | 📅 2026-11-17. A USB multitool for monitoring, hacking, and developing USB devices (work in progress). [crowdsupply](https://www.crowdsupply.com/great-scott-gadgets/luna).
-* [Icepi Zero](https://github.com/cheyao/icepi-zero) ⭐ 873 | 🐛 5 | 🌐 HTML | 📅 2026-11-01 - ECP5 development board in a raspberry pi zero form . Includes an HDMI and uSD interface
+* [Icepi Zero](https://github.com/cheyao/icepi-zero) ⭐ 875 | 🐛 4 | 🌐 HTML | 📅 2026-11-17 - ECP5 development board in a raspberry pi zero form . Includes an HDMI and uSD interface
 * [OrangeCrab](https://github.com/gregdavill/OrangeCrab) ⭐ 547 | 🐛 17 | 🌐 HTML | 📅 2024-11-06. ECP5 breakout board in a feather physical format.
-* [iCESugar-Pro](https://github.com/wuxx/icesugar-pro) ⭐ 226 | 🐛 15 | 🌐 Verilog | 📅 2025-09-16 - a DDR2-SODIMM-form-factor ECP5 (LFE5U-25F) board with 32MB SDRAM, \~106 IOs and an onboard debugger, supported by yosys/nextpnr.
+* [iCESugar-Pro](https://github.com/wuxx/icesugar-pro) ⭐ 226 | 🐛 16 | 🌐 Verilog | 📅 2025-09-16 - a DDR2-SODIMM-form-factor ECP5 (LFE5U-25F) board with 32MB SDRAM, \~106 IOs and an onboard debugger, supported by yosys/nextpnr.
 * [ButterStick](https://groupgets.com/products/butterstick-fpga-development-board) [Github](https://github.com/gregdavill/ButterStick) ⭐ 225 | 🐛 3 | 🌐 HTML | 📅 2023-09-18. SYZYGY + Eth.
 * [basic-ecp5-pcb](https://github.com/mattvenn/basic-ecp5-pcb) ⭐ 144 | 🐛 4 | 🌐 Verilog | 📅 2021-07-17. 6 PMODs + Raspberry Pi breakout. **(outdated)**
 * [LogicBone](https://github.com/oskirby/logicbone) ⭐ 125 | 🐛 9 | 🌐 KiCad Layout | 📅 2020-06-27. LFE5UM5G-45F-8BG381C + 8Gb DDR3L. **(outdated)**
@@ -295,4 +295,4 @@ To the extent possible under law, [Kelu124](https://github.com/kelu124) has waiv
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-18._
