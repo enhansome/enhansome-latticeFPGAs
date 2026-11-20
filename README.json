@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "circuitvalley",
             "repo": "USB_C_Industrial_Camera_FPGA_USB3",
-            "stars": 1172,
+            "stars": 1171,
             "topics": [
               "camera",
               "csi",
@@ -73,7 +73,7 @@
             "id": 118316091,
             "language": "Python",
             "license": "0BSD",
-            "last_commit": "2026-11-19T12:45:19Z",
+            "last_commit": "2026-11-20T14:04:22Z",
             "open_issues": 84,
             "owner": "GlasgowEmbedded",
             "repo": "glasgow",
@@ -103,7 +103,7 @@
             "open_issues": 10,
             "owner": "schlae",
             "repo": "graphics-gremlin",
-            "stars": 583,
+            "stars": 582,
             "topics": []
           },
           "first_seen": "2026-08-28T21:02:34.186Z"
@@ -1351,7 +1351,7 @@
             "open_issues": 32,
             "owner": "greatscottgadgets",
             "repo": "luna",
-            "stars": 1146,
+            "stars": 1147,
             "topics": [
               "fpga",
               "hardware",
@@ -1376,7 +1376,7 @@
             "open_issues": 4,
             "owner": "cheyao",
             "repo": "icepi-zero",
-            "stars": 875,
+            "stars": 876,
             "topics": [
               "development-board",
               "ecp5",
@@ -1851,7 +1851,7 @@
                 "open_issues": 33,
                 "owner": "q3k",
                 "repo": "chubby75",
-                "stars": 650,
+                "stars": 651,
                 "topics": []
               },
               "first_seen": "2026-09-22T14:16:25.837Z"
@@ -1890,7 +1890,7 @@
                 "language": "C",
                 "license": "BSD-2-Clause",
                 "last_commit": "2026-11-02T18:07:20Z",
-                "open_issues": 1,
+                "open_issues": 4,
                 "owner": "enjoy-digital",
                 "repo": "camlink_4k",
                 "stars": 29,
@@ -1929,7 +1929,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T18:44:54.016Z",
+    "last_updated": "2026-11-20T18:10:41.986Z",
     "original_repository_info": {
       "archived": false,
       "description": ":book: List of FPGA Lattice boards using open tools",
