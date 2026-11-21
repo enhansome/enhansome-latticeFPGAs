@@ -73,11 +73,11 @@
             "id": 118316091,
             "language": "Python",
             "license": "0BSD",
-            "last_commit": "2026-11-20T14:04:22Z",
+            "last_commit": "2026-11-21T12:57:57Z",
             "open_issues": 84,
             "owner": "GlasgowEmbedded",
             "repo": "glasgow",
-            "stars": 2240,
+            "stars": 2242,
             "topics": [
               "debugging-tool",
               "fpga",
@@ -702,7 +702,7 @@
             "open_issues": 8,
             "owner": "wuxx",
             "repo": "icesugar-nano",
-            "stars": 153,
+            "stars": 154,
             "topics": []
           },
           "first_seen": "2026-08-28T21:02:34.186Z"
@@ -779,7 +779,7 @@
             "id": 236272177,
             "language": "Verilog",
             "license": null,
-            "last_commit": "2026-07-31T02:22:52Z",
+            "last_commit": "2026-11-21T10:42:43Z",
             "open_issues": 11,
             "owner": "wuxx",
             "repo": "icesugar",
@@ -1890,7 +1890,7 @@
                 "language": "C",
                 "license": "BSD-2-Clause",
                 "last_commit": "2026-11-02T18:07:20Z",
-                "open_issues": 4,
+                "open_issues": 5,
                 "owner": "enjoy-digital",
                 "repo": "camlink_4k",
                 "stars": 29,
@@ -1929,7 +1929,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T18:10:41.986Z",
+    "last_updated": "2026-11-21T17:01:15.881Z",
     "original_repository_info": {
       "archived": false,
       "description": ":book: List of FPGA Lattice boards using open tools",
@@ -1941,7 +1941,7 @@
       "open_issues": 0,
       "owner": "kelu124",
       "repo": "awesome-latticeFPGAs",
-      "stars": 366,
+      "stars": 365,
       "topics": [
         "awesome",
         "awesome-list",
