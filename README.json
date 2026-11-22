@@ -73,7 +73,7 @@
             "id": 118316091,
             "language": "Python",
             "license": "0BSD",
-            "last_commit": "2026-11-21T12:57:57Z",
+            "last_commit": "2026-11-22T15:24:26Z",
             "open_issues": 84,
             "owner": "GlasgowEmbedded",
             "repo": "glasgow",
@@ -783,7 +783,7 @@
             "open_issues": 11,
             "owner": "wuxx",
             "repo": "icesugar",
-            "stars": 463,
+            "stars": 464,
             "topics": []
           },
           "first_seen": "2026-08-28T21:02:34.186Z"
@@ -1535,7 +1535,7 @@
             "open_issues": 1,
             "owner": "joshajohnson",
             "repo": "ecp5-mini",
-            "stars": 93,
+            "stars": 92,
             "topics": []
           },
           "first_seen": "2026-08-28T21:02:34.186Z"
@@ -1890,7 +1890,7 @@
                 "language": "C",
                 "license": "BSD-2-Clause",
                 "last_commit": "2026-11-02T18:07:20Z",
-                "open_issues": 5,
+                "open_issues": 1,
                 "owner": "enjoy-digital",
                 "repo": "camlink_4k",
                 "stars": 29,
@@ -1929,7 +1929,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T17:01:15.881Z",
+    "last_updated": "2026-11-22T17:31:25.520Z",
     "original_repository_info": {
       "archived": false,
       "description": ":book: List of FPGA Lattice boards using open tools",
