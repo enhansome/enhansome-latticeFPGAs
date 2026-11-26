@@ -68,7 +68,7 @@
 
 ## LP1K
 
-* [CaribouLite](https://github.com/cariboulabs/cariboulite) ⭐ 1,350 | 🐛 117 | 🌐 C | 📅 2025-07-24 - open-source SDR platform ( CaribouLite utilizes the SMI (Secondary Memory Interface)  ).
+* [CaribouLite](https://github.com/cariboulabs/cariboulite) ⭐ 1,352 | 🐛 117 | 🌐 C | 📅 2025-07-24 - open-source SDR platform ( CaribouLite utilizes the SMI (Secondary Memory Interface)  ).
 * [iCESugar-nano](https://github.com/wuxx/icesugar-nano) ⭐ 154 | 🐛 8 | 🌐 Verilog | 📅 2025-09-16 - iCESugar FPGA Board base on iCE40LP1K-CM36
 
 ## LP4K
@@ -97,7 +97,7 @@
 
 * [Pico ICE](https://github.com/tinyvision-ai-inc/pico-ice) ⭐ 204 | 🐛 6 | 🌐 HTML | 📅 2025-07-04. Raspberry Pi RP2040, two 4MB SPI Flash chips, 8MB qSPI SSRAM. [Web site](https://tinyvision.ai/products/pico-ice-fpga-trainer-board)  [Documentation](https://pico-ice.tinyvision.ai/).
 
-* [reDIP SID](https://github.com/daglem/reDIP-SID) ⭐ 121 | 🐛 1 | 🌐 SystemVerilog | 📅 2024-09-23. The reDIP SID provides a fully functional open source hardware platform for MOS 6581/8580 SID emulation. The reDIP SID also aims to be a good no-frills generic choice for FPGA projects which may find use for audio and/or 5V tolerant I/O - it should be ideal for for e.g. retro computer and synthesizer projects.
+* [reDIP SID](https://github.com/daglem/reDIP-SID) ⭐ 122 | 🐛 1 | 🌐 SystemVerilog | 📅 2024-09-23. The reDIP SID provides a fully functional open source hardware platform for MOS 6581/8580 SID emulation. The reDIP SID also aims to be a good no-frills generic choice for FPGA projects which may find use for audio and/or 5V tolerant I/O - it should be ideal for for e.g. retro computer and synthesizer projects.
 
 * [Doppler](https://github.com/dadamachines/doppler) ⭐ 87 | 🐛 7 | 📅 2019-03-22. Cortex M4F Microcontroller + FPGA development board. **(outdated)**
 
@@ -181,7 +181,7 @@ Sidenote: [iCE40-UP5K/pinout.json](https://raw.githubusercontent.com/FPGAwars/ic
 
 ## ECP5
 
-* [LUNA](https://github.com/greatscottgadgets/luna) ⭐ 1,147 | 🐛 33 | 🌐 Python | 📅 2026-11-17. A USB multitool for monitoring, hacking, and developing USB devices (work in progress). [crowdsupply](https://www.crowdsupply.com/great-scott-gadgets/luna).
+* [LUNA](https://github.com/greatscottgadgets/luna) ⭐ 1,148 | 🐛 33 | 🌐 Python | 📅 2026-11-17. A USB multitool for monitoring, hacking, and developing USB devices (work in progress). [crowdsupply](https://www.crowdsupply.com/great-scott-gadgets/luna).
 * [Icepi Zero](https://github.com/cheyao/icepi-zero) ⭐ 877 | 🐛 4 | 🌐 HTML | 📅 2026-11-17 - ECP5 development board in a raspberry pi zero form . Includes an HDMI and uSD interface
 * [OrangeCrab](https://github.com/gregdavill/OrangeCrab) ⭐ 548 | 🐛 17 | 🌐 HTML | 📅 2024-11-06. ECP5 breakout board in a feather physical format.
 * [iCESugar-Pro](https://github.com/wuxx/icesugar-pro) ⭐ 227 | 🐛 16 | 🌐 Verilog | 📅 2025-09-16 - a DDR2-SODIMM-form-factor ECP5 (LFE5U-25F) board with 32MB SDRAM, \~106 IOs and an onboard debugger, supported by yosys/nextpnr.
@@ -295,4 +295,4 @@ To the extent possible under law, [Kelu124](https://github.com/kelu124) has waiv
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-26._

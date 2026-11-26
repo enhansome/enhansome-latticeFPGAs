@@ -668,7 +668,7 @@
             "open_issues": 117,
             "owner": "cariboulabs",
             "repo": "cariboulite",
-            "stars": 1350,
+            "stars": 1352,
             "topics": [
               "defined",
               "fpga",
@@ -846,7 +846,7 @@
             "open_issues": 1,
             "owner": "daglem",
             "repo": "reDIP-SID",
-            "stars": 121,
+            "stars": 122,
             "topics": []
           },
           "first_seen": "2026-08-28T21:02:34.186Z"
@@ -1351,7 +1351,7 @@
             "open_issues": 33,
             "owner": "greatscottgadgets",
             "repo": "luna",
-            "stars": 1147,
+            "stars": 1148,
             "topics": [
               "fpga",
               "hardware",
@@ -1929,7 +1929,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T19:40:44.404Z",
+    "last_updated": "2026-11-26T19:21:42.734Z",
     "original_repository_info": {
       "archived": false,
       "description": ":book: List of FPGA Lattice boards using open tools",
